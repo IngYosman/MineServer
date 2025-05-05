@@ -16704,3 +16704,37 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05May2025 00:31:19.683] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.CorruptedFrameException: length wider than 21-bit
 [05May2025 00:33:01.015] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [05May2025 00:33:01.015] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05May2025 00:33:09.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:33:09.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 00:33:51.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Fisherman's Lodge]
+[05May2025 00:33:53.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Fisherman's Lodge]
+[05May2025 00:33:56.540] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:33:56.540] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 47 bytes extra whilst reading packet 0
+[05May2025 00:34:05.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [The Cutest Predator]
+[05May2025 00:35:08.325] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-557, y=73, z=80}
+[05May2025 00:35:09.456] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-557, y=73, z=80}
+[05May2025 00:35:10.748] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-557, y=73, z=80}
+[05May2025 00:35:11.328] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-557, y=73, z=80}
+[05May2025 00:35:11.676] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-557, y=73, z=80}
+[05May2025 00:35:12.192] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-557, y=73, z=80}
+[05May2025 00:35:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Sweet Dreams]
+[05May2025 00:36:21.215] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05May2025 00:38:09.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:38:09.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 00:39:41.115] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[05May2025 00:40:23.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Crops of the Wild]
+[05May2025 00:41:13.411] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:41:13.412] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 129 bytes extra whilst reading packet 0
+[05May2025 00:41:13.412] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 90 out of bounds for length 51
+[05May2025 00:41:13.412] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 157888697 out of bounds for length 51
+[05May2025 00:41:13.412] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 841642 out of bounds for length 51
+[05May2025 00:41:13.412] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 76 out of bounds for length 51
+[05May2025 00:41:52.042] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:41:52.042] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 85 bytes extra whilst reading packet 0
+[05May2025 00:41:52.043] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 112 out of bounds for length 51
+[05May2025 00:41:52.043] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 721225 out of bounds for length 51
+[05May2025 00:41:52.043] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 56 out of bounds for length 51
+[05May2025 00:43:01.065] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[05May2025 00:43:01.065] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05May2025 00:43:09.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:43:09.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
