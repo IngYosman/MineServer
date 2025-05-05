@@ -20,6 +20,9 @@
 	#Allow the Mechanical Saw to process entire stacks at a time.
 	bulkCutting = false
 	#.
+	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
+	allowBrewingInMixer = true
+	#.
 	#Allow any shapeless crafting recipes to be processed by a Mechanical Mixer + Basin.
 	allowShapelessInMixer = true
 	#.
@@ -28,6 +31,10 @@
 	#.
 	#Allow any standard crafting recipes to be processed by Mechanical Crafters.
 	allowRegularCraftingInCrafter = true
+	#.
+	#The Maximum amount of ingredients that can be used to craft Firework Rockets using Mechanical Crafters.
+	#Range: > 1
+	maxFireworkIngredientsInCrafter = 9
 	#.
 	#Allow any stonecutting recipes to be processed by a Mechanical Saw.
 	allowStonecuttingOnSaw = true
@@ -38,6 +45,9 @@
 	#Allow Spouts to interact with Casting Tables and Basins from Tinkers' Construct.
 	allowCastingBySpout = true
 	#.
+	#Display vanilla Log-stripping interactions in JEI.
+	displayLogStrippingRecipes = true
+	#.
 	#The amount of Light sources destroyed before Chromatic Compound turns into Refined Radiance.
 	#Range: > 1
 	lightSourceCountForRefinedRadiance = 10
@@ -47,16 +57,6 @@
 	#.
 	#Allow the standard in-world Shadow Steel recipe.
 	enableShadowSteelRecipe = true
-	#.
-	#Display vanilla Log-stripping interactions in JEI.
-	displayLogStrippingRecipes = true
-	#.
-	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
-	allowBrewingInMixer = true
-	#.
-	#The Maximum amount of ingredients that can be used to craft Firework Rockets using Mechanical Crafters.
-	#Range: > 1
-	maxFireworkIngredientsInCrafter = 9
 
 #.
 #Parameters and abilities of Create's kinetic mechanisms
@@ -75,23 +75,7 @@
 	crushingDamage = 4
 	#.
 	#[in Revolutions per Minute]
-	#Maximum allowed speed of a configurable motor.
-	#[@cui:RequiresReload:both]
-	#Range: > 64
-	maxMotorSpeed = 256
-	#.
-	#[in Revolutions per Minute]
-	#Added rotation speed by a water wheel when at least one flow is present.
-	#Range: > 1
-	waterWheelBaseSpeed = 4
-	#.
-	#[in Revolutions per Minute]
-	#Rotation speed gained by a water wheel for each side with running fluids. (halved if not against blades)
-	#Range: > 1
-	waterWheelFlowSpeed = 4
-	#.
-	#[in Revolutions per Minute]
-	#Maximum allowed rotation speed for any Kinetic Tile.
+	#Maximum allowed rotation speed for any Kinetic Block.
 	#Range: > 64
 	maxRotationSpeed = 256
 	#.
@@ -146,7 +130,7 @@
 		#.
 		#Game ticks required for a Fan-based processing recipe to take effect.
 		#Range: > 0
-		inWorldProcessingTime = 150
+		fanProcessingTime = 150
 
 	#.
 	#Moving Contraptions
@@ -155,6 +139,13 @@
 		#Maximum amount of blocks in a structure movable by Pistons, Bearings or other means.
 		#Range: > 1
 		maxBlocksMoved = 2048
+		#.
+		#[in Bytes]
+		#[0 to disable this limit]
+		#Maximum amount of data a contraption can have before it can't be synced with players.
+		#Un-synced contraptions will not be visible and will not have collision.
+		#Range: > 0
+		maxDataSize = 2000000
 		#.
 		#Maximum value of a chassis attachment range.
 		#Range: > 1
@@ -172,9 +163,16 @@
 		#Range: > 1
 		maxCartCouplingLength = 32
 		#.
+		#Maximum depth of blocks filled in using a Mechanical Roller.
+		#Range: > 1
+		rollerFillDepth = 12
+		#.
+		#Whether minecart contraptions can be picked up in survival mode.
+		survivalContraptionPickup = true
+		#.
 		#Configure how Spawner blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableSpawners = "MOVABLE"
+		movableSpawners = "NO_PICKUP"
 		#.
 		#Configure how Budding Amethyst can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
@@ -183,6 +181,10 @@
 		#Configure how Obsidian blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
 		movableObsidian = "UNMOVABLE"
+		#.
+		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
+		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
+		movableReinforcedDeepslate = "UNMOVABLE"
 		#.
 		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
 		moveItemsToStorage = true
@@ -193,19 +195,46 @@
 		#Whether harvesters should replant crops after harvesting.
 		harvesterReplants = true
 		#.
-		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
-		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableReinforcedDeepslate = "UNMOVABLE"
+		#Whether minecart contraptions can be placed into container items.
+		minecartContraptionInContainers = false
 		#.
-		#[in Bytes]
-		#[0 to disable this limit]
-		#Maximum amount of data a contraption can have before it can't be synced with players.
-		#Un-synced contraptions will not be visible and will not have collision.
-		#Range: > 0
-		maxDataSize = 2000000
+		#Whether stabilised bearings create a separated entity even on non-rotating contraptions.
+		#[Technical]
+		stabiliseStableContraptions = false
+
+	#.
+	#Configure speed/capacity levels for requirements and indicators.
+	[kinetics.stats]
 		#.
-		#Whether minecart contraptions can be picked up in survival mode.
-		survivalContraptionPickup = true
+		#[in Revolutions per Minute]
+		#Minimum speed of rotation to be considered 'medium'
+		#Range: 0.0 ~ 4096.0
+		mediumSpeed = 30.0
+		#.
+		#[in Revolutions per Minute]
+		#Minimum speed of rotation to be considered 'fast'
+		#Range: 0.0 ~ 65535.0
+		fastSpeed = 100.0
+		#.
+		#[in Stress Units]
+		#Minimum stress impact to be considered 'medium'
+		#Range: 0.0 ~ 4096.0
+		mediumStressImpact = 4.0
+		#.
+		#[in Stress Units]
+		#Minimum stress impact to be considered 'high'
+		#Range: 0.0 ~ 65535.0
+		highStressImpact = 8.0
+		#.
+		#[in Stress Units]
+		#Minimum added Capacity by sources to be considered 'medium'
+		#Range: 0.0 ~ 4096.0
+		mediumCapacity = 256.0
+		#.
+		#[in Stress Units]
+		#Minimum added Capacity by sources to be considered 'high'
+		#Range: 0.0 ~ 65535.0
+		highCapacity = 1024.0
 
 	[kinetics.stressValues]
 
@@ -218,6 +247,7 @@
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
 			[kinetics.stressValues.v2.impact]
+				display_board = 0.0
 				deployer = 4.0
 				mechanical_piston = 4.0
 				millstone = 4.0
@@ -239,6 +269,7 @@
 				rope_pulley = 4.0
 				rotation_speed_controller = 0.0
 				mechanical_arm = 2.0
+				netherite_backtank = 4.0
 				andesite_encased_shaft = 0.0
 				mechanical_press = 8.0
 				large_cogwheel = 0.0
@@ -247,8 +278,8 @@
 				brass_encased_large_cogwheel = 0.0
 				mysterious_cuckoo_clock = 1.0
 				stressometer = 0.0
-				shaft = 0.0
 				brass_encased_shaft = 0.0
+				shaft = 0.0
 				gearshift = 0.0
 				turntable = 4.0
 				sticky_mechanical_piston = 4.0
@@ -257,72 +288,23 @@
 				cogwheel = 0.0
 				andesite_encased_cogwheel = 0.0
 				belt = 0.0
-				brass_encased_cogwheel = 0.0
 				gearbox = 0.0
+				brass_encased_cogwheel = 0.0
 				hose_pulley = 4.0
+				elevator_pulley = 4.0
 				mechanical_crafter = 2.0
-				display_board = 0.0
 
 			#.
 			#[in Stress Units]
 			#Configure how much stress a source can accommodate for.
 			[kinetics.stressValues.v2.capacity]
-				hand_crank = 8.0
-				creative_motor = 16384.0
-				water_wheel = 16.0
-				windmill_bearing = 512.0
-				blue_valve_handle = 8.0
 				copper_valve_handle = 8.0
-				pink_valve_handle = 8.0
-				black_valve_handle = 8.0
-				magenta_valve_handle = 8.0
-				white_valve_handle = 8.0
-				yellow_valve_handle = 8.0
-				brown_valve_handle = 8.0
-				cyan_valve_handle = 8.0
-				light_blue_valve_handle = 8.0
-				lime_valve_handle = 8.0
-				purple_valve_handle = 8.0
-				red_valve_handle = 8.0
+				hand_crank = 8.0
 				steam_engine = 1024.0
-				gray_valve_handle = 8.0
-				orange_valve_handle = 8.0
-				light_gray_valve_handle = 8.0
-				green_valve_handle = 8.0
-
-		#.
-		#Configure speed/capacity levels for requirements and indicators.
-		[kinetics.stressValues.stats]
-			#.
-			#[in Revolutions per Minute]
-			#Minimum speed of rotation to be considered 'medium'
-			#Range: 0.0 ~ 4096.0
-			mediumSpeed = 30.0
-			#.
-			#[in Revolutions per Minute]
-			#Minimum speed of rotation to be considered 'fast'
-			#Range: 0.0 ~ 65535.0
-			fastSpeed = 100.0
-			#.
-			#[in Stress Units]
-			#Minimum stress impact to be considered 'medium'
-			#Range: 0.0 ~ 4096.0
-			mediumStressImpact = 4.0
-			#.
-			#[in Stress Units]
-			#Minimum stress impact to be considered 'high'
-			#Range: 0.0 ~ 65535.0
-			highStressImpact = 8.0
-			#.
-			#[in Stress Units]
-			#Minimum added Capacity by sources to be considered 'medium'
-			#Range: 0.0 ~ 4096.0
-			mediumCapacity = 128.0
-			#.
-			#[in Stress Units]
-			#Minimum added Capacity by sources to be considered 'high'
-			#Range: 0.0 ~ 65535.0
-			highCapacity = 512.0
+				creative_motor = 16384.0
+				large_water_wheel = 128.0
+				water_wheel = 32.0
+				windmill_bearing = 512.0
 
 #.
 #Create's liquid manipulation tools
@@ -345,6 +327,11 @@
 	mechanicalPumpRange = 16
 	#.
 	#[in Blocks]
+	#The maximum distance a hose pulley can draw fluid blocks from.
+	#Range: > 1
+	hosePulleyRange = 128
+	#.
+	#[in Blocks]
 	#[-1 to disable this behaviour]
 	#The minimum amount of fluid blocks the hose pulley needs to find before deeming it an infinite source.
 	#Range: > -1
@@ -353,26 +340,20 @@
 	#Whether hose pulleys should continue filling up above-threshold sources.
 	fillInfinite = false
 	#.
-	#[in Blocks]
-	#The maximum distance a hose pulley can draw fluid blocks from.
-	#Range: > 1
-	hosePulleyRange = 128
-	#.
-	#Whether open-ended pipes and hose pulleys should be allowed to place fluid sources.
-	placeFluidSourceBlocks = true
-	#.
 	#Configure which fluids can be drained infinitely.
 	#Allowed Values: ALLOW_ALL, DENY_ALL, ALLOW_BY_TAG, DENY_BY_TAG
 	bottomlessFluidMode = "ALLOW_BY_TAG"
+	#.
+	#Whether hose pulleys should be allowed to place fluid sources.
+	fluidFillPlaceFluidSourceBlocks = true
+	#.
+	#Whether open-ended pipes should be allowed to place fluid sources.
+	pipesPlaceFluidSourceBlocks = true
 
 #.
 #Tweaks for logistical components
 [logistics]
 	#.
-	#.
-	#The maximum amount of items a funnel pulls at a time without an applied filter.
-	#Range: 1 ~ 64
-	defaultExtractionLimit = 64
 	#.
 	#The amount of ticks a funnel waits between item transferrals, when it is not re-activated by redstone.
 	#Range: > 1
@@ -380,7 +361,7 @@
 	#.
 	#The amount of ticks a portable storage interface waits for transfers until letting contraptions move along.
 	#Range: > 1
-	psiTimeout = 20
+	psiTimeout = 60
 	#.
 	#Maximum distance in blocks a Mechanical Arm can reach across.
 	#Range: > 1
@@ -388,15 +369,22 @@
 	#.
 	#Maximum possible range in blocks of redstone link connections.
 	#Range: > 1
-	linkRange = 128
+	linkRange = 256
+	#.
+	#Maximum possible distance in blocks between data gatherers and their target.
+	#Range: > 1
+	displayLinkRange = 64
 	#.
 	#The total amount of stacks a vault can hold per block in size.
 	#Range: > 1
 	vaultCapacity = 20
 	#.
-	#Maximum possible distance in blocks between data gatherers and their target.
-	#Range: > 1
-	displayLinkRange = 64
+	#The amount of ticks a brass tunnel waits between distributions.
+	#Range: 1 ~ 10
+	brassTunnelTimer = 10
+	#.
+	#Whether hostile mobs walking near a seat will start riding it.
+	seatHostileMobs = true
 
 #.
 #Everything related to Schematic tools
@@ -406,10 +394,14 @@
 	#Whether placing a Schematic directly in Creative Mode should replace world blocks with Air
 	creativePrintIncludesAir = false
 	#.
+	#The amount of Schematics a player can upload until previous ones are overwritten.
+	#Range: > 1
+	maxSchematics = 10
+	#.
 	#[in KiloBytes]
 	#The maximum allowed file size of uploaded Schematics.
 	#Range: > 16
-	maxSchematics = 256
+	maxTotalSchematicSize = 256
 	#.
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
@@ -428,17 +420,13 @@
 		#Range: > 1
 		schematicannonDelay = 10
 		#.
-		#% of Schematicannon's Fuel filled by 1 Gunpowder.
-		#Range: 0.0 ~ 100.0
-		schematicannonGunpowderWorth = 20.0
-		#.
-		#% of Schematicannon's Fuel used for each fired block.
-		#Range: 0.0 ~ 100.0
-		schematicannonFuelUsage = 0.05000000074505806
+		#Amount of blocks a Schematicannon can print per Gunpowder item provided.
+		#Range: > 1
+		schematicannonShotsPerGunpowder = 400
 
 #.
-#Gadgets and other Shenanigans added by Create
-[curiosities]
+#Equipment and gadgets added by Create
+[equipment]
 	#.
 	#.
 	#The Maximum Distance to an active mirror for the symmetry wand to trigger.
@@ -477,6 +465,10 @@
 	#Whether moving Trains can hurt colliding mobs and players.
 	trainsCauseDamage = true
 	#.
+	#Maximum length of track that can be placed as one batch or turn.
+	#Range: 16 ~ 128
+	maxTrackPlacementLength = 32
+	#.
 	#Maximum length of a Train Stations' assembly track.
 	#Range: > 5
 	maxAssemblyLength = 128
@@ -488,10 +480,6 @@
 	#Relative speed of a manually controlled Train compared to a Scheduled one.
 	#Range: 0.0 ~ 3.4028234663852886E38
 	manualTrainSpeedModifier = 0.75
-	#.
-	#Maximum length of track that can be placed as one batch or turn.
-	#Range: 16 ~ 128
-	maxTrackPlacementLength = 32
 
 	#.
 	#Standard Trains

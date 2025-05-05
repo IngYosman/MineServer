@@ -1,1 +1,0 @@
-execute at @s run item replace entity @s weapon.mainhand with minecraft:wooden_sword 1

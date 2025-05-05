@@ -1,5 +1,0 @@
-[{
-        "mob": "minecraft:stray",
-        "remove": ["minecraft:tipped_arrow", "minecraft:arrow"]
-    }
-]
