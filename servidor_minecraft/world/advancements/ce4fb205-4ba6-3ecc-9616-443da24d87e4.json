@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-05-05 00:35:22 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "shrubland": "2025-05-05 00:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-05 00:35:22 +0000"
     },
     "done": true
   },
@@ -59,15 +59,15 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experienced_engineer": {
-    "criteria": {
-      "have_experience_nugget": "2025-05-05 00:34:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:stray": "2025-05-05 00:14:49 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-05-05 00:34:11 +0000"
     },
     "done": true
   },
