@@ -91,6 +91,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-05-05 00:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-05 00:10:27 +0000"
@@ -100,7 +106,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-05-05 00:13:45 +0000",
-      "minecraft:forest": "2025-05-05 00:15:00 +0000"
+      "minecraft:forest": "2025-05-05 00:15:00 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-05 00:21:49 +0000"
     },
     "done": false
   },

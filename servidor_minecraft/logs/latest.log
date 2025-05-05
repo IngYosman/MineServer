@@ -4998,3 +4998,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05May2025 00:21:36.162] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.RuntimeException: VarInt too big
 [05May2025 00:22:11.024] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:22 | XFetch: llamada?
 [05May2025 00:22:18.061] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:22 | DStevenTy: VA
+[05May2025 00:27:51.591] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:27:51.591] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.CorruptedFrameException: length wider than 21-bit
+[05May2025 00:27:51.592] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 47 bytes extra whilst reading packet 0
+[05May2025 00:31:19.682] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:31:19.683] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.CorruptedFrameException: length wider than 21-bit
+[05May2025 00:31:19.683] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 139 bytes extra whilst reading packet 0
+[05May2025 00:31:19.683] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 1169543611 out of bounds for length 51
+[05May2025 00:31:19.683] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.CorruptedFrameException: length wider than 21-bit

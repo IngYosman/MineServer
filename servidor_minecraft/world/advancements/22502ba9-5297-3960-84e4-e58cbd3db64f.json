@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-05 00:20:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:stray": "2025-05-05 00:13:23 +0000",
@@ -103,6 +109,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-05 00:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-05 00:13:23 +0000"
@@ -112,7 +124,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-05-05 00:13:52 +0000",
-      "minecraft:forest": "2025-05-05 00:15:00 +0000"
+      "minecraft:forest": "2025-05-05 00:15:00 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-05 00:22:39 +0000"
     },
     "done": false
   },
