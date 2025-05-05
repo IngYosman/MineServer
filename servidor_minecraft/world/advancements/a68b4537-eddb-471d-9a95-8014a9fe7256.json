@@ -1,4 +1,10 @@
 {
+  "exdeorum:core/root": {
+    "criteria": {
+      "in_void_world": "2025-05-05 02:43:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-05-05 02:43:39 +0000"
@@ -77,12 +83,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-05-05 02:43:41 +0000"
-    },
-    "done": true
-  },
   "forbidden_arcanus:recipes/decorations/deorum_lantern": {
     "criteria": {
       "has_torch": "2025-05-05 02:43:39 +0000"
@@ -106,12 +106,6 @@
       "seeds": "2025-05-05 02:43:39 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-05-05 02:43:41 +0000"
-    },
-    "done": false
   },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
@@ -230,12 +224,6 @@
     },
     "done": true
   },
-  "exdeorum:core/root": {
-    "criteria": {
-      "in_void_world": "2025-05-05 02:43:38 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipes/quantum_bridge_card": {
     "criteria": {
       "has_wit": "2025-05-05 02:43:39 +0000",
@@ -291,6 +279,18 @@
       "occultism_present": "2025-05-05 02:43:39 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-05 02:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-05-05 02:43:41 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -7150,3 +7150,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [05May2025 02:51:34.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
 [05May2025 02:51:34.504] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
 [05May2025 02:51:34.507] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-2 unused), uncached profiles: 0, total profiles: 3
+[05May2025 02:53:55.861] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team Tarmellin (91b6c327-efe3-478d-9e07-f50d14d011c5) at BlockPos{x=4096, y=64, z=0} with template cozy_cottage
+[05May2025 02:53:55.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DStevenTy: Successfully created team Tarmellin.]
+[05May2025 02:54:29.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DStevenTy: Successfully left your teammates alone.]
+[05May2025 02:58:47.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Timed out
+[05May2025 02:58:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
+[05May2025 02:58:47.770] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

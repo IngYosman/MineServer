@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/cooked_beef_to_porkchop": {
+    "criteria": {
+      "has_beef": "2025-05-05 02:53:56 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-05-05 02:43:42 +0000"
@@ -20,6 +26,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-05-05 02:43:42 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_hoe": {
+    "criteria": {
+      "has_tool": "2025-05-05 02:53:56 +0000"
     },
     "done": true
   },
@@ -53,9 +65,27 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/force_sapling_from_sapling": {
+    "criteria": {
+      "has_sapling": "2025-05-05 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
+    "criteria": {
+      "has_oak_sapling": "2025-05-05 02:53:56 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-05 02:43:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-05-05 02:53:56 +0000"
     },
     "done": true
   },
@@ -137,9 +167,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_sword": {
+    "criteria": {
+      "has_tool": "2025-05-05 02:53:56 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2025-05-05 02:43:42 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-05-05 02:53:56 +0000"
     },
     "done": true
   },
@@ -191,6 +233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-05 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_axe": {
+    "criteria": {
+      "has_tool": "2025-05-05 02:53:56 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-05-05 02:43:42 +0000"
@@ -227,6 +281,12 @@
     "criteria": {
       "has_wit": "2025-05-05 02:43:42 +0000",
       "has_wpt": "2025-05-05 02:43:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-05-05 02:53:56 +0000"
     },
     "done": true
   },
