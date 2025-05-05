@@ -4963,3 +4963,38 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05May2025 00:11:54.438] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:11 | DStevenTy: el survival
 [05May2025 00:12:02.154] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:12 | DStevenTy: esta en pacifico? xd
 [05May2025 00:12:14.608] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:12 | XFetch: no
+[05May2025 00:12:39.349] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:12 | DStevenTy: diferentes creepers?
+[05May2025 00:12:44.014] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:12 | XFetch: no se
+[05May2025 00:12:44.350] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:12 | DStevenTy: este no rompio nada
+[05May2025 00:12:50.026] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:12 | XFetch: no he visto bien los mods
+[05May2025 00:12:59.922] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:12 | XFetch: pero esta basado mas en create
+[05May2025 00:13:23.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Monster Hunter]
+[05May2025 00:14:06.626] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:14:06.627] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 46 bytes extra whilst reading packet 0
+[05May2025 00:14:36.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of XFetch) moved wrongly! 0.5429626816230382
+[05May2025 00:14:49.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Monster Hunter]
+[05May2025 00:14:50.899] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:14:50.900] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 44 bytes extra whilst reading packet 0
+[05May2025 00:15:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Sweet Dreams]
+[05May2025 00:15:34.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch was blown up by Creeper
+[05May2025 00:15:38.580] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:15 | DStevenTy: jsajsjasjasja
+[05May2025 00:15:48.289] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:15:48.290] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 47 bytes extra whilst reading packet 0
+[05May2025 00:15:54.904] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:15 | XFetch: me detono
+[05May2025 00:16:03.105] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:16 | DStevenTy: anda
+[05May2025 00:18:36.713] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:18 | XFetch: mire
+[05May2025 00:19:11.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Nightmare Fuel]
+[05May2025 00:19:14.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Nightmare Fuel]
+[05May2025 00:19:25.975] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:19 | XFetch: me chupo jajaj
+[05May2025 00:19:42.097] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:19:42.098] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 112 bytes extra whilst reading packet 0
+[05May2025 00:19:42.098] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 151048882 out of bounds for length 51
+[05May2025 00:19:53.516] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:19:53.517] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 167 bytes extra whilst reading packet 0
+[05May2025 00:19:53.517] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 107879776 out of bounds for length 51
+[05May2025 00:20:30.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Local Brewery]
+[05May2025 00:21:36.161] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 00:21:36.162] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.CorruptedFrameException: length wider than 21-bit
+[05May2025 00:21:36.162] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.RuntimeException: VarInt too big
+[05May2025 00:22:11.024] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:22 | XFetch: llamada?
+[05May2025 00:22:18.061] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Constants/]: 00:22 | DStevenTy: VA
