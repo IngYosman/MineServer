@@ -16427,3 +16427,23 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05May2025 01:28:02.917] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 143 bytes extra whilst reading packet 0
 [05May2025 01:28:02.917] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 7404 out of bounds for length 51
 [05May2025 01:28:02.918] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/23 (StatusOnly) was larger than I expected, found 229 bytes extra whilst reading packet 23
+[05May2025 01:29:31.230] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[05May2025 01:29:31.230] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05May2025 01:29:45.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 01:29:45.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 01:30:16.396] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 01:30:16.397] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.CorruptedFrameException: length wider than 21-bit
+[05May2025 01:30:16.397] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 68 bytes extra whilst reading packet 0
+[05May2025 01:30:16.398] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 8101 out of bounds for length 51
+[05May2025 01:30:16.398] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 6786 out of bounds for length 51
+[05May2025 01:30:16.398] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.ArrayIndexOutOfBoundsException: Index 103 out of bounds for length 4
+[05May2025 01:30:16.398] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 14477 out of bounds for length 51
+[05May2025 01:30:34.600] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 01:30:34.601] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 47 bytes extra whilst reading packet 0
+[05May2025 01:32:51.430] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05May2025 01:33:51.053] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[05May2025 01:33:51.054] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket) was larger than I expected, found 159 bytes extra whilst reading packet 0
+[05May2025 01:33:51.055] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 438055 out of bounds for length 51
+[05May2025 01:34:45.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 01:34:45.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 01:36:11.330] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
