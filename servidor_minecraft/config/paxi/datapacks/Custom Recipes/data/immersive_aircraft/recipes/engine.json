@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+        "pattern": [
+			"HSW",
+			" B "
+        ],
+        "key": {
+			"S": {
+                "item": "create_sa:steam_engine"
+            },
+            "H": {
+                "item": "create_sa:heat_engine"
+            },
+			"W": {
+                "item": "create_sa:hydraulic_engine"
+            },
+			"B": {
+                "item": "immersive_aircraft:boiler"
+            }
+        },
+  "result": {
+    "item": "immersive_aircraft:engine",
+    "count": 1
+  }
+}

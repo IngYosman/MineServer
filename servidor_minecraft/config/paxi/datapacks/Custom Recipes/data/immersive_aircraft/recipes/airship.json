@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+        "pattern": [
+			" SSS ",
+			" SSS ",
+			"PEHHH"
+        ],
+        "key": {
+			"S": {
+                "item": "immersive_aircraft:sail"
+            },
+            "H": {
+                "item": "immersive_aircraft:hull"
+            },
+			"P": {
+                "item": "create:propeller"
+            },
+			"E": {
+                "item": "immersive_aircraft:engine"
+            }
+        },
+  "result": {
+    "item": "immersive_aircraft:airship",
+    "count": 1
+  }
+}

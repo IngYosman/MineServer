@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "CFC"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "create:copper_sheet"
+      }
+    ],
+    "F": [
+      {
+        "item": "nethersdelight:blackstone_blast_furnace"
+      }
+    ],
+    "T": [
+      {
+        "item": "create_sa:large_filling_tank"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:boiler"
+  }
+}

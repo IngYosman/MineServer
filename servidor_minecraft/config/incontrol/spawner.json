@@ -1,0 +1,13 @@
+[{
+    "mob": "minecraft:phantom",
+    "amount": {
+        "minimum": 2,
+        "maximum": 3
+    },
+    "conditions": {
+        "dimension": "minecraft:the_end",
+        "inwater": false,
+        "maxdist": 100,
+        "maxthis": 5
+    }
+}]

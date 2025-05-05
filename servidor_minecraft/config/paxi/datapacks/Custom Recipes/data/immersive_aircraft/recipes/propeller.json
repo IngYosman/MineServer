@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS ",
+    " P ",
+    " SS"
+  ],
+  "key": {
+    "I": [
+      {
+        "item": "create:sturdy_sheet"
+      }
+    ],
+	"P": [
+      {
+        "item": "create:propeller"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:propeller"
+  }
+}

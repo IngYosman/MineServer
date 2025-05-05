@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"KBK"
+  ],
+  "key": {
+  	"B": {
+      "item": "create:brass_sheet"
+    },
+    "K": {
+      "item": "minecraft:dried_kelp"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.inventory_cable",
+    "count": 5
+  }
+}

@@ -1,0 +1,2 @@
+execute as @e[type=enchantwithmob:enchanter, tag=!enchanter] at @s run summon savage_and_ravage:iceologer ~-2 ~ ~ {Attributes:[{Name:generic.movementSpeed,Base:0.35}]}
+execute as @e[type=enchantwithmob:enchanter] run tag @s add enchanter

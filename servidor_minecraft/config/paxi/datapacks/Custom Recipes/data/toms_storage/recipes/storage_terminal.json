@@ -1,0 +1,32 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "OLB",
+	" P "
+  ],
+  "key": {
+    "O": [
+      {
+        "item": "create:content_observer"
+      }
+    ],
+	"L": [
+      {
+        "item": "create:display_link"
+      }
+    ],
+    "B": [
+      {
+        "item": "create:display_board"
+      }
+    ],
+	"P": [
+      {
+        "item": "create:precision_mechanism"
+      }
+    ]
+  },
+  "result": {
+    "item": "toms_storage:ts.storage_terminal"
+  }
+}

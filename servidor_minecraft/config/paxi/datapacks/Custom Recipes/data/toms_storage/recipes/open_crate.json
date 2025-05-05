@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"BCB",
+    " H "
+  ],
+  "key": {
+  	"B": {
+      "item": "create:brass_casing"
+    },
+    "C": {
+      "item": "quark:crate"
+    },
+    "H": {
+      "item": "create:chute"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.open_crate"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "create:crafting_terminal",
+  "display": {
+    "icon": {
+      "item": "toms_storage:ts.adv_wireless_terminal"
+    },
+    "title": {
+      "translate": "Cloud Storage"
+    },
+    "description": {
+      "color": "#DBA213",
+      "translate": "Craft an advanced wireless terminal"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "toms_storage:ts.adv_wireless_terminal"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

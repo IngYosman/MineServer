@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:glass_panes",
+	"#additionalbars:bars/wooden",
+    "#additionalbars:bars/metallic",
+    "minecraft:iron_bars",
+    { "id": "quark:gold_bars", "required": false },
+    { "id": "quark:red_corundum_pane", "required": false },
+    { "id": "quark:orange_corundum_pane", "required": false },
+    { "id": "quark:yellow_corundum_pane", "required": false },
+    { "id": "quark:green_corundum_pane", "required": false },
+    { "id": "quark:blue_corundum_pane", "required": false },
+    { "id": "quark:indigo_corundum_pane", "required": false },
+    { "id": "quark:violet_corundum_pane", "required": false },
+    { "id": "quark:white_corundum_pane", "required": false },
+    { "id": "quark:black_corundum_pane", "required": false },
+	{ "id": "dustrial_decor:barbed_iron_bars", "required": false },
+	{ "id": "dustrial_decor:barbed_chain_link_fence", "required": false },
+	{ "id": "dustrial_decor:chain_link_fence", "required": false },
+	{ "id": "dustrial_decor:cast_iron_balustrade", "required": false },
+	{ "id": "quark:paper_wall", "required": false },
+	{ "id": "quark:paper_wall_sakura", "required": false },
+	{ "id": "quark:paper_wall_big", "required": false },
+	{ "id": "moreminecarts:organic_glass_pane", "required": false },
+	{ "id": "moreminecarts:chiseled_organic_glass_pane", "required": false }
+  ]
+}

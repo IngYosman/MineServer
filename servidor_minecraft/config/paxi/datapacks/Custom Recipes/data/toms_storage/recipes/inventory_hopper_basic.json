@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PcP",
+    " H "
+  ],
+  "key": {
+  	"P": {
+      "item": "create:brass_sheet"
+    },
+    "c": {
+      "item": "toms_storage:ts.inventory_cable"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.inventory_hopper_basic"
+  }
+}

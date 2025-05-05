@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "toms_storage:ts.inventory_proxy"
+    },
+	{
+      "item": "toms_storage:ts.crafting_terminal"
+    },
+    {
+      "item": "create:linked_controller"
+    }
+  ],
+  "result": {
+    "item": "toms_storage:ts.wireless_terminal"
+  }
+}

@@ -1,0 +1,1 @@
+execute as @e[type=stray,nbt={HandItems:[{id:"minecraft:bow"}]}] at @s run function overworld_undeads:swordmen_skeletons/stray_modification

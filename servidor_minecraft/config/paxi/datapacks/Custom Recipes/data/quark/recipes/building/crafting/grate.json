@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#X#",
+        "#X#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_bars"
+        },
+        "X": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "quark:grate",
+        "count": 1
+    },
+    "conditions": [{
+        "type": "quark:flag",
+        "flag": "grate"
+    }]
+}

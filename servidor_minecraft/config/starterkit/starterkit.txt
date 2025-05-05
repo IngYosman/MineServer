@@ -1,0 +1,122 @@
+'offhand' : '{Count:1b,id:"minecraft:shield",tag:{Damage:0}}',
+'head' : '',
+'chest' : '{Count:1b,id:"create_sa:copper_chestplate",tag:{Damage:0}}',
+'legs' : '',
+'feet' : '{Count:1b,id:"create_sa:zinc_boots",tag:{Damage:0}}',
+0 : '{Count:1b,id:"minecraft:writable_book",tag:{pages:["===================
+    Quick Guide Book
+===================
+
+
+>> Introduction................2
+>> Game controls...........4
+>> Technical Info...........6
+>> Central mods..............8
+>> Item recipes.............14
+
+
+
+                 by Wedge","  << INTRODUCTION >>  
+
+Welcome to Create Flavored, a simple mod -pack, focused on the Create mod, spiced up with vanilla+ mods that aim to enhance quality of life, aesthetics, the building palette, and many other aspects of the game.","There are no set line of advancement, the main goal of the mod- pack is to create the automation factory of your dreams, using mechanical devices linked by sophisticated logistics and storage, only your imagination is the limit, have fun!","  << GAME CONTROLS >>
+
+- Excavate: `
+- Quick Building: ALT
+- Open backpack: G
+- Switch hotbar: Z
+- Sort inventory: V
+- Sort container: B
+- Open map: M
+- Toggle minimap: N
+- Check recipes: R
+- Check uses: U
+- Emote: CTRL+NUM
+- Acess W. Terminal: B","- Crawl: V
+- Waypoints: O
+- Quiver UI: X
+- Nearby tool box: C
+- Excavation radius: \\
+- Food log: H
+- Toggle inspector: K
+- Bookmark item: A
+
+To pick-up containers and spawners, shift + R-click on them with empty hands (both)."," << TECHNICAL INFO >>
+
+Allocate at least 3GB of RAM to run the mod -pack smoothly.
+
+For a performance boost disable bushy leaves, check the resouce packs menu for more info.
+
+If controls shuffle, restore default value.","You can use the world map to teleport to your death points and waypoints IF cheats are enabled.
+
+In servers you can use the classic /home, /tpa, and /rtp cmds to teleport around.
+
+Please report issues and suggestion in the mod-pack's web page.","  << CENTRAL MODS >>
+
+## Create
+
+Create will allow you to construct custom devices to automate almost anything, while hovering over an item from this mod, hold [W] to open a visual guide that will teach you everything about it.","## Tom Simple Storage
+
+The solution to messy & scattered storage. you can connect all your containers to an inventory connector, with cables or if the containers & *vaults* are adjacent to each other, you can access the network at once with terminals.","Wireless terminals are available too, put a beacon with enough layers nearby for cross-dimension and infinite access range.
+
+## More Minecarts
+
+Adds new minecart and rails for better item and fluid transport, and other misc stuff.","## Redstone Pen
+
+Adds tools that allow drawing redstone dust wires and choosing which connect to which as well as relays with various uses.
+
+## 'Dustrial Decor
+
+Industrial blocks are added by this mod as well as other ones.","## Travel Anchor
+
+Put anchors around your base to travel around with ease, holding a travel staff will highlight nearby anchors, R-click while looking at one to TP.
+
+## Immersive Aircraft
+
+Later in game you can make many airships!
+","## Farmer's Delight
+
+With many new crops and foodstuff, as well
+as compatibility with Create, you can have a varied diet (which results in buffs) and automate production of food.
+
+## Create Aeronautics
+
+Coming in version 6.0 ...","   << ITEM RECIPES >>
+
+In the JEI items list, hover over an item then press [R] to view its recipe or other ways of obtention, [U] to check the recipes it is used in.
+
+This also works while simply looking at a block and pressing [U] or [R].","To search by item use the search bar, add @ before the keyword to search by mod."]}}',
+1 : '{Count:1b,id:"create_sa:copper_pickaxe",tag:{Damage:0}}',
+2 : '{Count:1b,id:"create_sa:zinc_axe",tag:{Damage:0}}',
+3 : '{Count:16b,id:"create:sweet_roll"}',
+4 : '',
+5 : '',
+6 : '{Count:24b,id:"minecraft:torch"}',
+7 : '{Count:1b,id:"minecraft:spyglass"}',
+8 : '{Count:1b,id:"supplementaries:sack",tag:{BlockEntityTag:{Items:[],id:"minecraft:shulker_box"}}}',
+9 : '',
+10 : '',
+11 : '',
+12 : '',
+13 : '',
+14 : '',
+15 : '',
+16 : '',
+17 : '',
+18 : '',
+19 : '',
+20 : '',
+21 : '',
+22 : '',
+23 : '',
+24 : '',
+25 : '',
+26 : '',
+27 : '',
+28 : '',
+29 : '',
+30 : '',
+31 : '',
+32 : '',
+33 : '',
+34 : '',
+35 : '',

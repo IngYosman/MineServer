@@ -1,0 +1,30 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:the_end",
+			"seed": -8425470863560941335
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -8425470863560941335
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -8425470863560941335
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:the_end",
+			"seed": -8425470863560941335
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -8425470863560941335
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -8425470863560941335
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "R": [
+      {
+        "item": "supplementaries:rope"
+      }
+    ],
+    "S": [
+      {
+        "item": "create:white_sail"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:sail"
+  }
+}

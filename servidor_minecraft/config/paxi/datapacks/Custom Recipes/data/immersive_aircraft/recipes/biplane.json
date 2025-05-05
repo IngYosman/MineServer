@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+        "pattern": [
+			"HHPHH",
+			"  E  ",
+			" HHH "
+        ],
+        "key": {
+            "H": {
+                "item": "immersive_aircraft:hull"
+            },
+			"P": {
+                "item": "create:propeller"
+            },
+			"E": {
+                "item": "immersive_aircraft:engine"
+            }
+        },
+  "result": {
+    "item": "immersive_aircraft:biplane",
+    "count": 1
+  }
+}

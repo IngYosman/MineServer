@@ -1,0 +1,29 @@
+#Enable the the spawning of enchanted mobs. [true / false]
+"Enchanted Mob can Spawn Natural" = true
+#Disables specific mob from receiveing enchantments on spawn. Use the full name, eg: minecraft:ender_dragon.
+enchantOnSpawnExclusionMobs = ["minecraft:wither", "minecraft:ender_dragon"]
+#Allow the specific mob from alway receiveing enchantments on spawn. Use the full name, eg: minecraft:zombie.
+alwayEnchantableMobs = []
+#Disables the specific mob enchant. Use the full name(This config only disabled mob enchant when mob spawn. not mean delete complete, eg: enchantwithmob:thorn.
+disableMobEnchants = []
+#Disables the poison cloud for projectile. Use the full name(eg: minecraft:potion.
+disablePoisonCloudProjectiles = ["minecraft:potion", "minecraft:experience_bottle", "minecraft:ender_pearl", "minecraft:egg", "earthmobsmod:smelly_egg"]
+#Disables the multi shot for projectile. Use the full name(eg: minecraft:potion.
+disableMultiShotProjectiles = ["minecraft:experience_bottle", "minecraft:ender_pearl", "minecraft:eye_of_ender", "minecraft:egg", "earthmobsmod:smelly_egg", "conjurer_illager:throwing_card", "conjurer_illager:bouncy_ball"]
+#Whitelist the projectile mob enchant for mob. Use the full name(eg: minecraft:zombie.
+whitelistShootEntity = ["minecraft:skeleton", "minecraft:pillager", "minecraft:shulker", "minecraft:llama", "conjurer_illager:conjurer", "earthmobsmod:bone_spider", "earthmobsmod:lobber_zombie", "earthmobsmod:lobber_drowned", "earthmobsmod:melon_golem", "minecraft:piglin", "minecraft:snow_golem", "minecraft:player"]
+#Enable the the spawning of enchanted animal mobs. [true / false]
+"Enchanted Animal can Spawn Natural" = false
+#Enable enchanting yourself. [true / false]
+"Enchant yourself" = true
+#Enable Change Size When Enchanted. [true / false]
+"Change Size" = true
+#Enable Increase Health like Dungeons When Enchanted. [true / false]
+"Increase Health like Dungeons" = false
+#Enable Player More Bigger When You have Huge Enchant. [true / false]
+"Big Your Self" = false
+#Allow the specific mob from alway receiveing enchantments as Ancient Mob on spawn(This feature may break for balance so be careful). Use the full name, eg: minecraft:zombie.
+alwayEnchantableAncientMobs = []
+#Enable All MobEnchant for all mob. [true / false]
+UniversalEnchant = false
+

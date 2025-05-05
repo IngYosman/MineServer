@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+        "pattern": [
+			"SHPHS",
+			" HEH "
+        ],
+        "key": {
+			"S": {
+                "item": "immersive_aircraft:sail"
+            },
+            "H": {
+                "item": "immersive_aircraft:hull"
+            },
+			"P": {
+                "item": "create:propeller"
+            },
+			"E": {
+                "item": "immersive_aircraft:engine"
+            }
+        },
+  "result": {
+    "item": "immersive_aircraft:gyrodyne",
+    "count": 1
+  }
+}
