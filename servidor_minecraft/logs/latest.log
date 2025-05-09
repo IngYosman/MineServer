@@ -3335,3 +3335,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [09May2025 23:27:44.597] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
 [09May2025 23:29:49.271] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
 [09May2025 23:30:23.405] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[09May2025 23:32:57.941] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[09May2025 23:33:09.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:59485] logged in with entity id 533 at (-4090.158195860644, 67.0, 4092.57634097386)
+[09May2025 23:33:09.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[09May2025 23:33:10.106] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[09May2025 23:33:10.109] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
+[09May2025 23:38:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XFetch: You are now a visitor of team GrandMaden869.]
+[09May2025 23:39:01.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XFetch: Home sweet home]
+[09May2025 23:39:01.980] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[09May2025 23:39:21.827] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[09May2025 23:39:33.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:54123] logged in with entity id 574 at (5.5, 68.0, 2.5)
+[09May2025 23:39:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[09May2025 23:39:33.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Don't Look Down...]
+[09May2025 23:39:33.916] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[09May2025 23:39:33.917] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
+[09May2025 23:39:33.919] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell BURPIX '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@fc9a7d7c'},insertion=BURPIX}, siblings=[literal{BURPIX}]] joined. Putting into spawn team.
+[09May2025 23:41:39.559] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team BURPIX (ec13397b-8dc0-4290-a81b-a75fdbe38bcd) at BlockPos{x=-4096, y=64, z=0} with template Anarchy
+[09May2025 23:41:39.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
