@@ -35,6 +35,8 @@ EnableAdvancedConfig = false
     #
     OutputMultiplier = 3.0
 
+    FuelOutputItem = "biggerreactors:uranium_ingot"
+
     #
     # Valid range: (0,)
     # Default: 100000
@@ -46,8 +48,6 @@ EnableAdvancedConfig = false
     # Default: 10000
     #
     CoolantTankAmountPerFuelRod = 30000
-
-    FuelOutputItem = "biggerreactors:uranium_ingot"
 
 [Turbine]
     #
