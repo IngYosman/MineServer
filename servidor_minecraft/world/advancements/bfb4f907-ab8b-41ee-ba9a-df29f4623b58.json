@@ -5859,6 +5859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-10 00:21:30 +0000"
@@ -5877,6 +5883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/porcelain_crucible": {
     "criteria": {
       "has_item": "2025-05-10 00:31:25 +0000"
@@ -5889,15 +5901,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-10 00:21:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/concrete": {
     "criteria": {
       "has_clay": "2025-05-10 00:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
     },
     "done": true
   },
@@ -5913,9 +5943,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-05-10 00:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
     },
     "done": true
   },
@@ -5937,9 +5979,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-05-10 00:23:26 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
+    "criteria": {
+      "has_item0": "2025-05-10 00:46:30 +0000"
     },
     "done": true
   },
@@ -5949,9 +6003,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
     "criteria": {
       "has_item": "2025-05-10 00:11:39 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/stone_1x": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
     },
     "done": true
   },
@@ -5967,6 +6039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-10 00:46:39 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/porcelain_clay_ball": {
     "criteria": {
       "has_item": "2025-05-10 00:30:31 +0000"
@@ -5979,9 +6057,51 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/stone_barrel": {
+    "criteria": {
+      "has_item": "2025-05-10 00:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
     },
     "done": true
   },
@@ -6003,9 +6123,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
     "criteria": {
       "has_clay_ball": "2025-05-10 00:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
     },
     "done": true
   },
@@ -6015,9 +6147,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:46:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_helmet": "2025-05-10 00:23:26 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/stone_wall": {
+    "criteria": {
+      "criterion0": "2025-05-10 00:46:30 +0000"
     },
     "done": true
   },

@@ -7074,9 +7074,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7089,6 +7101,12 @@
   "alltheores:recipes/misc/iron_ingot_from_dust": {
     "criteria": {
       "has_item": "2025-05-10 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7116,9 +7134,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/sanity_meter": {
+    "criteria": {
+      "has_ingots/gold": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2025-05-10 00:06:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7146,6 +7176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
@@ -7155,6 +7191,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/angel_block": {
+    "criteria": {
+      "has_gold": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7173,6 +7215,12 @@
   "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-10 00:40:09 +0000"
     },
     "done": true
   },
@@ -7203,6 +7251,12 @@
   "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7284,9 +7338,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/deorum_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-10 00:06:25 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/golden_mesh": {
+    "criteria": {
+      "has_item": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7308,6 +7374,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
@@ -7317,6 +7389,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-05-10 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7344,6 +7422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
@@ -7365,6 +7449,12 @@
   "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/gold": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7401,6 +7491,12 @@
   "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7452,9 +7548,27 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-05-10 00:45:01 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/angel_block_rot": {
+    "criteria": {
+      "has_gold": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7542,6 +7656,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/ruby_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
@@ -7572,6 +7692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/copper_dust": {
     "criteria": {
       "has_copper": "2025-05-10 00:05:24 +0000"
@@ -7590,9 +7716,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/iron_block_from_smelting": {
     "criteria": {
       "has_raw_iron": "2025-05-10 00:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7611,6 +7749,12 @@
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7668,6 +7812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-10 00:06:25 +0000"
@@ -7677,6 +7827,12 @@
   "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7704,9 +7860,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-10 00:40:09 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/alfsteel_template": {
+    "criteria": {
+      "criterion0": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/golden_mesh_from_iron_mesh": {
+    "criteria": {
+      "has_item": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7746,6 +7926,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/gold_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
@@ -7776,6 +7962,18 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/misc/blood_altar": {
+    "criteria": {
+      "has_gold": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-05-10 00:25:09 +0000"
@@ -7785,6 +7983,12 @@
   "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/golden_hammer": {
+    "criteria": {
+      "has_item": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7815,6 +8019,12 @@
   "enderio:recipes/redstone/resetting_lever_thirty": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -7938,6 +8148,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-05-10 00:40:09 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
@@ -7977,6 +8193,12 @@
   "immersiveengineering:recipes/misc/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_ingot_from_gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
@@ -8046,6 +8268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-10 00:40:09 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
@@ -8061,6 +8289,12 @@
   "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-10 00:41:43 +0000"
     },
     "done": true
   },
