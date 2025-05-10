@@ -3331,3 +3331,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [10May2025 19:59:52.018] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
 [10May2025 19:59:52.076] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [10May2025 19:59:53.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
+[10May2025 20:43:42.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Squeezing like a boss]

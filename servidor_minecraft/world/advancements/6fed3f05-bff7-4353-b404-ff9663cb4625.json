@@ -8757,6 +8757,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-10 20:18:41 +0000"
@@ -8775,15 +8787,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-10 20:18:41 +0000"
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/compressed_iron_hammer": {
     "criteria": {
       "has_item": "2025-05-10 20:07:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 20:43:23 +0000"
     },
     "done": true
   },
