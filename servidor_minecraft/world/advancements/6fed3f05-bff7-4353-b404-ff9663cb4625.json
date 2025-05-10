@@ -1,7 +1,31 @@
 {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_deepslate": {
     "criteria": {
       "has_item": "2025-05-09 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -20,6 +44,12 @@
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -71,6 +101,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/andesite_1x": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-09 23:46:41 +0000"
@@ -119,6 +161,18 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/armed_stand": {
     "criteria": {
       "criterion1": "2025-05-09 23:41:55 +0000"
@@ -131,15 +185,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_hoe": {
     "criteria": {
       "has_tool": "2025-05-09 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/crude_furnace": {
+    "criteria": {
+      "criterion1": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stone_gear": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -158,6 +242,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
     },
     "done": true
   },
@@ -197,6 +287,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/food/enderios": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:08:11 +0000"
@@ -221,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
@@ -230,6 +344,24 @@
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/gravel_2x": {
+    "criteria": {
+      "has_gravel_1x": "2025-05-10 00:26:42 +0000"
     },
     "done": true
   },
@@ -263,15 +395,63 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_mitt": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/reinforced_rail": {
     "criteria": {
       "criterion2": "2025-05-09 23:41:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_routing": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
     },
     "done": true
   },
@@ -305,6 +485,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_yellow_dye": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
@@ -323,9 +509,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2025-05-09 23:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -437,15 +641,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-09 23:53:55 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -473,15 +701,51 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/stone_blacksmith_gavel": {
+    "criteria": {
+      "has_stone_tool_materials": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-09 23:39:33 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:root": {
     "criteria": {
       "root": "2025-05-09 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -494,6 +758,12 @@
   "utilitarian:recipes/misc/utility/oak_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -527,15 +797,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_mossy": {
     "criteria": {
       "has_item": "2025-05-09 23:50:27 +0000"
     },
     "done": true
   },
+  "exdeorum:recipes/tools/compressed_stone_hammer": {
+    "criteria": {
+      "has_item": "2025-05-10 00:28:15 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/cooked_silk_worm": {
     "criteria": {
       "has_item": "2025-05-10 00:13:33 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -551,6 +839,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-10 00:15:51 +0000"
@@ -563,6 +863,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/torch": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
@@ -572,6 +884,48 @@
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/cobblestone_2x": {
+    "criteria": {
+      "has_cobblestone_1x": "2025-05-10 00:26:37 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/cobblestone_1x": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/sand_2x": {
+    "criteria": {
+      "has_sand_1x": "2025-05-10 00:26:41 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/blackstone": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -596,6 +950,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
     },
     "done": true
   },
@@ -677,9 +1037,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
+    "criteria": {
+      "has_cobblestone_1x": "2025-05-10 00:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -689,9 +1073,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/gravel_1x": {
+    "criteria": {
+      "has_gravel_1x": "2025-05-10 00:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -707,6 +1109,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-05-09 23:42:50 +0000"
@@ -719,9 +1127,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -737,9 +1157,39 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/comparator_redirector_up": {
+    "criteria": {
+      "criterion1": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2025-05-10 00:08:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_wood": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -767,6 +1217,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/blackstone_1x": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/decorations/deorum_lantern": {
     "criteria": {
       "has_torch": "2025-05-09 23:39:33 +0000"
@@ -782,6 +1244,12 @@
   "xycraft_machines:recipes/misc/shaped/fabricator": {
     "criteria": {
       "has_crafting_table": "2025-05-09 23:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -809,15 +1277,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_red_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/low_covalence_dust": {
+    "criteria": {
+      "has_cobble": "2025-05-10 00:26:04 +0000"
     },
     "done": true
   },
@@ -881,15 +1379,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/andesite": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -911,9 +1445,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -926,6 +1472,18 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-10 00:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
     },
     "done": true
   },
@@ -953,9 +1511,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_red": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -971,9 +1547,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-09 23:48:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -1004,6 +1604,12 @@
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-05-09 23:46:41 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -1055,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_light_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
@@ -1064,6 +1676,12 @@
   "xnet:recipes/xnet/netcable_red_dye": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:16 +0000"
     },
     "done": true
   },
@@ -1085,15 +1703,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_blue": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
     },
     "done": true
   },
@@ -1133,9 +1769,21 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/sand_1x": {
+    "criteria": {
+      "has_sand_1x": "2025-05-10 00:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -1181,6 +1829,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2025-05-09 23:41:39 +0000"
@@ -1217,6 +1871,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-10 00:08:11 +0000"
@@ -1241,9 +1907,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-05-10 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/string_mesh": {
+    "criteria": {
+      "has_item": "2025-05-10 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -1307,6 +2009,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2025-05-09 23:41:55 +0000"
@@ -1355,6 +2063,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-05-09 23:39:33 +0000"
@@ -1379,6 +2093,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_nugget": "2025-05-09 23:39:33 +0000"
@@ -1391,6 +2111,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/misc/diamond_nugget": {
     "criteria": {
       "has_diamond": "2025-05-09 23:39:33 +0000"
@@ -1400,6 +2126,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -1427,15 +2159,75 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_trade/spirit_trade/test": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/linked_repeater": {
+    "criteria": {
+      "criterion2": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_barrel": {
     "criteria": {
       "has _plank": "2025-05-09 23:42:50 +0000"
     },
     "done": true
   },
+  "utilitix:recipes/misc/comparator_redirector_down": {
+    "criteria": {
+      "criterion1": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
     },
     "done": true
   },
@@ -1451,15 +2243,39 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/basalt_1x": {
+    "criteria": {
+      "has_basalt": "2025-05-10 00:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2025-05-09 23:52:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/granite": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:16 +0000"
     },
     "done": true
   },
@@ -1472,6 +2288,24 @@
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/string_mesh": {
+    "criteria": {
+      "has_string_mesh": "2025-05-10 00:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -1505,6 +2339,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-05-09 23:48:41 +0000"
@@ -1514,6 +2354,12 @@
   "sfm:recipes/misc/cable": {
     "criteria": {
       "has_chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -1529,9 +2375,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:26:04 +0000"
     },
     "done": true
   },
@@ -1553,6 +2423,18 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/diorite": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-10 00:08:11 +0000"
@@ -1571,15 +2453,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/dirt_1x": {
     "criteria": {
       "has_dirt": "2025-05-09 23:42:35 +0000"
     },
     "done": true
   },
+  "silentgear:recipes/misc/stone_rod": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-10 00:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -1602,10 +2526,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ca": {
     "criteria": {
       "has_wit": "2025-05-09 23:39:33 +0000",
       "has_wct": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -1688,6 +2624,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/flux_sieve": {
+    "criteria": {
+      "has_sieve": "2025-05-10 00:23:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2025-05-09 23:51:54 +0000"
@@ -1697,6 +2651,12 @@
   "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
     "criteria": {
       "has_oak_log": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -1712,9 +2672,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-05-10 00:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_1x": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -1739,6 +2723,12 @@
   "exdeorum:core/root": {
     "criteria": {
       "in_void_world": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-10 00:26:09 +0000"
     },
     "done": true
   },
@@ -1792,6 +2782,18 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/diorite_1x": {
+    "criteria": {
+      "has_diorite": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
@@ -1810,6 +2812,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/basalt": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:26 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/food/utility/charcoal_from_campfire": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
@@ -1825,6 +2839,18 @@
   "translocators:recipes/redstone/fluid_translocator": {
     "criteria": {
       "has_piston": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
@@ -1864,6 +2890,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-10 00:25:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-09 23:57:29 +0000"
@@ -1888,9 +2920,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-10 00:26:12 +0000"
     },
     "done": true
   },
@@ -1906,15 +2962,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-05-09 23:41:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:02 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_red": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-10 00:25:58 +0000"
     },
     "done": true
   },
@@ -1942,6 +3028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
@@ -1960,6 +3052,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:26:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-09 23:42:50 +0000"
@@ -1969,6 +3067,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-10 00:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-10 00:27:35 +0000"
     },
     "done": true
   },
