@@ -7165,6 +7165,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/lead_dust": {
+    "criteria": {
+      "has_lead": "2025-05-10 01:50:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-05-10 00:13:52 +0000"
@@ -7267,6 +7273,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-05-10 01:52:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-05-10 01:13:35 +0000"
@@ -7303,6 +7315,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-05-10 01:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-10 00:05:24 +0000"
@@ -7324,6 +7342,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-10 00:40:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-10 01:49:59 +0000"
     },
     "done": true
   },
@@ -7471,6 +7495,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-10 01:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-10 01:35:14 +0000"
@@ -7525,6 +7555,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/aluminum_dust": {
+    "criteria": {
+      "has_aluminum": "2025-05-10 01:49:59 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
@@ -7576,6 +7612,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-05-10 00:28:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-10 01:50:02 +0000"
     },
     "done": true
   },
@@ -7969,6 +8011,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust": {
+    "criteria": {
+      "has_silver": "2025-05-10 01:50:04 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/gold_dust": {
     "criteria": {
       "has_gold": "2025-05-10 00:14:43 +0000"
@@ -8089,6 +8137,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-10 01:50:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-10 01:08:19 +0000"
@@ -8155,6 +8209,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-05-10 01:50:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
@@ -8218,6 +8278,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-10 01:50:04 +0000"
     },
     "done": true
   },
@@ -8428,6 +8494,12 @@
   "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-10 01:49:59 +0000"
     },
     "done": true
   },
@@ -8980,6 +9052,12 @@
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2025-05-10 01:09:47 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-05-10 01:50:04 +0000"
     },
     "done": true
   },
