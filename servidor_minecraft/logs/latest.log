@@ -54,3 +54,19 @@
 [10May2025 01:24:54.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
 [10May2025 01:24:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
 [10May2025 01:32:31.288] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[10May2025 01:35:45.138] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@784fb7b7[id=<null>,name=BURPIX,properties={},legacy=false] (/127.205.129.119:53655) lost connection: Disconnected
+[10May2025 01:35:49.228] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[10May2025 01:36:01.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:47827] logged in with entity id 6187 at (-4093.5644713277497, 67.0, 3.080546746920569)
+[10May2025 01:36:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[10May2025 01:36:01.167] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[10May2025 01:36:01.168] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[10May2025 01:36:12.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy lost connection: Disconnected
+[10May2025 01:36:12.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy left the game
+[10May2025 01:36:59.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Timed out
+[10May2025 01:36:59.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[10May2025 01:36:59.101] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10May2025 01:39:14.906] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[10May2025 01:39:26.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:46283] logged in with entity id 6810 at (-4093.5644713277497, 67.0, 3.080546746920569)
+[10May2025 01:39:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[10May2025 01:39:26.862] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[10May2025 01:39:26.863] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
