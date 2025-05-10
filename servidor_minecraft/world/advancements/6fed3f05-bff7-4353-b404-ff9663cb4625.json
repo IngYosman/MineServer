@@ -3367,8 +3367,11 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "cooked_shrimp": "2025-05-10 21:10:49 +0000",
       "scrambled_eggs": "2025-05-10 02:14:59 +0000",
-      "toast": "2025-05-10 00:34:43 +0000"
+      "toast": "2025-05-10 00:34:43 +0000",
+      "oyster": "2025-05-10 21:10:49 +0000",
+      "crab": "2025-05-10 21:12:43 +0000"
     },
     "done": false
   },
@@ -8763,6 +8766,18 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/item_card": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_five_from_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
@@ -8775,9 +8790,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_ten": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-05-10 21:05:52 +0000"
     },
     "done": true
   },
@@ -8817,6 +8850,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/item_card_flipped": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
@@ -8847,6 +8904,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/reinforced_filter_rail": {
     "criteria": {
       "criterion1": "2025-05-10 20:54:45 +0000"
@@ -8865,9 +8928,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-05-10 21:12:43 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-10 21:10:34 +0000"
     },
     "done": true
   },
@@ -8895,6 +8970,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-10 21:10:34 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_five_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
@@ -8904,6 +8991,12 @@
   "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
     },
     "done": true
   },
@@ -8922,6 +9015,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-10 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
     },
     "done": true
   },
@@ -8949,15 +9048,63 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-05-10 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_and_you": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/fortune_cookie": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-10 21:05:52 +0000"
     },
     "done": true
   },
@@ -8985,15 +9132,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
     "criteria": {
       "has_certus_quartz": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
     },
     "done": true
   },
@@ -9009,9 +9180,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-05-10 21:12:43 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-05-10 21:10:33 +0000"
     },
     "done": true
   },
@@ -9021,9 +9210,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 21:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_card": {
+    "criteria": {
+      "paper": "2025-05-10 21:05:52 +0000"
     },
     "done": true
   },
@@ -9036,6 +9249,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-10 20:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
     },
     "done": true
   },
@@ -9057,15 +9276,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/synthetic_point": {
     "criteria": {
       "has_nugget": "2025-05-10 20:54:45 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/fishy_bees": {
+    "criteria": {
+      "catch": "2025-05-10 21:09:57 +0000"
     },
     "done": true
   },
@@ -9078,6 +9327,18 @@
   "utilitix:recipes/misc/filter_rail": {
     "criteria": {
       "criterion1": "2025-05-10 20:54:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-10 21:10:34 +0000"
     },
     "done": true
   },
@@ -9147,9 +9408,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
     },
     "done": true
   },
@@ -9177,9 +9450,39 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 21:10:34 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-05-10 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/enchanter": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
     },
     "done": true
   },
