@@ -8757,5 +8757,11 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/compressed_iron_hammer": {
+    "criteria": {
+      "has_item": "2025-05-10 20:07:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
