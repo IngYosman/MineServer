@@ -5035,9 +5035,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-05-10 02:30:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-05-10 02:18:40 +0000"
+    },
+    "done": true
+  },
+  "dankstorage:recipes/tools/dank_2": {
+    "criteria": {
+      "has_dank_1": "2025-05-10 02:30:34 +0000"
+    },
+    "done": true
+  },
+  "dankstorage:recipes/tools/dank_1": {
+    "criteria": {
+      "has_barrel": "2025-05-10 02:30:00 +0000"
     },
     "done": true
   },
@@ -5059,6 +5077,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-10 02:30:00 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/stone_1x": {
     "criteria": {
       "has_stone": "2025-05-10 02:18:40 +0000"
@@ -5068,6 +5092,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-10 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "dankstorage:recipes/tools/1_to_2": {
+    "criteria": {
+      "has_dank_1": "2025-05-10 02:30:34 +0000"
     },
     "done": true
   },
@@ -5140,6 +5170,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-10 02:18:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-10 02:30:00 +0000"
     },
     "done": true
   },
