@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-05-10 00:15:50 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_blue_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/mob_bell": {
+    "criteria": {
+      "criterion2": "2025-05-10 00:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
@@ -263,6 +275,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-10 00:15:51 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
@@ -278,6 +296,12 @@
   "productivetrees:recipes/misc/crates/red_delicious_apple_crate_unpack": {
     "criteria": {
       "has_apple": "2025-05-09 23:46:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-05-10 00:15:50 +0000"
     },
     "done": true
   },
@@ -314,6 +338,12 @@
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2025-05-09 23:53:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-05-10 00:15:50 +0000"
     },
     "done": true
   },
@@ -437,6 +467,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-10 00:16:57 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-09 23:39:33 +0000"
@@ -479,6 +515,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/bone_crook": {
+    "criteria": {
+      "has_item": "2025-05-10 00:16:57 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/misc/fancy_cable": {
     "criteria": {
       "has_chest": "2025-05-09 23:51:54 +0000"
@@ -491,6 +533,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm": {
+    "criteria": {
+      "has_item": "2025-05-10 00:13:33 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/oak_crucible": {
     "criteria": {
       "has_item": "2025-05-09 23:57:29 +0000"
@@ -500,6 +548,12 @@
   "allthecompressed:recipes/building_blocks/compress/oak_planks_1x": {
     "criteria": {
       "has_oak_planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-10 00:15:51 +0000"
     },
     "done": true
   },
@@ -575,6 +629,12 @@
     },
     "done": true
   },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2025-05-10 00:13:33 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
@@ -596,6 +656,12 @@
   "xnet:recipes/xnet/netcable_blue_dye": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-05-10 00:15:51 +0000"
     },
     "done": true
   },
@@ -680,6 +746,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-09 23:39:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-10 00:15:50 +0000"
     },
     "done": true
   },
@@ -803,6 +875,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-05-10 00:16:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
@@ -902,6 +980,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/soul_wafer": {
+    "criteria": {
+      "has_bone": "2025-05-10 00:16:57 +0000"
     },
     "done": true
   },
@@ -1037,6 +1121,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-10 00:15:51 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_red": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
@@ -1148,6 +1238,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 00:15:51 +0000"
     },
     "done": true
   },
@@ -1274,6 +1370,12 @@
   "utilitix:recipes/misc/highspeed_rail": {
     "criteria": {
       "criterion1": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-10 00:16:57 +0000"
     },
     "done": true
   },
@@ -1660,6 +1762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-10 00:15:51 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_green_dye": {
     "criteria": {
       "chest": "2025-05-09 23:51:54 +0000"
@@ -1705,6 +1813,12 @@
   "utilitarian:recipes/food/utility/charcoal_from_campfire": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-05-10 00:13:33 +0000"
     },
     "done": true
   },
@@ -1837,6 +1951,12 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-05-09 23:46:41 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-10 00:13:33 +0000"
     },
     "done": true
   },

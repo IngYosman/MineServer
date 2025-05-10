@@ -5858,5 +5858,11 @@
     },
     "done": true
   },
+  "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
+    "criteria": {
+      "has_item": "2025-05-10 00:11:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
