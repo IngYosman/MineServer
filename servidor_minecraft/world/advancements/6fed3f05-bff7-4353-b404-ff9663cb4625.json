@@ -5193,6 +5193,756 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 02:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-10 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust": {
+    "criteria": {
+      "has_copper": "2025-05-10 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-05-10 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-10 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/copper_block_from_blasting": {
+    "criteria": {
+      "has_raw_copper": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/copper_block_from_smelting": {
+    "criteria": {
+      "has_raw_copper": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/copper_torch_raw": {
+    "criteria": {
+      "has_copper": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-05-10 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_fluid_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/port_fluid": {
+    "criteria": {
+      "has_bucket": "2025-05-10 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_bucket": {
+    "criteria": {
+      "has_bucket": "2025-05-10 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-05-10 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/misc/water_tank": {
+    "criteria": {
+      "has_water": "2025-05-10 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-05-10 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-10 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-05-10 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-05-10 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rs_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/mob_yoinker": {
+    "criteria": {
+      "criterion1": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/copper_torch": {
+    "criteria": {
+      "has_copper": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/copper_block_1x": {
+    "criteria": {
+      "has_copper_block": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ore_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lumium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-05-10 03:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-05-10 03:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-05-10 03:10:17 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/restraining_order": {
+    "criteria": {
+      "has_lead": "2025-05-10 03:12:40 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shapeless/balloon_on_a_stick": {
+    "criteria": {
+      "has_lead": "2025-05-10 03:12:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5202,12 +5952,6 @@
   "ars_nouveau:recipes/misc/ritual_fertility": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5223,12 +5967,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/peridot_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5238,12 +5976,6 @@
   "ars_nouveau:recipes/misc/green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
     },
     "done": true
   },
@@ -5283,18 +6015,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/wrench": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5313,51 +6033,15 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "trashcans:recipes/misc/liquid_trash_can": {
-    "criteria": {
-      "recipe_condition": "2025-05-10 03:08:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-05-10 03:22:41 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/rs_engineering": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_fence": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "bloodmagic:recipes/misc/sacrificial_dagger": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5373,12 +6057,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5391,21 +6069,9 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/concrete_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/glass_bridge": {
-    "criteria": {
-      "has_planks": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5433,45 +6099,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/fir_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-05-10 03:43:11 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/arcane_core": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/driftwood_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_tuff": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/hourglass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5487,93 +6123,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-05-10 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/porcelain_crucible": {
-    "criteria": {
-      "has_item": "2025-05-10 03:50:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-05-10 03:05:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_gravity": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/cokebrick": {
-    "criteria": {
-      "has_item": "2025-05-10 03:24:20 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/cherry_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/copper_nugget": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
     },
     "done": true
   },
@@ -5601,12 +6159,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5616,12 +6168,6 @@
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
     },
     "done": true
   },
@@ -5643,45 +6189,15 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/copper_ingot_from_block": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:19 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_to_chest": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/voltmeter": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/umbran_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -5697,18 +6213,6 @@
     },
     "done": true
   },
-  "xnet:recipes/xnet/facade": {
-    "criteria": {
-      "glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-10 03:09:19 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/greater_experience_gem": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5721,27 +6225,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_caelum:recipes/misc/ritual_conjure_island_village": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/space_chamber_card": {
-    "criteria": {
-      "glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/dark_oak_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -5751,21 +6237,9 @@
     },
     "done": true
   },
-  "megacells:recipes/misc/cells/mega_item_cell_housing": {
-    "criteria": {
-      "has_dusts/sky_stone": "2025-05-10 03:43:11 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_stairs": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/tin_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
     },
     "done": true
   },
@@ -5775,45 +6249,9 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/aspen_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/magic_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/mahogany_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/concrete": {
-    "criteria": {
-      "has_clay": "2025-05-10 03:24:20 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/mob_charm": {
-    "criteria": {
-      "has_mob_charm_fragment": "2025-05-10 04:05:58 +0000"
     },
     "done": true
   },
@@ -5871,24 +6309,6 @@
     },
     "done": true
   },
-  "sfm:recipes/misc/water_tank": {
-    "criteria": {
-      "has_water": "2025-05-10 03:08:45 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/jungle_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ring_of_potential": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5904,30 +6324,6 @@
   "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/unfired_porcelain_bucket": {
-    "criteria": {
-      "has_item": "2025-05-10 03:26:52 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/decorations/shaped/lamp_pole": {
-    "criteria": {
-      "has_aluminum": "2025-05-10 03:43:11 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/glass_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5949,27 +6345,9 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
-    "criteria": {
-      "glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
-    "criteria": {
-      "glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5979,39 +6357,9 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/grimwood_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-05-10 04:06:00 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/bamboo_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_lv": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/statue": {
-    "criteria": {
-      "has_clay": "2025-05-10 03:22:41 +0000"
     },
     "done": true
   },
@@ -6033,18 +6381,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6063,39 +6399,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/misc/unpacking/xychorium_gem_green": {
-    "criteria": {
-      "has_xychorium_storage_green": "2025-05-10 03:43:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_dark": {
-    "criteria": {
-      "has_xychorium_gem_dark": "2025-05-10 03:43:13 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/runic_chalk": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-05-10 03:52:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6108,30 +6414,6 @@
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/crimson_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/mangrove_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -6153,45 +6435,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/cog_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/grimwood_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/birch_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-05-10 03:09:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -6201,27 +6447,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/glass_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/dead_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
     },
     "done": true
   },
@@ -6237,63 +6465,15 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/sapphire_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/mob_yoinker": {
-    "criteria": {
-      "criterion1": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/stonecutting/glass": {
-    "criteria": {
-      "has_for_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/hellbark_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/birch_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/redwood_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -6315,33 +6495,9 @@
     },
     "done": true
   },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-05-10 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/hellbark_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/redstone_relay": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/misc/compacting/xychorium_gem_green": {
-    "criteria": {
-      "has_xychorium_gem_green": "2025-05-10 03:43:11 +0000"
     },
     "done": true
   },
@@ -6351,33 +6507,15 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
-    "criteria": {
-      "has_chorus": "2025-05-10 04:06:00 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/oak_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -6399,12 +6537,6 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/redwood_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_blazin_sapling": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6417,33 +6549,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_silicon": {
-    "criteria": {
-      "has_for_glass_viewer_silicon": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/blasting/sky_stone_block": {
-    "criteria": {
-      "has_sky_stone_dust": "2025-05-10 03:43:11 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/mangrove_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/acacia_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -6459,12 +6567,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/zinc_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6474,30 +6576,6 @@
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/empty_casing": {
-    "criteria": {
-      "has_coppper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/aspen_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/fir_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/willow_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -6513,45 +6591,15 @@
     },
     "done": true
   },
-  "expatternprovider:recipes/misc/circuit_cutter": {
-    "criteria": {
-      "has_item": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/dead_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -6567,12 +6615,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6582,36 +6624,6 @@
   "ars_nouveau:recipes/misc/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/root": {
-    "criteria": {
-      "sword": "2025-05-10 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/spruce_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -6633,12 +6645,6 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/yucca_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/tablet_ritual_detection": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6651,21 +6657,9 @@
     },
     "done": true
   },
-  "botania:main/apothecary_pickup": {
-    "criteria": {
-      "apothecary": "2025-05-10 03:14:39 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
-    "criteria": {
-      "has_dusts/sky_stone": "2025-05-10 03:43:11 +0000"
     },
     "done": true
   },
@@ -6693,18 +6687,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/powerpack": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/wisteria_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/tablet_ritual_attraction": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6717,69 +6699,15 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/ruby_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/mosaic_glass": {
-    "criteria": {
-      "has_wood": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/yucca_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/restraining_order": {
-    "criteria": {
-      "has_lead": "2025-05-10 03:12:40 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/copper_block_from_blasting": {
-    "criteria": {
-      "has_raw_copper": "2025-05-10 03:05:31 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
-    "criteria": {
-      "has_armor": "2025-05-10 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/decorations/utrem_jar": {
-    "criteria": {
-      "has_glass/colorless": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6807,12 +6735,6 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/copper_dust": {
-    "criteria": {
-      "has_copper": "2025-05-10 03:05:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_flight": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6831,12 +6753,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/iron_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_caelum:recipes/misc/ritual_conjure_island_end_portal": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6849,33 +6765,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-05-10 02:59:52 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/concrete_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6903,18 +6801,6 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/mahogany_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/kousa_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6924,12 +6810,6 @@
   "ars_nouveau:recipes/misc/spike_to_arrow": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/jungle_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -6957,75 +6837,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-10 03:09:19 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/jacaranda_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
-    "criteria": {
-      "has_chorus": "2025-05-10 04:06:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-05-10 03:24:20 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
-    "criteria": {
-      "has_tool": "2025-05-10 03:10:17 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/moonfall_2": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -7053,45 +6873,15 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/dark_oak_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-05-10 03:05:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -7113,27 +6903,9 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/spruce_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/basic_fluid_filter": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 03:08:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blank_parchment": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
     },
     "done": true
   },
@@ -7149,33 +6921,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
-    "criteria": {
-      "has_xychorium_storage_dark": "2025-05-10 03:43:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/copper_block_from_smelting": {
-    "criteria": {
-      "has_raw_copper": "2025-05-10 03:05:31 +0000"
     },
     "done": true
   },
@@ -7191,60 +6939,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-05-10 03:24:20 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/wisteria_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/palm_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/comb_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 04:05:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-05-10 03:35:49 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/river_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7257,27 +6951,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
-    "criteria": {
-      "has_chorus": "2025-05-10 04:06:00 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/porcelain_clay_ball": {
-    "criteria": {
-      "has_item": "2025-05-10 03:24:20 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/empty_shell": {
-    "criteria": {
-      "has_coppper_ingot": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -7287,39 +6963,9 @@
     },
     "done": true
   },
-  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/purple_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/copper_torch_raw": {
-    "criteria": {
-      "has_copper": "2025-05-10 03:05:31 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/maple_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_sword": "2025-05-10 03:10:17 +0000"
     },
     "done": true
   },
@@ -7359,18 +7005,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/source_berry_roll": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7407,27 +7041,9 @@
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/clay_1x": {
-    "criteria": {
-      "has_clay": "2025-05-10 03:22:41 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
-    "criteria": {
-      "glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/horn_to_bonemeal": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -7437,51 +7053,9 @@
     },
     "done": true
   },
-  "utilitix:recipes/misc/gilding_crystal": {
-    "criteria": {
-      "criterion1": "2025-05-10 04:06:00 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/driftwood_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/gold_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
     },
     "done": true
   },
@@ -7497,51 +7071,9 @@
     },
     "done": true
   },
-  "exdeorum:recipes/misc/stone_barrel": {
-    "criteria": {
-      "has_item": "2025-05-10 03:35:49 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/copper_block_1x": {
-    "criteria": {
-      "has_copper_block": "2025-05-10 03:09:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/port_fluid": {
-    "criteria": {
-      "has_bucket": "2025-05-10 03:08:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -7563,27 +7095,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/altimeter": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-05-10 03:45:56 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/kousa_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -7599,45 +7113,15 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/warped_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/bronze_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_belt": {
-    "criteria": {
-      "has_mob_charm_fragment": "2025-05-10 04:05:58 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/magebloom_fiber": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/redstone/force_engine": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/fluid_void": {
-    "criteria": {
-      "has_dark_xychorium": "2025-05-10 03:43:13 +0000"
     },
     "done": true
   },
@@ -7650,12 +7134,6 @@
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/bamboo_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -7677,33 +7155,9 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/magic_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-10 03:09:19 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/spore_blossom_up": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
     },
     "done": true
   },
@@ -7719,33 +7173,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-05-10 03:22:59 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/rosewood_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/river_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/planter": {
-    "criteria": {
-      "has_green_xychorium": "2025-05-10 03:43:11 +0000"
     },
     "done": true
   },
@@ -7755,39 +7185,15 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/misc/compacting/xychorium_gem_dark": {
-    "criteria": {
-      "has_xychorium_gem_dark": "2025-05-10 03:43:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
-    "criteria": {
-      "glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/willow_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -7803,18 +7209,6 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
-    "criteria": {
-      "has_raw_copper": "2025-05-10 03:05:31 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass1": {
-    "criteria": {
-      "recipe_condition": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7824,18 +7218,6 @@
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-05-10 04:05:57 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/copper_torch": {
-    "criteria": {
-      "has_copper": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -7857,33 +7239,9 @@
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/jacaranda_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap": {
-    "criteria": {
-      "has_water_bucket": "2025-05-10 03:08:45 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/snake_block_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-05-10 03:09:15 +0000"
     },
     "done": true
   },
@@ -7893,45 +7251,9 @@
     },
     "done": true
   },
-  "utilitix:recipes/misc/stonecutter_cart": {
-    "criteria": {
-      "criterion0": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/acacia_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/umbran_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/tiny_tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-05-10 03:43:11 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_dire": {
-    "criteria": {
-      "has_for_glass_viewer_dire": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -8019,12 +7341,6 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-05-10 03:05:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -8049,12 +7365,6 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -8073,21 +7383,9 @@
     },
     "done": true
   },
-  "exdeorum:recipes/misc/unfired_porcelain_crucible": {
-    "criteria": {
-      "has_item": "2025-05-10 03:26:52 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/source_gem_block_2": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/palm_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -8097,63 +7395,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-05-10 03:09:19 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/glass_1x": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/signalum_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-05-10 03:05:31 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
     },
     "done": true
   },
@@ -8169,51 +7419,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_green": {
-    "criteria": {
-      "has_xychorium_gem_green": "2025-05-10 03:43:11 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
-    "criteria": {
-      "has_item": "2025-05-10 03:05:31 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/light_engineering": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/crimson_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/maple_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -8253,33 +7461,15 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_bucket": {
-    "criteria": {
-      "has_bucket": "2025-05-10 03:08:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/oak_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-05-10 03:08:45 +0000"
     },
     "done": true
   },
@@ -8331,18 +7521,6 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
-    "criteria": {
-      "has_clay_ball": "2025-05-10 03:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-05-10 03:05:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/purple_sbed": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -8361,63 +7539,15 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer": {
-    "criteria": {
-      "has_for_glass_viewer": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shapeless/balloon_on_a_stick": {
-    "criteria": {
-      "has_lead": "2025-05-10 03:12:40 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/warped_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/wire_copper": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/snake_block_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/rosewood_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -8445,18 +7575,6 @@
     },
     "done": true
   },
-  "forcecraft:recipes/misc/force_flask": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -8469,39 +7587,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/radiator": {
-    "criteria": {
-      "has_water_bucket": "2025-05-10 03:08:45 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
     },
     "done": true
   },
-  "productivebees:recipes/misc/stonecutter/comb_canvas_expansion_box": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -8529,12 +7623,6 @@
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-05-10 03:49:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -8553,39 +7641,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/brass_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blank_thread": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/constantan_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/iron_dust_from_hammer_crushing": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "productivebees:recipes/misc/stonecutter/cherry_canvas_hive": {
-    "criteria": {
-      "has_stonecutter": "2025-05-10 03:35:41 +0000"
     },
     "done": true
   },
@@ -8598,18 +7656,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lumium_dust_from_alloy_blending": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_ore_hammer": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:19 +0000"
     },
     "done": true
   },
@@ -8649,27 +7695,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/hose_pulley": {
-    "criteria": {
-      "has_item": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_water_bottle": {
-    "criteria": {
-      "has_water": "2025-05-10 03:08:45 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_sword": "2025-05-10 03:10:17 +0000"
     },
     "done": true
   },
@@ -8685,39 +7713,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/root": {
-    "criteria": {
-      "copper": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-05-10 03:43:11 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-10 03:09:15 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/jerrycan": {
-    "criteria": {
-      "has_bucket": "2025-05-10 03:08:43 +0000"
     },
     "done": true
   },
@@ -8727,21 +7725,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/flight_alt": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-05-10 03:05:31 +0000"
     },
     "done": true
   },
@@ -8754,6 +7740,1020 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-05-10 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-10 03:22:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-05-10 03:22:41 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/clay_1x": {
+    "criteria": {
+      "has_clay": "2025-05-10 03:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/porcelain_clay_ball": {
+    "criteria": {
+      "has_item": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/unfired_porcelain_bucket": {
+    "criteria": {
+      "has_item": "2025-05-10 03:26:52 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/unfired_porcelain_crucible": {
+    "criteria": {
+      "has_item": "2025-05-10 03:26:52 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/concrete_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/fir_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/driftwood_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/cherry_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/umbran_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/dark_oak_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/aspen_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/magic_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/mahogany_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/jungle_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/grimwood_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/bamboo_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/crimson_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/mangrove_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/grimwood_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/birch_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/dead_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/hellbark_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/birch_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/redwood_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/hellbark_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/oak_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/redwood_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/mangrove_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/acacia_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/aspen_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/fir_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/willow_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/circuit_cutter": {
+    "criteria": {
+      "has_item": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/dead_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/spruce_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/yucca_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/wisteria_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/yucca_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/concrete_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/mahogany_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/kousa_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/jungle_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/jacaranda_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/dark_oak_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/spruce_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/wisteria_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/palm_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/comb_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/river_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/maple_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/driftwood_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/kousa_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/warped_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/bamboo_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/magic_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/rosewood_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/river_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/willow_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/jacaranda_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/snake_block_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/stonecutter_cart": {
+    "criteria": {
+      "criterion0": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/acacia_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/umbran_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/palm_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/crimson_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/maple_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/oak_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/warped_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/snake_block_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/rosewood_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/comb_canvas_expansion_box": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/stonecutter/cherry_canvas_hive": {
+    "criteria": {
+      "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-10 03:35:49 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/stone_barrel": {
+    "criteria": {
+      "has_item": "2025-05-10 03:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/cells/mega_item_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/decorations/shaped/lamp_pole": {
+    "criteria": {
+      "has_aluminum": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_dust": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/planter": {
+    "criteria": {
+      "has_green_xychorium": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-05-10 03:43:13 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/fluid_void": {
+    "criteria": {
+      "has_dark_xychorium": "2025-05-10 03:43:13 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-05-10 03:43:13 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_storage_green": "2025-05-10 03:43:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_storage_dark": "2025-05-10 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-10 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-10 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-05-10 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-10 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-05-10 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-10 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/porcelain_crucible": {
+    "criteria": {
+      "has_item": "2025-05-10 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-10 03:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_card": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass": {
+    "criteria": {
+      "has_for_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_silicon": {
+    "criteria": {
+      "has_for_glass_viewer_silicon": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass/colorless": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/redstone/force_engine": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_dire": {
+    "criteria": {
+      "has_for_glass_viewer_dire": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/glass_1x": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer": {
+    "criteria": {
+      "has_for_glass_viewer": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_flask": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 04:05:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-10 04:05:57 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-10 04:05:58 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-10 04:05:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-10 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-10 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-10 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/gilding_crystal": {
+    "criteria": {
+      "criterion1": "2025-05-10 04:06:00 +0000"
     },
     "done": true
   },
