@@ -6538,6 +6538,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_hoe": {
+    "criteria": {
+      "has_tool": "2025-05-10 02:20:57 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/reinforced_filter_rail": {
     "criteria": {
       "criterion1": "2025-05-10 02:08:41 +0000"
