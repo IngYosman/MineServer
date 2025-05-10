@@ -7111,6 +7111,12 @@
     },
     "done": true
   },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-05-10 02:00:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-05-10 01:13:35 +0000"
@@ -7138,6 +7144,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-05-10 02:04:39 +0000"
     },
     "done": true
   },
@@ -7213,6 +7225,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
@@ -7225,9 +7243,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-05-10 02:02:58 +0000"
     },
     "done": true
   },
@@ -7252,6 +7282,18 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_2x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-05-10 02:02:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-05-10 02:04:39 +0000"
     },
     "done": true
   },
@@ -7348,6 +7390,12 @@
   "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-10 01:49:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-05-10 02:04:50 +0000"
     },
     "done": true
   },
@@ -7483,6 +7531,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2025-05-10 01:07:40 +0000"
@@ -7522,6 +7582,12 @@
   "forbidden_arcanus:recipes/misc/deorum_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-10 01:59:23 +0000"
     },
     "done": true
   },
@@ -7576,6 +7642,12 @@
   "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
     "criteria": {
       "has_item": "2025-05-10 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-05-10 02:02:43 +0000"
     },
     "done": true
   },
@@ -7699,6 +7771,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-05-10 02:04:50 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
     "criteria": {
       "has_ingots/gold": "2025-05-10 00:41:43 +0000"
@@ -7735,9 +7813,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },
@@ -7780,6 +7870,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-10 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },
@@ -7846,6 +7942,12 @@
   "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },
@@ -7963,6 +8065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-10 02:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-10 01:35:14 +0000"
@@ -8005,6 +8113,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
@@ -8014,6 +8128,12 @@
   "occultism:recipes/crushing/crushing/silver_dust": {
     "criteria": {
       "has_silver": "2025-05-10 01:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-10 02:04:50 +0000"
     },
     "done": true
   },
@@ -8299,6 +8419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-10 00:06:02 +0000"
@@ -8503,6 +8629,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
@@ -8524,6 +8656,12 @@
   "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },
@@ -8572,6 +8710,12 @@
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/alfsteel_pylon": {
+    "criteria": {
+      "criterion2": "2025-05-10 02:04:39 +0000"
     },
     "done": true
   },
@@ -8701,6 +8845,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
@@ -8758,6 +8908,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-05-10 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },
@@ -8887,9 +9043,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/fluid_placer": {
     "criteria": {
       "has_iron_plate": "2025-05-10 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },
@@ -8917,9 +9085,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-05-10 02:04:38 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },
@@ -8938,6 +9118,12 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-05-10 01:13:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },
@@ -8998,6 +9184,12 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-10 02:04:38 +0000"
     },
     "done": true
   },

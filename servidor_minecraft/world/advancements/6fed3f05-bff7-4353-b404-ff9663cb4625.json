@@ -4961,6 +4961,12 @@
     },
     "done": false
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_axe": {
+    "criteria": {
+      "has_tool": "2025-05-10 01:58:28 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/silver_tag": {
     "criteria": {
       "has_item": "2025-05-10 01:45:36 +0000"
