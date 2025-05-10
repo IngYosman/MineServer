@@ -5205,6 +5205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5319,6 +5325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5340,6 +5352,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_fence": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5382,6 +5400,12 @@
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5445,6 +5469,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sconce": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5481,9 +5511,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5655,6 +5697,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-05-10 03:09:19 +0000"
@@ -5673,9 +5721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_caelum:recipes/misc/ritual_conjure_island_village": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_card": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5727,6 +5787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/mahogany_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-05-10 03:35:41 +0000"
@@ -5742,6 +5808,12 @@
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-10 04:05:58 +0000"
     },
     "done": true
   },
@@ -5835,6 +5907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/unfired_porcelain_bucket": {
     "criteria": {
       "has_item": "2025-05-10 03:26:52 +0000"
@@ -5844,6 +5922,12 @@
   "xycraft_world:recipes/decorations/shaped/lamp_pole": {
     "criteria": {
       "has_aluminum": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -5865,6 +5949,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5877,6 +5967,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/green_shield_template_block": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5886,6 +5982,12 @@
   "productivebees:recipes/misc/stonecutter/grimwood_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 04:06:00 +0000"
     },
     "done": true
   },
@@ -5982,6 +6084,18 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-05-10 03:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6087,6 +6201,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6132,6 +6252,12 @@
   "utilitix:recipes/misc/mob_yoinker": {
     "criteria": {
       "criterion1": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass": {
+    "criteria": {
+      "has_for_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6195,6 +6321,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/hellbark_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-05-10 03:35:41 +0000"
@@ -6216,6 +6348,12 @@
   "ars_nouveau:recipes/misc/mundane_belt": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-10 04:06:00 +0000"
     },
     "done": true
   },
@@ -6276,6 +6414,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_silicon": {
+    "criteria": {
+      "has_for_glass_viewer_silicon": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6387,6 +6531,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6444,6 +6594,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6567,6 +6723,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -6576,6 +6738,12 @@
   "productivebees:recipes/misc/stonecutter/yucca_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6606,6 +6774,12 @@
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
     "criteria": {
       "has_armor": "2025-05-10 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass/colorless": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6696,6 +6870,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -6801,9 +6981,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-10 03:22:59 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-10 04:06:00 +0000"
     },
     "done": true
   },
@@ -6885,6 +7077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-10 03:05:31 +0000"
@@ -6963,6 +7161,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7023,6 +7227,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 04:05:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-05-10 03:35:49 +0000"
@@ -7044,6 +7254,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-10 04:06:00 +0000"
     },
     "done": true
   },
@@ -7143,6 +7359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-05-10 03:09:15 +0000"
@@ -7191,6 +7413,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/red_shield_template_block": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/horn_to_bonemeal": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7209,9 +7437,21 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/gilding_crystal": {
+    "criteria": {
+      "criterion1": "2025-05-10 04:06:00 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/driftwood_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-05-10 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -7377,9 +7617,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-10 04:05:58 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/magebloom_fiber": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/redstone/force_engine": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -7521,6 +7773,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7551,6 +7809,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7560,6 +7824,12 @@
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-10 04:05:57 +0000"
     },
     "done": true
   },
@@ -7635,6 +7905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/acacia_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-05-10 03:35:41 +0000"
@@ -7650,6 +7926,12 @@
   "ae2:recipes/misc/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-10 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_dire": {
+    "criteria": {
+      "has_for_glass_viewer_dire": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -7767,6 +8049,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7812,6 +8100,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-05-10 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/glass_1x": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -7914,6 +8208,12 @@
   "ars_nouveau:recipes/misc/red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -8061,6 +8361,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer": {
+    "criteria": {
+      "has_for_glass_viewer": "2025-05-10 04:01:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shapeless/balloon_on_a_stick": {
     "criteria": {
       "has_lead": "2025-05-10 03:12:40 +0000"
@@ -8088,6 +8394,12 @@
   "immersiveengineering:recipes/misc/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 03:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -8130,6 +8442,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_flask": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -8178,6 +8496,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
@@ -8400,6 +8724,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-05-10 04:01:46 +0000"
     },
     "done": true
   },
