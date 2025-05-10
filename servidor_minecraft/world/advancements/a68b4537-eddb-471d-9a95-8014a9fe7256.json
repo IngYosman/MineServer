@@ -7182,6 +7182,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand": "2025-05-10 00:51:30 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
@@ -7317,6 +7323,12 @@
   "alltheores:recipes/misc/copper_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
+    "criteria": {
+      "has_tool": "2025-05-10 00:49:15 +0000"
     },
     "done": true
   },
@@ -7482,6 +7494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-10 00:51:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-10 00:35:49 +0000"
@@ -7596,6 +7614,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-10 00:51:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2025-05-10 00:35:49 +0000"
@@ -7665,6 +7689,12 @@
   "alltheores:recipes/misc/ruby_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/soul_snad": {
+    "criteria": {
+      "has_soul_sand": "2025-05-10 00:51:30 +0000"
     },
     "done": true
   },
@@ -7962,6 +7992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-10 00:51:30 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/blood_altar": {
     "criteria": {
       "has_gold": "2025-05-10 00:41:43 +0000"
@@ -8199,6 +8235,12 @@
   "forcecraft:recipes/misc/force_ingot_from_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_hoe": {
+    "criteria": {
+      "has_tool": "2025-05-10 00:49:46 +0000"
     },
     "done": true
   },
