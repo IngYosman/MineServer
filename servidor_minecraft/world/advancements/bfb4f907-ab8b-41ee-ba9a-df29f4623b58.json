@@ -6046,6 +6046,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/cobblestone_2x": {
+    "criteria": {
+      "has_cobblestone_1x": "2025-05-10 01:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-05-10 00:46:30 +0000"
@@ -6103,6 +6109,12 @@
   "xycraft_world:recipes/building_blocks/stonecutting/glass": {
     "criteria": {
       "has_for_glass": "2025-05-10 01:03:02 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
+    "criteria": {
+      "has_cobblestone_1x": "2025-05-10 01:25:55 +0000"
     },
     "done": true
   },
@@ -6340,6 +6352,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/piston_cart": {
+    "criteria": {
+      "criterion0": "2025-05-10 01:23:47 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-05-10 01:03:02 +0000"
@@ -6451,6 +6469,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-10 01:03:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2025-05-10 01:23:47 +0000"
     },
     "done": true
   },

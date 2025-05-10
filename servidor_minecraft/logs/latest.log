@@ -51,3 +51,6 @@
 [10May2025 01:22:12.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
 [10May2025 01:22:12.256] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
 [10May2025 01:22:12.257] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[10May2025 01:24:54.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
+[10May2025 01:24:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[10May2025 01:32:31.288] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
