@@ -70,3 +70,8 @@
 [10May2025 01:39:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
 [10May2025 01:39:26.862] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
 [10May2025 01:39:26.863] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[10May2025 01:48:14.340] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
+[10May2025 01:48:26.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DStevenTy[/127.78.127.252:48377] logged in with entity id 7793 at (-1.366101189454333, 69.0, 4092.678810256664)
+[10May2025 01:48:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
+[10May2025 01:48:26.570] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
+[10May2025 01:48:26.571] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5

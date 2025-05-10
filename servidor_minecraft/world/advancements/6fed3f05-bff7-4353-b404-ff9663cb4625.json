@@ -4960,5 +4960,11 @@
     },
     "done": false
   },
+  "exdeorum:recipes/misc/ores/silver_tag": {
+    "criteria": {
+      "has_item": "2025-05-10 01:45:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

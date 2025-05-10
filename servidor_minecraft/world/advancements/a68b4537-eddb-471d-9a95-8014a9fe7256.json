@@ -7195,6 +7195,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-10 00:41:43 +0000"
@@ -7264,6 +7270,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-05-10 01:13:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -7501,6 +7513,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-10 01:15:00 +0000"
@@ -7510,6 +7528,12 @@
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -7588,6 +7612,12 @@
   "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -7699,9 +7729,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-10 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -7780,6 +7822,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/dripstone_block_1x": {
+    "criteria": {
+      "has_dripstone_block": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -7915,6 +7963,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/gold_dust": {
     "criteria": {
       "has_gold": "2025-05-10 00:14:43 +0000"
@@ -7996,6 +8050,12 @@
   "enderio:recipes/redstone/resetting_lever_ten_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -8095,6 +8155,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-05-10 00:25:09 +0000"
@@ -8104,6 +8170,12 @@
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -8239,6 +8311,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-05-10 01:14:07 +0000"
@@ -8332,6 +8410,12 @@
   "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -8443,6 +8527,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 00:41:43 +0000"
@@ -8539,6 +8629,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-10 00:14:43 +0000"
@@ -8617,6 +8713,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-05-10 00:06:02 +0000"
@@ -8680,6 +8782,12 @@
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -8782,6 +8890,12 @@
   "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
@@ -8920,6 +9034,12 @@
   "alltheores:recipes/misc/gold_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-10 01:46:24 +0000"
     },
     "done": true
   },
