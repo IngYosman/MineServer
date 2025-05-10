@@ -7050,6 +7050,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_five_from_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
@@ -7104,6 +7116,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 00:41:43 +0000"
@@ -7119,6 +7137,12 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7161,6 +7185,12 @@
   "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
     "criteria": {
       "has_raw_gold": "2025-05-10 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7212,6 +7242,18 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-10 00:05:24 +0000"
@@ -7239,6 +7281,12 @@
   "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7302,6 +7350,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/voltmeter": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
@@ -7338,6 +7392,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
@@ -7347,6 +7407,12 @@
   "xnet:recipes/xnet/antenna_base": {
     "criteria": {
       "block": "2025-05-10 00:16:35 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/pumpkin_1x": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 00:59:05 +0000"
     },
     "done": true
   },
@@ -7434,6 +7500,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-05-10 00:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 00:41:43 +0000"
@@ -7452,9 +7524,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_five_inv": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7584,9 +7668,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/angel_block_rot": {
     "criteria": {
       "has_gold": "2025-05-10 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7602,9 +7698,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_bread": {
     "criteria": {
       "has_bread": "2025-05-10 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7626,9 +7752,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
     "criteria": {
       "has_raw_iron": "2025-05-10 00:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 00:59:05 +0000"
     },
     "done": true
   },
@@ -7641,6 +7779,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 00:59:05 +0000"
     },
     "done": true
   },
@@ -7668,6 +7812,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
@@ -7686,9 +7836,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/ruby_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7740,9 +7902,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 01:08:19 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7794,9 +7968,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 00:59:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 00:59:05 +0000"
     },
     "done": true
   },
@@ -7815,6 +8001,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7896,6 +8088,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/misc/alfsteel_template": {
     "criteria": {
       "criterion0": "2025-05-10 00:41:43 +0000"
@@ -7911,6 +8115,12 @@
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7935,6 +8145,12 @@
   "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 00:25:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -7971,6 +8187,12 @@
   "allthecompressed:recipes/building_blocks/compress/copper_block_1x": {
     "criteria": {
       "has_copper_block": "2025-05-10 00:25:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 00:59:05 +0000"
     },
     "done": true
   },
@@ -8046,6 +8268,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-05-10 00:35:49 +0000"
@@ -8055,6 +8283,12 @@
   "enderio:recipes/redstone/resetting_lever_thirty": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 00:59:05 +0000"
     },
     "done": true
   },
@@ -8091,6 +8325,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-05-10 00:35:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -8184,6 +8424,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
     "criteria": {
       "has_tool": "2025-05-10 00:40:09 +0000"
@@ -8196,6 +8448,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_five": {
     "criteria": {
       "has_ingredient": "2025-05-10 00:36:24 +0000"
@@ -8205,6 +8463,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-10 00:05:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -8232,6 +8496,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/force_ingot_from_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 00:41:43 +0000"
@@ -8256,9 +8526,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
     "criteria": {
       "has_iron_dust": "2025-05-10 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },
@@ -8298,6 +8592,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-05-10 00:28:45 +0000"
@@ -8313,6 +8613,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-05-10 00:40:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2025-05-10 01:07:40 +0000"
     },
     "done": true
   },

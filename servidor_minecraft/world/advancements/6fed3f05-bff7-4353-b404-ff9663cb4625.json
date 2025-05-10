@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-05-10 01:02:11 +0000"
+    },
+    "done": true
+  },
   "cobblefordays:recipes/misc/tier_3": {
     "criteria": {
       "has_lava": "2025-05-09 23:53:54 +0000"
@@ -4597,6 +4603,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-10 01:02:11 +0000"
     },
     "done": true
   },
