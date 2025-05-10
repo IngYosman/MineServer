@@ -5914,6 +5914,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/gravel_2x": {
+    "criteria": {
+      "has_gravel_1x": "2025-05-10 01:16:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_glass": "2025-05-10 01:03:02 +0000"
@@ -6052,6 +6058,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/sand_2x": {
+    "criteria": {
+      "has_sand_1x": "2025-05-10 01:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-10 01:03:02 +0000"
@@ -6091,6 +6103,12 @@
   "xycraft_world:recipes/building_blocks/stonecutting/glass": {
     "criteria": {
       "has_for_glass": "2025-05-10 01:03:02 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/gravel_1x": {
+    "criteria": {
+      "has_gravel_1x": "2025-05-10 01:16:34 +0000"
     },
     "done": true
   },
@@ -6217,6 +6235,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-10 01:03:02 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/sand_1x": {
+    "criteria": {
+      "has_sand_1x": "2025-05-10 01:16:34 +0000"
     },
     "done": true
   },

@@ -3557,6 +3557,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-10 01:15:08 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/copper_ore": {
     "criteria": {
       "has_item": "2025-05-10 00:32:55 +0000"
@@ -3790,6 +3796,12 @@
       "has_cobblestone": "2025-05-10 00:26:04 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-10 01:15:08 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
@@ -4163,6 +4175,12 @@
   "exdeorum:recipes/misc/ores/zinc_tag": {
     "criteria": {
       "has_item": "2025-05-10 00:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-10 01:15:08 +0000"
     },
     "done": true
   },

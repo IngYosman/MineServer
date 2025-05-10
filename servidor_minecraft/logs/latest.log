@@ -42,3 +42,12 @@
 [10May2025 01:08:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Neighborhood Brawl]
 [10May2025 01:09:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Knowledge raises the soul]
 [10May2025 01:09:47.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has reached the goal [Die Classy]
+[10May2025 01:13:32.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [The Andesite Age]
+[10May2025 01:15:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Monster Hunter]
+[10May2025 01:18:08.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
+[10May2025 01:18:08.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[10May2025 01:22:00.322] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[10May2025 01:22:12.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:43619] logged in with entity id 5665 at (-4097.5065027897745, 67.0, 3.7221073612474145)
+[10May2025 01:22:12.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[10May2025 01:22:12.256] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[10May2025 01:22:12.257] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
