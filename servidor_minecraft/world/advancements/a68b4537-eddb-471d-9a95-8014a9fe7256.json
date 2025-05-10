@@ -6002,6 +6002,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-05-10 03:29:14 +0000",
       "wheat": "2025-05-09 02:21:19 +0000",
       "pumpkin": "2025-05-10 00:22:49 +0000"
     },
@@ -10201,6 +10202,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-05-10 03:30:55 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/stonecutting/inverted_bricks_cloud_red": {
     "criteria": {
       "has_for_inverted_bricks_cloud_red": "2025-05-10 03:21:22 +0000"
@@ -10228,6 +10235,13 @@
   "botania:recipes/misc/petal_lime_double": {
     "criteria": {
       "has_alt_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-05-10 03:31:22 +0000",
+      "1": "2025-05-10 03:32:56 +0000"
     },
     "done": true
   },
@@ -10384,6 +10398,12 @@
   "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-10 02:57:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-05-10 03:32:34 +0000"
     },
     "done": true
   },

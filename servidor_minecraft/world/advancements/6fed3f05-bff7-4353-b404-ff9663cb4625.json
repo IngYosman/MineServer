@@ -5455,6 +5455,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 03:09:31 +0000"
@@ -5647,6 +5653,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -5734,6 +5746,12 @@
   "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/unfired_porcelain_bucket": {
+    "criteria": {
+      "has_item": "2025-05-10 03:26:52 +0000"
     },
     "done": true
   },
@@ -6469,6 +6487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
     "criteria": {
       "has_tool": "2025-05-10 03:10:17 +0000"
@@ -6625,6 +6649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-10 03:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-10 03:22:59 +0000"
@@ -6646,6 +6676,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/porcelain_clay_ball": {
+    "criteria": {
+      "has_item": "2025-05-10 03:24:20 +0000"
     },
     "done": true
   },
@@ -7261,6 +7297,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/unfired_porcelain_crucible": {
+    "criteria": {
+      "has_item": "2025-05-10 03:26:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_gem_block_2": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
@@ -7468,6 +7510,12 @@
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2025-05-10 03:24:20 +0000"
     },
     "done": true
   },
