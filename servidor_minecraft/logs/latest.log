@@ -3360,3 +3360,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [09May2025 23:46:18.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XFetch: Home sweet home]
 [09May2025 23:46:18.615] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
 [09May2025 23:46:32.495] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[09May2025 23:52:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [A Realistical Logical Ideologist]
+[09May2025 23:53:54.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Hot Stuff]
+[09May2025 23:54:15.340] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[09May2025 23:56:20.385] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[09May2025 23:56:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Give Him The Hook]
+[09May2025 23:56:43.703] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[09May2025 23:57:23.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Disconnected
+[09May2025 23:57:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
+[09May2025 23:57:27.919] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[09May2025 23:57:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [That Goes in the GreenWaste]
+[09May2025 23:57:39.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:37917] logged in with entity id 778 at (-4094.3388965978443, 67.0, 4092.258838751855)
+[09May2025 23:57:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[09May2025 23:57:39.911] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[09May2025 23:57:39.912] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5

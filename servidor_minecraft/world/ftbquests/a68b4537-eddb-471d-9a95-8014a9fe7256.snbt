@@ -571,7 +571,6 @@
 	}
 	player_data: {
 		a68b4537eddb471d9a958014a9fe7256: {
-			pinned_quests: ["3A478C8399A155DB"]
 			chapter_pinned: 1b
 		}
 	}

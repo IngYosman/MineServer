@@ -1,4 +1,16 @@
 {
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-09 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
@@ -8,6 +20,12 @@
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-09 23:50:27 +0000"
     },
     "done": true
   },
@@ -26,6 +44,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-09 23:42:35 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -59,6 +83,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-09 23:50:27 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/directional_highspeed_rail": {
     "criteria": {
       "criterion1": "2025-05-09 23:41:55 +0000"
@@ -80,6 +110,12 @@
   "utilitix:recipes/misc/armed_stand": {
     "criteria": {
       "criterion1": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-09 23:53:54 +0000"
     },
     "done": true
   },
@@ -116,6 +152,36 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_3": {
+    "criteria": {
+      "has_lava": "2025-05-09 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_4": {
+    "criteria": {
+      "has_lava": "2025-05-09 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_5": {
+    "criteria": {
+      "has_lava": "2025-05-09 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_1": {
+    "criteria": {
+      "has_lava": "2025-05-09 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_2": {
+    "criteria": {
+      "has_lava": "2025-05-09 23:53:54 +0000"
     },
     "done": true
   },
@@ -179,6 +245,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
@@ -197,9 +269,39 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/wood_gear": {
     "criteria": {
       "has_ingredient": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-05-09 23:48:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_alt_item": "2025-05-09 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-09 23:53:55 +0000"
     },
     "done": true
   },
@@ -224,6 +326,24 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/crook": {
+    "criteria": {
+      "craft_crook": "2025-05-09 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-09 23:53:55 +0000"
     },
     "done": true
   },
@@ -263,9 +383,21 @@
     },
     "done": true
   },
+  "sfm:recipes/misc/manager": {
+    "criteria": {
+      "has_chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-09 23:53:55 +0000"
     },
     "done": true
   },
@@ -278,6 +410,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
     "criteria": {
       "has_oak_sapling": "2025-05-09 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-09 23:50:27 +0000"
     },
     "done": true
   },
@@ -323,6 +461,24 @@
     },
     "done": true
   },
+  "sfm:recipes/misc/fancy_cable": {
+    "criteria": {
+      "has_chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-09 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_crucible": {
+    "criteria": {
+      "has_item": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/oak_planks_1x": {
     "criteria": {
       "has_oak_planks": "2025-05-09 23:42:50 +0000"
@@ -353,6 +509,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2025-05-09 23:39:33 +0000"
@@ -362,6 +524,24 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/iron_band": {
+    "criteria": {
+      "has_lava": "2025-05-09 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -380,6 +560,24 @@
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2025-05-09 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_item": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -467,6 +665,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/decorations/deorum_lantern": {
     "criteria": {
       "has_torch": "2025-05-09 23:39:33 +0000"
@@ -476,6 +680,12 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-05-09 23:42:35 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/fabricator": {
+    "criteria": {
+      "has_crafting_table": "2025-05-09 23:48:41 +0000"
     },
     "done": true
   },
@@ -521,6 +731,12 @@
     },
     "done": true
   },
+  "exdeorum:core/barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-09 23:57:34 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/stick": {
     "criteria": {
       "has_ingredient": "2025-05-09 23:41:51 +0000"
@@ -557,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-09 23:53:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
@@ -566,6 +788,12 @@
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-09 23:53:55 +0000"
     },
     "done": true
   },
@@ -605,9 +833,21 @@
     },
     "done": false
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -620,6 +860,12 @@
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-09 23:48:41 +0000"
     },
     "done": true
   },
@@ -653,9 +899,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-09 23:53:55 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-09 23:50:27 +0000"
     },
     "done": true
   },
@@ -689,9 +947,33 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -743,6 +1025,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2025-05-09 23:48:41 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/oak_logs_to_stairs": {
     "criteria": {
       "has_log": "2025-05-09 23:41:51 +0000"
@@ -758,6 +1046,12 @@
   "ae2wtlib:recipes/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-09 23:50:27 +0000"
     },
     "done": true
   },
@@ -821,6 +1115,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_yellow": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
@@ -881,6 +1181,18 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-05-09 23:39:33 +0000"
@@ -890,6 +1202,12 @@
   "forcecraft:recipes/tools/force_pack": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "appflux:recipes/misc/insulating_resin": {
+    "criteria": {
+      "has_item": "2025-05-09 23:53:56 +0000"
     },
     "done": true
   },
@@ -989,6 +1307,12 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-05-09 23:52:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-05-09 23:41:55 +0000"
@@ -1037,15 +1361,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-05-09 23:48:41 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/misc/cable": {
+    "criteria": {
+      "has_chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-09 23:41:51 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/port_item": {
+    "criteria": {
+      "has_chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_axe": {
     "criteria": {
       "has_tool": "2025-05-09 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/soaryn_box": {
+    "criteria": {
+      "has_chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -1160,9 +1520,21 @@
     },
     "done": true
   },
+  "sfm:recipes/misc/fancy_to_cable": {
+    "criteria": {
+      "has_chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -1178,9 +1550,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-09 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -1207,6 +1603,12 @@
   "ae2:recipes/misc/network/blocks/crank": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -1264,6 +1666,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_routing": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-05-09 23:39:33 +0000"
@@ -1282,9 +1690,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-09 23:57:29 +0000"
+    },
+    "done": true
+  },
   "productivetrees:recipes/misc/crates/red_delicious_apple_crate": {
     "criteria": {
       "has_apple": "2025-05-09 23:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-05-09 23:53:55 +0000"
     },
     "done": true
   },
@@ -1315,6 +1735,18 @@
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-05-09 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
@@ -1363,6 +1795,12 @@
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2025-05-09 23:39:33 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2025-05-09 23:51:54 +0000"
     },
     "done": true
   },
