@@ -85,3 +85,11 @@
 [10May2025 02:34:09.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
 [10May2025 02:34:09.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
 [10May2025 02:37:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Diamonds!]
+[10May2025 02:45:43.179] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[10May2025 02:45:55.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:47991] logged in with entity id 12739 at (-4083.300000011921, 67.0, 5.40714088235897)
+[10May2025 02:45:55.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[10May2025 02:45:55.213] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[10May2025 02:45:55.214] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[10May2025 02:47:18.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [A Seedy Place]
+[10May2025 02:49:21.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Disconnected
+[10May2025 02:49:21.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game

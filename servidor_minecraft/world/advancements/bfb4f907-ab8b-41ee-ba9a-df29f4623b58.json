@@ -5779,6 +5779,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-05-09 03:22:33 +0000",
+      "wheat": "2025-05-10 02:47:18 +0000",
+      "melon": "2025-05-10 02:47:31 +0000",
       "carrot": "2025-05-09 03:22:36 +0000"
     },
     "done": false
@@ -6521,6 +6523,12 @@
     },
     "done": true
   },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 02:46:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-10 02:08:41 +0000"
@@ -6551,6 +6559,18 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/pumpkin_1x": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-05-10 02:45:47 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
     "criteria": {
       "has_certus_quartz": "2025-05-10 02:08:41 +0000"
@@ -6560,6 +6580,30 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-05-10 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-05-10 02:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-10 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 02:45:47 +0000"
     },
     "done": true
   },
@@ -6575,15 +6619,81 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-05-10 02:46:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-10 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-10 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-10 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-10 02:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-10 02:47:47 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_axe": {
     "criteria": {
       "has_certus_quartz": "2025-05-10 02:08:41 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-10 02:46:07 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/synthetic_point": {
     "criteria": {
       "has_nugget": "2025-05-10 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-10 02:45:55 +0000"
     },
     "done": true
   },
@@ -6599,9 +6709,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-10 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 02:45:47 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_sword": {
     "criteria": {
       "has_certus_quartz": "2025-05-10 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-10 02:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-10 02:46:07 +0000"
     },
     "done": true
   },
@@ -6623,9 +6757,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-05-10 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-10 02:46:07 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-05-10 02:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-10 02:47:18 +0000"
     },
     "done": true
   },
