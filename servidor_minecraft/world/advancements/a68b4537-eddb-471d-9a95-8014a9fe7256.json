@@ -10245,6 +10245,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/magnet_glove": {
+    "criteria": {
+      "has_compass": "2025-05-10 03:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-05-10 03:17:24 +0000"
@@ -10296,6 +10302,12 @@
   "xycraft_world:recipes/misc/unpacking/xychorium_gem_green": {
     "criteria": {
       "has_xychorium_storage_green": "2025-05-10 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-10 03:33:49 +0000"
     },
     "done": true
   },
@@ -10365,6 +10377,12 @@
     },
     "done": true
   },
+  "structurecompass:recipes/tools/structure_compass": {
+    "criteria": {
+      "has_compass": "2025-05-10 03:33:49 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/unpacking/xychorium_gem_light": {
     "criteria": {
       "has_xychorium_storage_light": "2025-05-10 03:17:29 +0000"
@@ -10392,6 +10410,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-10 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-05-10 03:34:09 +0000"
     },
     "done": true
   },
@@ -10425,6 +10449,12 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-05-10 03:33:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-10 02:57:18 +0000"
@@ -10434,6 +10464,18 @@
   "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
     "criteria": {
       "has_redstone_torch": "2025-05-10 02:57:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-05-10 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_compass": {
+    "criteria": {
+      "has_compass": "2025-05-10 03:33:49 +0000"
     },
     "done": true
   },
@@ -10464,6 +10506,12 @@
   "botania:recipes/misc/petal_lime": {
     "criteria": {
       "has_alt_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-05-10 03:34:27 +0000"
     },
     "done": true
   },
