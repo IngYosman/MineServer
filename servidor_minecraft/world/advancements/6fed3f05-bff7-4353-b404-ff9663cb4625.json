@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-10 00:04:12 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-09 23:50:27 +0000"
@@ -182,6 +188,12 @@
   "cobblefordays:recipes/misc/tier_2": {
     "criteria": {
       "has_lava": "2025-05-09 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 00:08:11 +0000"
     },
     "done": true
   },
@@ -461,6 +473,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-05-10 00:08:11 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/misc/fancy_cable": {
     "criteria": {
       "has_chest": "2025-05-09 23:51:54 +0000"
@@ -653,6 +671,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-05-10 00:08:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-09 23:39:34 +0000"
@@ -842,6 +866,12 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-05-10 00:08:11 +0000"
     },
     "done": true
   },
@@ -1097,6 +1127,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-10 00:08:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-05-09 23:41:55 +0000"
@@ -1154,6 +1190,12 @@
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-05-09 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-10 00:08:11 +0000"
     },
     "done": true
   },
@@ -1391,6 +1433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-10 00:08:11 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/port_item": {
     "criteria": {
       "has_chest": "2025-05-09 23:51:54 +0000"
@@ -1400,6 +1448,12 @@
   "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_axe": {
     "criteria": {
       "has_tool": "2025-05-09 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-10 00:08:11 +0000"
     },
     "done": true
   },
@@ -1660,6 +1714,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-10 00:08:11 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2025-05-09 23:39:33 +0000"
@@ -1783,6 +1843,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-09 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-10 00:04:12 +0000"
     },
     "done": true
   },
