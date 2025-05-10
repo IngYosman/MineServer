@@ -1806,6 +1806,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-05-10 03:48:59 +0000",
       "wheat": "2025-05-10 00:04:12 +0000"
     },
     "done": false
@@ -4946,6 +4947,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-10 01:15:08 +0000",
+      "minecraft:spider": "2025-05-10 03:45:53 +0000",
       "minecraft:phantom": "2025-05-10 02:16:13 +0000",
       "minecraft:zombie": "2025-05-10 01:52:36 +0000"
     },
@@ -5455,6 +5457,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-10 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/porcelain_crucible": {
+    "criteria": {
+      "has_item": "2025-05-10 03:50:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-10 03:05:21 +0000"
@@ -5947,6 +5961,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_storage_green": "2025-05-10 03:43:22 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_dark": {
     "criteria": {
       "has_xychorium_gem_dark": "2025-05-10 03:43:13 +0000"
@@ -5956,6 +5976,12 @@
   "ars_nouveau:recipes/misc/runic_chalk": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-10 03:52:05 +0000"
     },
     "done": true
   },
@@ -6160,6 +6186,12 @@
   "ars_nouveau:recipes/misc/ritual_awakening": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-05-10 03:49:53 +0000"
     },
     "done": true
   },
@@ -6403,6 +6435,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-10 03:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-10 03:22:59 +0000"
@@ -6562,6 +6600,12 @@
   "utilitarian:recipes/misc/utility/copper_block_from_blasting": {
     "criteria": {
       "has_raw_copper": "2025-05-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-05-10 03:49:53 +0000"
     },
     "done": true
   },
@@ -6910,6 +6954,12 @@
   "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-10 03:09:31 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_storage_dark": "2025-05-10 03:43:25 +0000"
     },
     "done": true
   },
@@ -7282,6 +7332,12 @@
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-10 03:45:56 +0000"
     },
     "done": true
   },
@@ -8146,6 +8202,12 @@
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-10 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-10 03:49:53 +0000"
     },
     "done": true
   },
