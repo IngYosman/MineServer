@@ -10159,9 +10159,27 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/stonecutting/inverted_bricks_cloud_dark": {
+    "criteria": {
+      "has_for_inverted_bricks_cloud_dark": "2025-05-10 03:21:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_advanced": {
     "criteria": {
       "has_components": "2025-05-10 02:58:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/matte_xychorium_bricks_red": {
+    "criteria": {
+      "has_for_matte_xychorium_bricks_red": "2025-05-10 03:21:22 +0000"
     },
     "done": true
   },
@@ -10171,15 +10189,69 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_tiles_cloud_dark": {
+    "criteria": {
+      "has_inverted_bricks_cloud_dark": "2025-05-10 03:21:09 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_blue": {
+    "criteria": {
+      "has_xychorium_storage_blue": "2025-05-10 03:17:27 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/inverted_bricks_cloud_red": {
+    "criteria": {
+      "has_for_inverted_bricks_cloud_red": "2025-05-10 03:21:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_storage_red": "2025-05-10 03:17:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-10 02:57:18 +0000"
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/stonecutting/inverted_tiles_cloud_dark": {
+    "criteria": {
+      "has_for_inverted_tiles_cloud_dark": "2025-05-10 03:21:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-05-10 03:17:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-10 02:57:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_lime": {
+    "criteria": {
+      "has_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-10 03:17:30 +0000"
     },
     "done": true
   },
@@ -10195,6 +10267,24 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_tiles_cloud_red": {
+    "criteria": {
+      "has_inverted_bricks_cloud_red": "2025-05-10 03:21:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_storage_green": "2025-05-10 03:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-05-10 02:57:18 +0000"
@@ -10204,6 +10294,18 @@
   "utilitix:recipes/misc/experience_crystal": {
     "criteria": {
       "criterion1": "2025-05-10 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/inverted_tiles_cloud_red": {
+    "criteria": {
+      "has_for_inverted_tiles_cloud_red": "2025-05-10 03:21:22 +0000"
     },
     "done": true
   },
@@ -10219,9 +10321,57 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/lime_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-05-10 03:16:51 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_copy_paste": {
     "criteria": {
       "has_emerald": "2025-05-10 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-10 03:16:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_light": {
+    "criteria": {
+      "has_xychorium_storage_light": "2025-05-10 03:17:29 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-05-10 03:17:17 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_storage_dark": "2025-05-10 03:17:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-10 03:16:36 +0000"
     },
     "done": true
   },
@@ -10234,6 +10384,18 @@
   "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-10 02:57:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-10 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-05-10 03:17:36 +0000"
     },
     "done": true
   },
@@ -10267,9 +10429,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-10 02:57:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_alt_item": "2025-05-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-10 03:16:48 +0000"
     },
     "done": true
   },
@@ -10282,6 +10462,18 @@
   "rftoolspower:recipes/rftoolspower/coalgenerator": {
     "criteria": {
       "frame": "2025-05-10 02:57:18 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2025-05-10 03:09:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/matte_xychorium_bricks_dark": {
+    "criteria": {
+      "has_for_matte_xychorium_bricks_dark": "2025-05-10 03:21:09 +0000"
     },
     "done": true
   },

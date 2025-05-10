@@ -420,7 +420,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-05-09 00:14:09 +0000"
+      "cooked_beef": "2025-05-09 00:14:09 +0000",
+      "melon_slice": "2025-05-10 03:10:43 +0000"
     },
     "done": false
   },
