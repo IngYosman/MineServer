@@ -77,3 +77,8 @@
 [10May2025 01:48:26.571] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [10May2025 02:00:51.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has reached the goal [Workout Session]
 [10May2025 02:09:11.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Shocking]
+[10May2025 02:16:13.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Knowledge of Death]
+[10May2025 02:16:13.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Ambush]
+[10May2025 02:16:45.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [A Strange Grave Dust]
+[10May2025 02:17:24.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Knowledge raises the soul]
+[10May2025 02:22:49.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch moved too quickly! 10.001230743988344,-1.127890238205481,-0.36253910262166755

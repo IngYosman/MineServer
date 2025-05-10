@@ -3366,6 +3366,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "scrambled_eggs": "2025-05-10 02:14:59 +0000",
       "toast": "2025-05-10 00:34:43 +0000"
     },
     "done": false
@@ -4945,6 +4946,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-10 01:15:08 +0000",
+      "minecraft:phantom": "2025-05-10 02:16:13 +0000",
       "minecraft:zombie": "2025-05-10 01:52:36 +0000"
     },
     "done": false
@@ -4967,9 +4969,39 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/tiny_charcoal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-05-10 02:09:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-10 02:15:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 02:16:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 02:17:24 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/silver_tag": {
     "criteria": {
       "has_item": "2025-05-10 01:45:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-10 02:16:13 +0000"
     },
     "done": true
   },
