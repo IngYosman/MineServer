@@ -421,7 +421,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-09 00:14:09 +0000",
-      "melon_slice": "2025-05-10 03:10:43 +0000"
+      "melon_slice": "2025-05-10 03:10:43 +0000",
+      "golden_carrot": "2025-05-11 21:20:25 +0000"
     },
     "done": false
   },
@@ -2341,6 +2342,7 @@
       "minecraft:creeper": "2025-05-09 00:53:17 +0000",
       "minecraft:phantom": "2025-05-09 01:15:37 +0000",
       "minecraft:husk": "2025-05-10 00:59:13 +0000",
+      "minecraft:enderman": "2025-05-11 21:16:49 +0000",
       "minecraft:zombie": "2025-05-09 00:58:08 +0000"
     },
     "done": false
@@ -6976,6 +6978,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-11 20:27:16 +0000"
@@ -7024,6 +7032,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7033,6 +7047,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -7066,6 +7086,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust": {
     "criteria": {
       "has_lead": "2025-05-11 19:53:06 +0000"
@@ -7075,6 +7101,12 @@
   "forbidden_arcanus:recipes/tools/sanity_meter": {
     "criteria": {
       "has_ingots/gold": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -7144,6 +7176,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
@@ -7153,6 +7191,12 @@
   "utilitarian:recipes/misc/angel_block": {
     "criteria": {
       "has_gold": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-11 21:19:25 +0000"
     },
     "done": true
   },
@@ -7282,6 +7326,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:53:06 +0000"
@@ -7363,6 +7413,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_light": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -7618,6 +7674,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/osmium_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:53:54 +0000"
@@ -7663,6 +7725,12 @@
   "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
     "criteria": {
       "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -7792,9 +7860,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_exchanging": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -7870,9 +7950,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dodge_ring": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -7915,6 +8007,18 @@
   "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:54:07 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -7984,9 +8088,21 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -8218,6 +8334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/golden_hammer": {
     "criteria": {
       "has_item": "2025-05-11 20:16:23 +0000"
@@ -8356,6 +8478,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
@@ -8371,6 +8505,12 @@
   "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
     "criteria": {
       "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
@@ -8407,6 +8547,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-11 19:52:55 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
+    "criteria": {
+      "has_tool": "2025-05-11 21:18:26 +0000"
     },
     "done": true
   },
@@ -8488,6 +8634,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/emerald_shard": {
     "criteria": {
       "has_item": "2025-05-11 19:56:48 +0000"
@@ -8554,6 +8706,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/spider": {
     "criteria": {
       "has_chelicerae": "2025-05-11 21:01:51 +0000"
@@ -8575,6 +8733,12 @@
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-11 21:19:18 +0000"
     },
     "done": true
   },
