@@ -3400,3 +3400,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 22:56:42.272] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
 [11May2025 22:56:42.273] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [11May2025 22:56:56.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Drying like a boss]
+[11May2025 23:03:26.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [What a Deal!]
+[11May2025 23:03:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Crops of the Wild]

@@ -7194,9 +7194,27 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
     "criteria": {
       "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -7500,9 +7518,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/ice_pendant": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -7848,9 +7878,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -7914,15 +7956,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -7953,6 +8019,12 @@
   "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -8166,6 +8238,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust": {
     "criteria": {
       "has_silver": "2025-05-11 19:54:07 +0000"
@@ -8370,6 +8448,12 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-05-11 22:56:56 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/collector": {
     "criteria": {
       "has_ender_pearl": "2025-05-11 20:18:36 +0000"
@@ -8541,6 +8625,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -8736,6 +8826,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/building_blocks/compressed_crushed_netherrack": {
+    "criteria": {
+      "has_item": "2025-05-11 23:04:45 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
     "criteria": {
       "recipe_condition2": "2025-05-11 22:51:55 +0000"
@@ -8751,6 +8847,12 @@
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-11 23:04:39 +0000"
     },
     "done": true
   },
@@ -8844,6 +8946,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 22:23:46 +0000"
@@ -8871,6 +8979,12 @@
   "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -9138,6 +9252,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-11 19:52:27 +0000"
@@ -9198,9 +9324,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -9273,6 +9411,12 @@
   "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -9372,6 +9516,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
     "criteria": {
       "has_ingredient": "2025-05-11 22:27:45 +0000"
@@ -9408,9 +9564,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
@@ -9438,6 +9606,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-11 23:06:22 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
@@ -9447,6 +9621,12 @@
   "botania:recipes/combat/manasteel_boots": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
+    "criteria": {
+      "has_netherrack": "2025-05-11 23:04:39 +0000"
     },
     "done": true
   },
@@ -9501,6 +9681,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-11 23:06:22 +0000"
     },
     "done": true
   },
