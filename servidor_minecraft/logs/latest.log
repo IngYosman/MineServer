@@ -3418,3 +3418,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 23:34:09.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> ya vengo sacare a mi perro xd
 [11May2025 23:34:13.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
 [11May2025 23:34:13.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[11May2025 23:40:33.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch moved too quickly! 2.223646358116639,-1.0,-9.861510326416465
+[11May2025 23:44:45.605] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[11May2025 23:44:57.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:39141] logged in with entity id 18220 at (-4095.1434098415075, 67.0, 2.7455532935601448)
+[11May2025 23:44:57.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[11May2025 23:44:57.565] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[11May2025 23:44:57.566] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[11May2025 23:45:29.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
+[11May2025 23:45:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game

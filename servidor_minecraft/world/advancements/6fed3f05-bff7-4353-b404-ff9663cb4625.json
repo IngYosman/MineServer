@@ -12066,9 +12066,57 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+  "exdeorum:recipes/misc/mechanical_hammer": {
     "criteria": {
-      "has_dandelion": "2025-05-11 22:52:19 +0000"
+      "has_item": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/flux_compactor": {
+    "criteria": {
+      "has_hopper": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/mechanical_sieve": {
+    "criteria": {
+      "has_item": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/item_buffer": {
+    "criteria": {
+      "has_hopper": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/gunpowder_from_pile_of_gunpowder": {
+    "criteria": {
+      "has_pile_of_gunpowder": "2025-05-11 20:21:55 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_boots": {
+    "criteria": {
+      "has_armor": "2025-05-11 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_leggings": {
+    "criteria": {
+      "has_armor": "2025-05-11 20:32:44 +0000"
     },
     "done": true
   },
@@ -12090,45 +12138,9 @@
     },
     "done": true
   },
-  "exdeorum:recipes/misc/mechanical_hammer": {
-    "criteria": {
-      "has_item": "2025-05-11 20:11:29 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:recipes/misc/flux_compactor": {
-    "criteria": {
-      "has_hopper": "2025-05-11 20:11:29 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/mechanical_sieve": {
-    "criteria": {
-      "has_item": "2025-05-11 20:11:29 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12144,75 +12156,15 @@
     },
     "done": true
   },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-05-11 22:55:28 +0000"
-    },
-    "done": true
-  },
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
     },
     "done": true
   },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-05-11 23:16:21 +0000"
-    },
-    "done": true
-  },
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-05-11 22:15:40 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:recipes/misc/item_buffer": {
-    "criteria": {
-      "has_hopper": "2025-05-11 20:11:29 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12228,24 +12180,6 @@
     },
     "done": true
   },
-  "forcecraft:recipes/misc/gunpowder_from_pile_of_gunpowder": {
-    "criteria": {
-      "has_pile_of_gunpowder": "2025-05-11 20:21:55 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/filter_module": {
-    "criteria": {
-      "hopper": "2025-05-11 20:11:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-11 20:48:53 +0000"
@@ -12255,12 +12189,6 @@
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12276,51 +12204,15 @@
     },
     "done": true
   },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-05-11 22:52:22 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_boots": {
-    "criteria": {
-      "has_armor": "2025-05-11 20:24:34 +0000"
-    },
-    "done": true
-  },
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12336,27 +12228,9 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_leggings": {
-    "criteria": {
-      "has_armor": "2025-05-11 20:32:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/basic_item_filter": {
-    "criteria": {
-      "has_ingredient": "2025-05-11 20:11:29 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12369,12 +12243,6 @@
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
-    "criteria": {
-      "has_tool": "2025-05-11 22:36:06 +0000"
     },
     "done": true
   },
@@ -12396,24 +12264,6 @@
     },
     "done": true
   },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 22:52:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2025-05-11 22:16:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-05-11 23:16:21 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-11 20:48:53 +0000"
@@ -12429,6 +12279,156 @@
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 22:15:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
+    "criteria": {
+      "has_tool": "2025-05-11 22:36:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-11 22:52:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 22:55:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-11 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-11 23:16:21 +0000"
     },
     "done": true
   },
