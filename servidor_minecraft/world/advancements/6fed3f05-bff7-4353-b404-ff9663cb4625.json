@@ -9700,6 +9700,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-05-11 18:32:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_light": {
     "criteria": {
       "has_xychorium_gem_light": "2025-05-11 17:49:08 +0000"
@@ -9757,6 +9763,12 @@
   "xnet:recipes/xnet/connector_upgrade": {
     "criteria": {
       "pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-11 18:32:22 +0000"
     },
     "done": true
   },
@@ -9835,6 +9847,12 @@
   "immersiveengineering:recipes/misc/crafting/lantern": {
     "criteria": {
       "has_glowstone": "2025-05-11 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-05-11 18:32:20 +0000"
     },
     "done": true
   },
@@ -10024,6 +10042,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-05-11 18:32:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
@@ -10060,6 +10084,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/lapis_block_1x": {
+    "criteria": {
+      "has_lapis_block": "2025-05-11 18:32:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
     "criteria": {
       "has_graphite_ingot": "2025-05-11 18:15:54 +0000"
@@ -10078,9 +10108,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 18:32:20 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-05-11 18:32:20 +0000"
     },
     "done": true
   },
@@ -10207,6 +10249,12 @@
   "exdeorum:recipes/misc/moss_block": {
     "criteria": {
       "has_item": "2025-05-11 16:35:19 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
+    "criteria": {
+      "has_zinc_ingot": "2025-05-11 18:32:20 +0000"
     },
     "done": true
   },
@@ -10432,6 +10480,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-11 18:32:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-11 18:08:01 +0000"
@@ -10486,6 +10540,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/amethyst_block_1x": {
+    "criteria": {
+      "has_amethyst_block": "2025-05-11 18:32:36 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone": {
     "criteria": {
       "has_glowstone": "2025-05-11 17:49:08 +0000"
@@ -10534,9 +10594,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-11 18:32:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-11 18:32:20 +0000"
     },
     "done": true
   },
@@ -10651,6 +10723,12 @@
   "allthemodium:recipes/misc/teleport_pad": {
     "criteria": {
       "has_ender_pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-05-11 18:32:20 +0000"
     },
     "done": true
   },
@@ -10798,9 +10876,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-11 18:32:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/zinc_block_1x": {
+    "criteria": {
+      "has_zinc_block": "2025-05-11 18:32:22 +0000"
     },
     "done": true
   },
