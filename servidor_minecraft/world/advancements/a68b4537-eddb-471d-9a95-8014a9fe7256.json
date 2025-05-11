@@ -10576,6 +10576,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
   "exmachinis:recipes/misc/comparator_upgrade": {
     "criteria": {
       "has_comparator": "2025-05-11 23:27:19 +0000"
@@ -10585,6 +10591,12 @@
   "utilitarian:recipes/misc/tps_meter": {
     "criteria": {
       "has_comparator": "2025-05-11 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
     },
     "done": true
   },
@@ -10600,9 +10612,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-05-11 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
     },
     "done": true
   },
@@ -10618,15 +10642,39 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_chestplate": {
     "criteria": {
       "has_armor": "2025-05-11 23:14:43 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-05-11 23:49:48 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_leggings": {
     "criteria": {
       "has_armor": "2025-05-11 23:15:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
     },
     "done": true
   },
@@ -10642,9 +10690,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-05-11 23:14:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
     },
     "done": true
   },
