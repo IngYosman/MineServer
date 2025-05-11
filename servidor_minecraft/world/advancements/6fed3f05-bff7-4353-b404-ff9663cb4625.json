@@ -9646,6 +9646,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-05-11 18:08:57 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/xychorium_gem_light": {
     "criteria": {
       "has_xychorium_gem_light": "2025-05-11 17:49:08 +0000"
@@ -9667,6 +9673,12 @@
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2025-05-11 18:09:33 +0000"
     },
     "done": true
   },
@@ -9694,6 +9706,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 18:10:21 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-05-11 17:49:04 +0000"
@@ -9715,6 +9733,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-11 18:08:57 +0000"
     },
     "done": true
   },
@@ -9772,15 +9796,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 18:07:38 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 17:53:48 +0000"
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/raw_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-11 18:07:07 +0000"
+    },
+    "done": true
+  },
   "allthetweaks:recipes/misc/ender_pearl_block": {
     "criteria": {
       "has_ender_pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-05-11 18:01:43 +0000"
     },
     "done": true
   },
@@ -9862,6 +9904,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 18:08:57 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2025-05-11 17:49:08 +0000"
@@ -9928,6 +9976,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 18:10:21 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/basic_capacitor": {
     "criteria": {
       "has_ingredient": "2025-05-11 17:49:08 +0000"
@@ -9937,6 +9991,18 @@
   "alltheores:recipes/misc/nickel_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-05-11 18:01:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2025-05-11 18:07:38 +0000"
     },
     "done": true
   },
@@ -9988,6 +10054,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 18:09:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
@@ -10006,9 +10078,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-11 18:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-05-11 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-05-11 18:10:21 +0000"
     },
     "done": true
   },
@@ -10030,15 +10114,45 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2025-05-11 18:08:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-11 18:08:57 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-05-11 17:53:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 18:07:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-05-11 18:08:01 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch_raw": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 18:07:07 +0000"
     },
     "done": true
   },
@@ -10054,9 +10168,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_aluminum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-05-11 18:07:07 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 18:08:57 +0000"
     },
     "done": true
   },
@@ -10072,9 +10198,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 18:08:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-11 18:08:57 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/charged_porter": {
     "criteria": {
       "pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 18:07:07 +0000"
     },
     "done": true
   },
@@ -10099,6 +10243,12 @@
   "projecte:recipes/tools/philosophers_stone": {
     "criteria": {
       "has_glowstone": "2025-05-11 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 18:07:38 +0000"
     },
     "done": true
   },
@@ -10132,9 +10282,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 18:09:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-11 18:07:07 +0000"
     },
     "done": true
   },
@@ -10156,6 +10318,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 18:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-05-11 18:06:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
@@ -10165,6 +10339,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
+    "criteria": {
+      "has_raw_lead": "2025-05-11 18:10:21 +0000"
     },
     "done": true
   },
@@ -10195,6 +10375,12 @@
   "allthemodium:recipes/misc/teleport_pad": {
     "criteria": {
       "has_ender_pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-05-11 18:07:38 +0000"
     },
     "done": true
   },
@@ -10306,6 +10492,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 18:08:01 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/redstone_clock": {
     "criteria": {
       "has_redstone": "2025-05-11 17:49:04 +0000"
@@ -10342,9 +10534,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 18:07:38 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/zinc_dust": {
     "criteria": {
       "has_zinc": "2025-05-11 17:54:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-05-11 18:09:33 +0000"
     },
     "done": true
   },
