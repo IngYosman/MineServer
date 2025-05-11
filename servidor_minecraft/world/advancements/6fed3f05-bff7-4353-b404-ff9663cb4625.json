@@ -8762,21 +8762,75 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/quartz_fixture": {
+  "exdeorum:recipes/tools/compressed_iron_hammer": {
     "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-05-10 20:55:21 +0000"
+      "has_item": "2025-05-10 20:07:14 +0000"
     },
     "done": true
   },
-  "forcecraft:recipes/misc/item_card": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
-      "has_paper": "2025-05-10 21:05:52 +0000"
+      "has_gold_ore": "2025-05-10 20:18:41 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
     "criteria": {
-      "has_paper": "2025-05-10 21:05:52 +0000"
+      "has_item": "2025-05-10 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust": {
+    "criteria": {
+      "has_gold": "2025-05-10 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-10 20:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-05-10 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2025-05-10 20:43:42 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-05-10 20:43:42 +0000"
     },
     "done": true
   },
@@ -8792,39 +8846,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-05-10 21:06:05 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_ten": {
     "criteria": {
       "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-05-10 21:06:11 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/steamed_clams": {
-    "criteria": {
-      "has_clams": "2025-05-10 21:21:50 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
-    "criteria": {
-      "paper": "2025-05-10 21:05:52 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_spade": {
-    "criteria": {
-      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
     },
     "done": true
   },
@@ -8834,21 +8858,165 @@
     },
     "done": true
   },
-  "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
+  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
     "criteria": {
-      "has_raw_gold": "2025-05-10 20:57:46 +0000"
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
     "criteria": {
-      "has_salmon": "2025-05-10 21:13:48 +0000"
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
     "criteria": {
-      "has_iron_block": "2025-05-10 20:43:23 +0000"
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-10 20:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-10 20:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-10 20:47:01 +0000"
     },
     "done": true
   },
@@ -8858,15 +9026,201 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
+      "has_kelp": "2025-05-10 20:54:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "has_leather": "2025-05-10 21:06:05 +0000"
+      "has_kelp": "2025-05-10 20:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-10 20:54:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/certus_quartz_dust_from_gem": {
+    "criteria": {
+      "has_certus_quartz_gem": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-10 20:54:45 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2025-05-10 20:54:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 20:54:45 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2025-05-10 20:54:45 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/filter_rail": {
+    "criteria": {
+      "criterion1": "2025-05-10 20:54:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-10 20:54:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-05-10 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-05-10 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-05-10 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-05-10 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
+    "criteria": {
+      "has_raw_gold": "2025-05-10 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-10 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2025-05-10 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
+    "criteria": {
+      "has_raw_gold": "2025-05-10 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-10 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2025-05-10 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-10 20:57:46 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/item_card": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-05-10 21:05:52 +0000"
     },
     "done": true
   },
@@ -8888,225 +9242,15 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-05-10 20:54:45 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/misctools_charged_staff": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-05-10 20:55:21 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_block": {
-    "criteria": {
-      "has_certus_quartz_crystal": "2025-05-10 20:54:44 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
-    "criteria": {
-      "has_leather": "2025-05-10 21:06:05 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/reinforced_filter_rail": {
-    "criteria": {
-      "criterion1": "2025-05-10 20:54:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-10 20:47:01 +0000"
-    },
-    "done": true
-  },
-  "xnet:recipes/xnet/antenna_base": {
-    "criteria": {
-      "block": "2025-05-10 20:43:23 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/steamed_crab": {
-    "criteria": {
-      "has_crab": "2025-05-10 21:12:43 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-05-10 21:10:34 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-10 20:47:01 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
-    "criteria": {
-      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-10 21:10:34 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
-    "criteria": {
-      "has_book": "2025-05-10 21:06:11 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_five_inv": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-05-10 21:06:11 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:meneglin_basics/squeezing": {
-    "criteria": {
-      "criteria_0": "2025-05-10 20:43:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-05-10 20:54:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-05-10 20:57:46 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-05-10 21:06:05 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
-    "criteria": {
-      "has_raw_gold": "2025-05-10 20:57:46 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
-    "criteria": {
-      "has_raw_gold": "2025-05-10 20:57:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2025-05-10 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:54:45 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
     "criteria": {
       "has_paper": "2025-05-10 21:05:52 +0000"
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-05-10 21:06:05 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/manual": {
-    "criteria": {
-      "book": "2025-05-10 21:06:11 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
     "criteria": {
       "has_paper": "2025-05-10 21:05:52 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-05-10 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
-    "criteria": {
-      "has_anchovy": "2025-05-10 21:20:55 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/force_and_you": {
-    "criteria": {
-      "has_book": "2025-05-10 21:06:11 +0000"
     },
     "done": true
   },
@@ -9122,39 +9266,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-10 21:13:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-05-10 21:05:52 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_wrench": {
-    "criteria": {
-      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/gold_dust": {
-    "criteria": {
-      "has_gold": "2025-05-10 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-10 20:47:01 +0000"
     },
     "done": true
   },
@@ -9164,21 +9278,9 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-05-10 21:05:52 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
-    "criteria": {
-      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
     },
     "done": true
   },
@@ -9194,123 +9296,9 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_ten_inv": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-05-10 21:06:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-10 21:13:48 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/crab_legs": {
-    "criteria": {
-      "has_crab": "2025-05-10 21:12:43 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-05-10 21:10:33 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-10 21:10:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-05-10 21:06:05 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/manual": {
-    "criteria": {
-      "has_book": "2025-05-10 21:06:11 +0000"
-    },
-    "done": true
-  },
   "rftoolsbuilder:recipes/misc/vehicle_card": {
     "criteria": {
       "paper": "2025-05-10 21:05:52 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-05-10 20:54:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-10 21:06:11 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_axe": {
-    "criteria": {
-      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-05-10 20:54:43 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/anchovy_pizza": {
-    "criteria": {
-      "has_anchovies": "2025-05-10 21:20:55 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
     },
     "done": true
   },
@@ -9320,27 +9308,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-10 21:06:11 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/blueprint_components": {
     "criteria": {
       "has_paper": "2025-05-10 21:05:52 +0000"
-    },
-    "done": true
-  },
-  "bloodmagic:recipes/misc/synthetic_point": {
-    "criteria": {
-      "has_nugget": "2025-05-10 20:54:45 +0000"
     },
     "done": true
   },
@@ -9350,123 +9320,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-05-10 21:13:48 +0000"
-    },
-    "done": true
-  },
-  "productivebees:husbandry/fishy_bees": {
-    "criteria": {
-      "catch": "2025-05-10 21:09:57 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/certus_quartz_dust_from_gem": {
-    "criteria": {
-      "has_certus_quartz_gem": "2025-05-10 20:54:44 +0000"
-    },
-    "done": true
-  },
-  "utilitix:recipes/misc/filter_rail": {
-    "criteria": {
-      "criterion1": "2025-05-10 20:54:45 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
-    "criteria": {
-      "has_anchovy": "2025-05-10 21:20:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-05-10 21:06:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-05-10 21:10:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-05-10 20:43:23 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-05-10 20:57:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2025-05-10 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_sword": {
-    "criteria": {
-      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
-    "criteria": {
-      "has_item": "2025-05-10 20:57:46 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/charged_quartz": {
-    "criteria": {
-      "certus": "2025-05-10 20:55:21 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:root": {
-    "criteria": {
-      "criteria_0": "2025-05-10 20:43:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-05-10 20:57:46 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
-    "criteria": {
-      "has_crystals/certus": "2025-05-10 20:54:44 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-05-10 21:05:52 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
     },
     "done": true
   },
@@ -9476,33 +9332,57 @@
     },
     "done": true
   },
-  "enderio:recipes/redstone/resetting_lever_five": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/certus_quartz_hoe": {
-    "criteria": {
-      "has_certus_quartz": "2025-05-10 20:54:44 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
-    "criteria": {
-      "has_ingredient": "2025-05-10 20:44:22 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
-    "criteria": {
-      "has_iron_block": "2025-05-10 20:43:23 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
     "criteria": {
       "has_paper": "2025-05-10 21:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-10 21:06:05 +0000"
     },
     "done": true
   },
@@ -9512,15 +9392,51 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_any_ingredient": "2025-05-10 21:10:34 +0000"
+      "has_book": "2025-05-10 21:06:11 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
     "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-05-10 20:55:21 +0000"
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_and_you": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-10 21:06:11 +0000"
     },
     "done": true
   },
@@ -9536,21 +9452,105 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sconce_soul": {
+  "productivebees:husbandry/fishy_bees": {
     "criteria": {
-      "has_iron_nugget": "2025-05-10 20:54:45 +0000"
+      "catch": "2025-05-10 21:09:57 +0000"
     },
     "done": true
   },
-  "exdeorum:recipes/tools/compressed_iron_hammer": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_item": "2025-05-10 20:07:14 +0000"
+      "cod": "2025-05-10 21:10:33 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/iron_ore_hammer": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_iron_block": "2025-05-10 20:43:23 +0000"
+      "has_cod": "2025-05-10 21:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-10 21:10:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 21:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-10 21:10:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 21:10:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-05-10 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-05-10 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-10 21:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-10 21:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-10 21:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-10 21:13:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-05-10 21:20:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2025-05-10 21:20:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-05-10 21:20:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_clams": {
+    "criteria": {
+      "has_clams": "2025-05-10 21:21:50 +0000"
     },
     "done": true
   },
