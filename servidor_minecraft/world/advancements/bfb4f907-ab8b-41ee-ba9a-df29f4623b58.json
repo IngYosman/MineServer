@@ -6987,15 +6987,63 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust": {
     "criteria": {
       "has_lead": "2025-05-11 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/machine_base": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_tiles": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7023,9 +7071,33 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/osmium_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:53:54 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7038,6 +7110,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7059,6 +7137,18 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:53:47 +0000"
@@ -7068,6 +7158,12 @@
   "mythicbotany:recipes/misc/central_rune_holder": {
     "criteria": {
       "criterion0": "2025-05-11 19:56:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7089,15 +7185,39 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:54:11 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/experience_crystal": {
     "criteria": {
       "criterion1": "2025-05-11 19:56:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7116,6 +7236,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7149,15 +7275,39 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/emerald_from_shards": {
     "criteria": {
       "has_item": "2025-05-11 19:56:48 +0000"
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
     "criteria": {
       "has_gems/diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7173,9 +7323,27 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust": {
     "criteria": {
       "has_nickel": "2025-05-11 19:54:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7203,6 +7371,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/copper_dust": {
     "criteria": {
       "has_copper": "2025-05-11 19:52:55 +0000"
@@ -7212,6 +7386,18 @@
   "alltheores:recipes/misc/silver_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:54:07 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7233,6 +7419,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
@@ -7245,6 +7437,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7254,6 +7452,24 @@
   "alltheores:recipes/misc/diamond_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/decorations/shaped/lamp_rgb_r": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7275,6 +7491,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7293,9 +7515,51 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/extractor": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/machine_base_flipped": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "exmachinis:recipes/misc/diamond_upgrade": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7323,9 +7587,39 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7347,6 +7641,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7356,6 +7656,18 @@
   "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:53:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aurey_matte": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
@@ -7371,6 +7683,18 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-05-11 19:54:07 +0000"
@@ -7383,9 +7707,21 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/zinc_dust": {
     "criteria": {
       "has_zinc": "2025-05-11 19:53:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
