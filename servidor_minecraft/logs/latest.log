@@ -3375,3 +3375,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 20:01:35.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> no es necesario mod
 [11May2025 20:01:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> aa
 [11May2025 20:15:11.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has reached the goal [Bone Crusher]
+[11May2025 20:41:27.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Isn't It Iron Pick]
+[11May2025 20:43:54.962] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...

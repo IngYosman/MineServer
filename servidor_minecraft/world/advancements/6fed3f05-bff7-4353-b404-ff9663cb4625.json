@@ -12107,6 +12107,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_leggings": {
+    "criteria": {
+      "has_armor": "2025-05-11 20:32:44 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/basic_item_filter": {
     "criteria": {
       "has_ingredient": "2025-05-11 20:11:29 +0000"

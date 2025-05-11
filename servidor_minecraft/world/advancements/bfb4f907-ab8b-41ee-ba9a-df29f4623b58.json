@@ -7150,6 +7150,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-11 20:41:27 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:52:41 +0000"
@@ -7732,6 +7738,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-05-11 20:41:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
@@ -8125,6 +8137,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-05-11 20:41:27 +0000"
     },
     "done": true
   },
