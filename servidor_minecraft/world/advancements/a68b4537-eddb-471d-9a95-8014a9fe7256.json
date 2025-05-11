@@ -10552,6 +10552,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-05-11 23:27:19 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gold_nugget": {
     "criteria": {
       "has_zombie_heart": "2025-05-11 23:16:34 +0000"
@@ -10570,9 +10576,27 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/comparator_upgrade": {
+    "criteria": {
+      "has_comparator": "2025-05-11 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_comparator": "2025-05-11 23:27:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-05-11 23:21:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_helmet": {
+    "criteria": {
+      "has_armor": "2025-05-11 23:28:52 +0000"
     },
     "done": true
   },
