@@ -12089,9 +12089,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/gunpowder_from_pile_of_gunpowder": {
+    "criteria": {
+      "has_pile_of_gunpowder": "2025-05-11 20:21:55 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/filter_module": {
     "criteria": {
       "hopper": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_boots": {
+    "criteria": {
+      "has_armor": "2025-05-11 20:24:34 +0000"
     },
     "done": true
   },

@@ -6821,6 +6821,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "scrambled_eggs": "2025-05-11 20:28:12 +0000",
       "toast": "2025-05-10 02:53:47 +0000"
     },
     "done": false
@@ -6975,6 +6976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/flint_block_1x": {
     "criteria": {
       "has_flint_block": "2025-05-11 20:11:43 +0000"
@@ -7047,6 +7054,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust": {
     "criteria": {
       "has_lead": "2025-05-11 19:53:06 +0000"
@@ -7059,6 +7072,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
+    "criteria": {
+      "has_item": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-11 20:16:23 +0000"
@@ -7068,6 +7087,12 @@
   "xycraft_machines:recipes/misc/shaped/machine_base": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7101,6 +7126,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/angel_block": {
     "criteria": {
       "has_gold": "2025-05-11 20:16:23 +0000"
@@ -7125,9 +7156,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7149,9 +7198,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7188,6 +7249,12 @@
   "allthetweaks:recipes/misc/ender_pearl_block": {
     "criteria": {
       "has_ender_pearl": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 20:27:16 +0000"
     },
     "done": true
   },
@@ -7275,6 +7342,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/diamond_mesh_from_golden_mesh": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
@@ -7305,6 +7378,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:54:11 +0000"
@@ -7317,15 +7396,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7338,6 +7441,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7377,6 +7486,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-05-11 19:52:27 +0000"
@@ -7401,6 +7516,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:54:11 +0000"
@@ -7419,6 +7540,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -7434,6 +7561,18 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7563,6 +7702,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/iron_block_from_smelting": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
@@ -7575,9 +7720,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7590,6 +7747,12 @@
   "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7635,6 +7798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7671,6 +7840,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/tin_dust": {
     "criteria": {
       "has_tin": "2025-05-11 19:54:01 +0000"
@@ -7689,9 +7870,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7725,9 +7918,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7791,6 +8002,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -7809,6 +8026,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/copper_torch": {
+    "criteria": {
+      "has_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -7824,6 +8047,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-11 19:52:27 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7869,6 +8098,30 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -7911,6 +8164,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:53:47 +0000"
@@ -7932,6 +8197,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -7965,6 +8236,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "entangled:recipes/misc/block": {
     "criteria": {
       "recipe_condition": "2025-05-11 20:18:36 +0000"
@@ -7989,9 +8266,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
@@ -8004,6 +8299,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 20:31:09 +0000"
     },
     "done": true
   },
