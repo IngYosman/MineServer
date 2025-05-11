@@ -3380,3 +3380,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 20:50:12.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Hunt and Gather]
 [11May2025 20:50:12.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Iron Torch]
 [11May2025 21:04:56.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Magic Writing]
+[11May2025 21:13:19.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy was slain by Zombie
+[11May2025 21:13:19.602] [Server thread/INFO] [tombstone/]: The player DStevenTy has successfully been saved
+[11May2025 21:13:21.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! -42.0,0.10000000000000853,-2.0
+[11May2025 21:13:26.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> a

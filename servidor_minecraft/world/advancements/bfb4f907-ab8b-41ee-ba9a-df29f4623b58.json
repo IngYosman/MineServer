@@ -7060,6 +7060,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust": {
     "criteria": {
       "has_lead": "2025-05-11 19:53:06 +0000"
@@ -7111,6 +7117,12 @@
   "xnet:recipes/xnet/connector_upgrade": {
     "criteria": {
       "pearl": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7168,6 +7180,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
@@ -7195,6 +7213,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7228,6 +7252,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
     "criteria": {
       "has_tool": "2025-05-11 21:05:33 +0000"
@@ -7237,6 +7267,12 @@
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7303,6 +7339,12 @@
   "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7426,6 +7468,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
     "criteria": {
       "has_ingots/gold": "2025-05-11 20:16:23 +0000"
@@ -7453,6 +7507,12 @@
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-11 21:15:12 +0000"
     },
     "done": true
   },
@@ -7513,6 +7573,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7642,6 +7708,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust": {
     "criteria": {
       "has_silver": "2025-05-11 19:54:07 +0000"
@@ -7651,6 +7723,12 @@
   "occultism:recipes/crushing/crushing/gold_dust": {
     "criteria": {
       "has_gold": "2025-05-11 19:52:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7666,9 +7744,21 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7687,6 +7777,12 @@
   "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
     "criteria": {
       "has_alu_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7771,6 +7867,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7870,6 +7972,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7924,6 +8032,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/string": {
     "criteria": {
       "has_chelicerae": "2025-05-11 21:01:51 +0000"
@@ -7945,6 +8059,12 @@
   "exdeorum:recipes/misc/golden_mesh_from_iron_mesh": {
     "criteria": {
       "has_item": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -7990,6 +8110,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block_uncrafting": {
     "criteria": {
       "has_flint_block": "2025-05-11 20:11:43 +0000"
@@ -8002,6 +8128,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -8011,6 +8143,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -8056,6 +8194,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/blood_altar": {
     "criteria": {
       "has_gold": "2025-05-11 20:16:23 +0000"
@@ -8077,6 +8227,12 @@
   "xycraft_machines:recipes/misc/shaped/extractor": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -8140,6 +8296,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/diamond_shard": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
@@ -8197,6 +8359,12 @@
   "immersiveengineering:recipes/misc/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
@@ -8266,6 +8434,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:53:47 +0000"
@@ -8290,6 +8464,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
@@ -8299,6 +8479,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aurey_matte": {
     "criteria": {
       "has_aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-05-11 21:15:48 +0000"
     },
     "done": true
   },
