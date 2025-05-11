@@ -6984,6 +6984,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-11 20:27:16 +0000"
@@ -7011,6 +7017,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -7047,6 +7059,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-11 20:11:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -7158,6 +7176,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/machine_base": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -7218,6 +7242,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-11 21:19:18 +0000"
@@ -7239,6 +7269,12 @@
   "utilitarian:recipes/misc/angel_block": {
     "criteria": {
       "has_gold": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -7341,6 +7377,12 @@
   "botania:recipes/decorations/pump": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -7464,6 +7506,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/raw_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-11 22:26:51 +0000"
+    },
+    "done": true
+  },
   "allthetweaks:recipes/misc/ender_pearl_block": {
     "criteria": {
       "has_ender_pearl": "2025-05-11 20:18:36 +0000"
@@ -7527,6 +7575,12 @@
   "occultism:recipes/crushing/crushing/aluminum_dust": {
     "criteria": {
       "has_aluminum": "2025-05-11 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -7602,6 +7656,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-05-11 21:03:43 +0000"
@@ -7623,6 +7683,12 @@
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -7680,6 +7746,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-11 22:23:46 +0000"
@@ -7707,6 +7779,12 @@
   "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -7809,6 +7887,12 @@
   "buildinggadgets2:recipes/misc/gadget_cut_paste": {
     "criteria": {
       "has_shear": "2025-05-11 20:48:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -7986,6 +8070,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust": {
     "criteria": {
       "has_silver": "2025-05-11 19:54:07 +0000"
@@ -8007,6 +8097,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_dark": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -8076,6 +8172,18 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/copper_block_from_blasting": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 22:30:32 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 21:19:18 +0000"
@@ -8109,6 +8217,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -8148,6 +8262,18 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2025-05-11 22:29:44 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -8181,6 +8307,12 @@
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -8220,9 +8352,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-05-11 22:29:44 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
     "criteria": {
       "has_tool": "2025-05-11 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch_raw": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 22:26:51 +0000"
     },
     "done": true
   },
@@ -8262,6 +8406,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_aluminum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-05-11 22:26:51 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 22:23:46 +0000"
@@ -8271,6 +8421,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 22:30:32 +0000"
     },
     "done": true
   },
@@ -8322,9 +8478,27 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/diamond_mesh": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/copper_block_from_smelting": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 22:30:32 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 22:29:44 +0000"
     },
     "done": true
   },
@@ -8337,6 +8511,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 22:26:51 +0000"
     },
     "done": true
   },
@@ -8436,6 +8616,18 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/copper_torch_raw": {
+    "criteria": {
+      "has_copper": "2025-05-11 22:30:32 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
@@ -8484,6 +8676,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
@@ -8529,6 +8727,12 @@
   "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -8592,6 +8796,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-11 22:26:51 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:54:01 +0000"
@@ -8637,6 +8847,12 @@
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 22:26:51 +0000"
     },
     "done": true
   },
@@ -8706,6 +8922,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_thirty": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -8721,6 +8943,12 @@
   "exmachinis:recipes/misc/diamond_upgrade": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 22:30:32 +0000"
     },
     "done": true
   },
@@ -8784,6 +9012,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -8838,6 +9072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 22:30:32 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 21:36:56 +0000"
@@ -8847,6 +9087,12 @@
   "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2025-05-11 22:30:32 +0000"
     },
     "done": true
   },
@@ -8904,6 +9150,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/misc/high_covalence_dust": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -8916,9 +9168,21 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-11 19:52:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 22:27:45 +0000"
     },
     "done": true
   },
@@ -9051,6 +9315,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-05-11 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 22:29:44 +0000"
     },
     "done": true
   },
@@ -9195,6 +9465,12 @@
   "itemcollectors:recipes/misc/basic_collector": {
     "criteria": {
       "recipe_condition": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 22:30:32 +0000"
     },
     "done": true
   },

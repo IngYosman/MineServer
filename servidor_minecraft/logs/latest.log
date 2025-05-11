@@ -3387,3 +3387,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 22:15:40.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has reached the goal [Fortuitous Militia]
 [11May2025 22:16:28.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has reached the goal [Die Classy]
 [11May2025 22:26:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Squeezing like a boss]
+[11May2025 22:33:41.449] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
