@@ -3360,3 +3360,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 19:24:34.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
 [11May2025 19:24:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
 [11May2025 19:24:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> valeee
+[11May2025 19:57:38.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Diamonds!]
+[11May2025 19:58:29.582] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[11May2025 19:58:41.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:49153] logged in with entity id 6882 at (-4080.894439408671, 67.0, 4.301522089103388)
+[11May2025 19:58:41.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[11May2025 19:58:41.660] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[11May2025 19:58:41.661] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[11May2025 19:59:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> wenas xd
+[11May2025 19:59:25.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> hii
+[11May2025 20:00:50.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> puede dormir?
+[11May2025 20:00:53.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> ya
+[11May2025 20:01:16.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> debimos instalar el mod apra que solo duerma una aprte del server xd
+[11May2025 20:01:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> se podria parametrizar
+[11May2025 20:01:35.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> no es necesario mod
+[11May2025 20:01:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> aa
