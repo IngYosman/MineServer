@@ -6975,6 +6975,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/flint_block_1x": {
+    "criteria": {
+      "has_flint_block": "2025-05-11 20:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -6993,6 +6999,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-11 20:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7002,6 +7026,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7023,6 +7053,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/sanity_meter": {
+    "criteria": {
+      "has_ingots/gold": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/machine_base": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -7041,9 +7083,27 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_tiles": {
     "criteria": {
       "has_aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/angel_block": {
+    "criteria": {
+      "has_gold": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7068,6 +7128,12 @@
   "exdeorum:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7107,15 +7173,39 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/deorum_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
     },
     "done": true
   },
+  "allthetweaks:recipes/misc/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/golden_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 20:15:11 +0000"
     },
     "done": true
   },
@@ -7155,9 +7245,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/misc/central_rune_holder": {
     "criteria": {
       "criterion0": "2025-05-11 19:56:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7191,6 +7293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_blue": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -7203,9 +7311,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/gold": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7233,9 +7353,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/angel_block_rot": {
+    "criteria": {
+      "has_gold": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7329,6 +7461,18 @@
     },
     "done": true
   },
+  "shrink:recipes/tools/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
     "criteria": {
       "has_aluminum": "2025-05-11 20:10:45 +0000"
@@ -7377,6 +7521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/copper_dust": {
     "criteria": {
       "has_copper": "2025-05-11 19:52:55 +0000"
@@ -7386,6 +7536,12 @@
   "alltheores:recipes/misc/silver_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:54:07 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/collector": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-11 20:18:36 +0000"
     },
     "done": true
   },
@@ -7401,9 +7557,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-05-11 19:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7431,9 +7605,27 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/diamond_mesh": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7473,9 +7665,33 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/tin_dust": {
     "criteria": {
       "has_tin": "2025-05-11 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/alfsteel_template": {
+    "criteria": {
+      "criterion0": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/golden_mesh_from_iron_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7494,6 +7710,18 @@
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/gold_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block_uncrafting": {
+    "criteria": {
+      "has_flint_block": "2025-05-11 20:11:43 +0000"
     },
     "done": true
   },
@@ -7533,6 +7761,24 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/misc/blood_altar": {
+    "criteria": {
+      "has_gold": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/golden_hammer": {
+    "criteria": {
+      "has_item": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/extractor": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -7548,6 +7794,12 @@
   "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
     },
     "done": true
   },
@@ -7578,6 +7830,12 @@
   "silentgear:recipes/misc/diamond_shard": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-11 20:18:36 +0000"
     },
     "done": true
   },
@@ -7659,6 +7917,18 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/force_ingot_from_gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
+    "criteria": {
+      "has_coal_block": "2025-05-11 20:11:57 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
@@ -7695,6 +7965,12 @@
     },
     "done": true
   },
+  "entangled:recipes/misc/block": {
+    "criteria": {
+      "recipe_condition": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-05-11 19:54:07 +0000"
@@ -7704,6 +7980,12 @@
   "silentgear:recipes/misc/diamond_from_shards": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2025-05-11 20:18:36 +0000"
     },
     "done": true
   },
@@ -7725,9 +8007,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/gold_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/misc/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-05-11 20:18:36 +0000"
     },
     "done": true
   },

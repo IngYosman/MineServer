@@ -4968,7 +4968,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-05-10 01:22:47 +0000"
+      "cooked_beef": "2025-05-10 01:22:47 +0000",
+      "apple": "2025-05-11 20:14:32 +0000"
     },
     "done": false
   },
@@ -12061,6 +12062,42 @@
   "rftoolspower:recipes/rftoolspower/coalgenerator": {
     "criteria": {
       "frame": "2025-05-11 18:51:18 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/mechanical_hammer": {
+    "criteria": {
+      "has_item": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/flux_compactor": {
+    "criteria": {
+      "has_hopper": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/mechanical_sieve": {
+    "criteria": {
+      "has_item": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/item_buffer": {
+    "criteria": {
+      "has_hopper": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 20:11:29 +0000"
     },
     "done": true
   },
