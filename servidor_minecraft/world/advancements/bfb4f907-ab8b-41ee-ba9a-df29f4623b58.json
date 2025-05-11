@@ -7120,6 +7120,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2025-05-11 21:01:51 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_tiles": {
     "criteria": {
       "has_aluminum": "2025-05-11 20:10:45 +0000"
@@ -7219,6 +7225,12 @@
   "alltheores:recipes/misc/copper_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
+    "criteria": {
+      "has_tool": "2025-05-11 21:05:33 +0000"
     },
     "done": true
   },
@@ -7324,15 +7336,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-11 21:04:56 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/misc/central_rune_holder": {
     "criteria": {
       "criterion0": "2025-05-11 19:56:48 +0000"
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2025-05-11 21:01:51 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-11 21:03:43 +0000"
     },
     "done": true
   },
@@ -7894,6 +7924,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2025-05-11 21:01:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2025-05-11 20:50:12 +0000"
@@ -7999,6 +8035,12 @@
   "immersiveengineering:recipes/misc/crafting/alu_fence": {
     "criteria": {
       "has_alu_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_leggings": {
+    "criteria": {
+      "has_armor": "2025-05-11 21:00:02 +0000"
     },
     "done": true
   },
@@ -8314,9 +8356,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-11 21:03:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2025-05-11 21:01:51 +0000"
     },
     "done": true
   },
