@@ -9640,6 +9640,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 17:54:10 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/xychorium_gem_light": {
     "criteria": {
       "has_xychorium_gem_light": "2025-05-11 17:49:08 +0000"
@@ -9667,6 +9673,12 @@
   "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_light": {
     "criteria": {
       "has_xychorium_gem_light": "2025-05-11 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust": {
+    "criteria": {
+      "has_lead": "2025-05-11 17:53:48 +0000"
     },
     "done": true
   },
@@ -9703,6 +9715,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 17:53:54 +0000"
     },
     "done": true
   },
@@ -9754,6 +9772,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 17:53:48 +0000"
+    },
+    "done": true
+  },
   "allthetweaks:recipes/misc/ender_pearl_block": {
     "criteria": {
       "has_ender_pearl": "2025-05-11 17:19:16 +0000"
@@ -9769,6 +9793,18 @@
   "utilitix:recipes/misc/linked_crystal": {
     "criteria": {
       "criterion0": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 17:53:41 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 17:53:54 +0000"
     },
     "done": true
   },
@@ -9790,6 +9826,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 17:54:10 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2025-05-11 16:35:18 +0000"
@@ -9808,6 +9850,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 17:53:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
@@ -9823,6 +9871,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 17:54:13 +0000"
     },
     "done": true
   },
@@ -9880,6 +9934,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 17:54:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
@@ -9901,6 +9961,12 @@
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust": {
+    "criteria": {
+      "has_silver": "2025-05-11 17:53:46 +0000"
     },
     "done": true
   },
@@ -9934,6 +10000,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/nickel_dust": {
+    "criteria": {
+      "has_nickel": "2025-05-11 17:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-05-11 17:49:08 +0000"
@@ -9943,6 +10015,12 @@
   "croptopia:recipes/misc/roasted_pumpkin_seeds": {
     "criteria": {
       "has_pumpkin_seed": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 17:53:46 +0000"
     },
     "done": true
   },
@@ -9958,9 +10036,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-05-11 17:53:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2025-05-11 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 17:53:46 +0000"
     },
     "done": true
   },
@@ -10000,6 +10090,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/tin_dust": {
+    "criteria": {
+      "has_tin": "2025-05-11 17:53:41 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone": {
     "criteria": {
       "has_glowstone": "2025-05-11 17:49:08 +0000"
@@ -10009,6 +10105,12 @@
   "xycraft_machines:recipes/misc/shaped/water_block": {
     "criteria": {
       "has_blue_xychorium": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 17:53:54 +0000"
     },
     "done": true
   },
@@ -10039,6 +10141,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 17:53:41 +0000"
     },
     "done": true
   },
@@ -10150,6 +10258,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 17:54:10 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/infinity_rod": {
     "criteria": {
       "has_ingredient": "2025-05-11 17:49:08 +0000"
@@ -10186,6 +10300,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 17:54:10 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/redstone_clock": {
     "criteria": {
       "has_redstone": "2025-05-11 17:49:04 +0000"
@@ -10210,9 +10330,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-05-11 17:53:46 +0000"
+    },
+    "done": true
+  },
   "entangled:recipes/misc/item": {
     "criteria": {
       "recipe_condition": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust": {
+    "criteria": {
+      "has_zinc": "2025-05-11 17:54:10 +0000"
     },
     "done": true
   },
