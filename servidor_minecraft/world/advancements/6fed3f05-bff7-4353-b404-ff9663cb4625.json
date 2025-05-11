@@ -9694,6 +9694,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_blue": {
+    "criteria": {
+      "has_xychorium_storage_blue": "2025-05-11 18:12:05 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/blaze_gold_ingot": {
     "criteria": {
       "has_item": "2025-05-11 17:49:08 +0000"
@@ -9727,6 +9733,12 @@
   "sfm:recipes/misc/disk": {
     "criteria": {
       "has_redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_storage_red": "2025-05-11 18:12:07 +0000"
     },
     "done": true
   },
@@ -9925,6 +9937,12 @@
   "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
+    "criteria": {
+      "has_graphite_ingot": "2025-05-11 18:15:54 +0000"
     },
     "done": true
   },
@@ -10135,6 +10153,12 @@
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-05-11 17:53:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_light": {
+    "criteria": {
+      "has_xychorium_storage_light": "2025-05-11 18:12:09 +0000"
     },
     "done": true
   },
