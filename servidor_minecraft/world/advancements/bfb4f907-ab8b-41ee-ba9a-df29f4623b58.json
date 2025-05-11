@@ -7026,6 +7026,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-11 20:11:57 +0000"
@@ -7095,6 +7101,12 @@
   "occultism:recipes/crushing/crushing/lead_dust": {
     "criteria": {
       "has_lead": "2025-05-11 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -7182,6 +7194,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
@@ -7191,6 +7209,12 @@
   "utilitarian:recipes/misc/angel_block": {
     "criteria": {
       "has_gold": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -7254,6 +7278,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
@@ -7311,6 +7341,12 @@
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -7398,9 +7434,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust": {
     "criteria": {
       "has_aluminum": "2025-05-11 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -7425,6 +7473,12 @@
   "create:recipes/misc/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:53:47 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -7572,6 +7626,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
@@ -7581,6 +7641,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -7737,6 +7803,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-05-11 20:50:12 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -7908,6 +7980,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:54:07 +0000"
@@ -7980,6 +8058,12 @@
     },
     "done": true
   },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
@@ -8004,9 +8088,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:54:07 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -8037,6 +8133,12 @@
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -8073,6 +8175,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-11 21:37:14 +0000"
     },
     "done": true
   },
@@ -8217,6 +8325,12 @@
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 21:36:56 +0000"
     },
     "done": true
   },
@@ -8484,6 +8598,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 21:19:18 +0000"
@@ -8655,6 +8775,18 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-11 21:37:09 +0000"
     },
     "done": true
   },
