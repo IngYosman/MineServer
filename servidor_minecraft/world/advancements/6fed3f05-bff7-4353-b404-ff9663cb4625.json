@@ -9676,9 +9676,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-11 18:29:05 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-11 18:23:56 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
     "criteria": {
       "has_raw_nickel": "2025-05-11 18:09:33 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-11 18:30:51 +0000"
     },
     "done": true
   },
@@ -9694,9 +9712,39 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-11 18:30:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-11 18:29:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-11 18:29:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-11 18:29:05 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/unpacking/xychorium_gem_blue": {
     "criteria": {
       "has_xychorium_storage_blue": "2025-05-11 18:12:05 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 18:23:55 +0000"
     },
     "done": true
   },
@@ -9709,6 +9757,12 @@
   "xnet:recipes/xnet/connector_upgrade": {
     "criteria": {
       "pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-11 18:29:05 +0000"
     },
     "done": true
   },
@@ -9754,9 +9808,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-11 18:23:56 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 17:53:54 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 18:23:55 +0000"
     },
     "done": true
   },
@@ -9769,6 +9835,12 @@
   "immersiveengineering:recipes/misc/crafting/lantern": {
     "criteria": {
       "has_glowstone": "2025-05-11 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_ingot_from_block": {
+    "criteria": {
+      "has_silver_block": "2025-05-11 18:26:46 +0000"
     },
     "done": true
   },
@@ -9808,6 +9880,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-11 18:30:59 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 18:30:51 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-11 18:07:38 +0000"
@@ -9844,6 +9928,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-11 18:29:11 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/lead_block_1x": {
+    "criteria": {
+      "has_lead_block": "2025-05-11 18:30:59 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/linked_crystal": {
     "criteria": {
       "criterion0": "2025-05-11 17:49:04 +0000"
@@ -9865,6 +9961,18 @@
   "rftoolsutility:recipes/rftoolsutility/redstone_information": {
     "criteria": {
       "redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-11 18:30:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-11 18:23:55 +0000"
     },
     "done": true
   },
@@ -9904,6 +10012,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-11 18:29:05 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 17:53:48 +0000"
@@ -9934,6 +10048,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 18:23:55 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 17:54:13 +0000"
@@ -9943,6 +10063,12 @@
   "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
     "criteria": {
       "has_graphite_ingot": "2025-05-11 18:15:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-11 18:23:56 +0000"
     },
     "done": true
   },
@@ -9958,9 +10084,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-11 18:26:46 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/dimmable_redstone_lamp": {
     "criteria": {
       "criterion1": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 18:23:55 +0000"
     },
     "done": true
   },
@@ -9973,6 +10111,24 @@
   "antiblocksrechiseled:recipes/building_blocks/bright_white": {
     "criteria": {
       "has_glowstone_dust": "2025-05-11 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 18:23:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-11 18:29:05 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/nickel_block_1x": {
+    "criteria": {
+      "has_nickel_block": "2025-05-11 18:29:11 +0000"
     },
     "done": true
   },
@@ -10036,6 +10192,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-11 18:23:55 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_ingot": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-11 18:23:56 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/moss_block": {
     "criteria": {
       "has_item": "2025-05-11 16:35:19 +0000"
@@ -10051,6 +10219,12 @@
   "occultism:recipes/crushing/crushing/silver_dust": {
     "criteria": {
       "has_silver": "2025-05-11 17:53:46 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/tin_block_1x": {
+    "criteria": {
+      "has_tin_block": "2025-05-11 18:27:00 +0000"
     },
     "done": true
   },
@@ -10078,9 +10252,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-11 18:23:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-11 18:30:51 +0000"
     },
     "done": true
   },
@@ -10102,6 +10288,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 18:29:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-05-11 17:49:08 +0000"
@@ -10111,6 +10303,12 @@
   "alltheores:recipes/misc/raw_lead_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-05-11 18:10:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 18:23:56 +0000"
     },
     "done": true
   },
@@ -10135,6 +10333,12 @@
   "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
     "criteria": {
       "has_raw_tin": "2025-05-11 18:08:01 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-11 18:29:05 +0000"
     },
     "done": true
   },
@@ -10210,6 +10414,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-11 18:23:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-11 17:49:04 +0000"
@@ -10252,9 +10462,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-11 18:27:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/silver_block_1x": {
+    "criteria": {
+      "has_silver_block": "2025-05-11 18:26:46 +0000"
     },
     "done": true
   },
@@ -10336,6 +10558,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-11 18:30:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 18:23:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-11 17:49:04 +0000"
@@ -10354,9 +10588,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/lead_dust_from_ingot": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-11 18:30:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-11 18:30:51 +0000"
     },
     "done": true
   },
@@ -10369,6 +10615,12 @@
   "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
       "has_raw_lead": "2025-05-11 18:10:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-11 18:30:51 +0000"
     },
     "done": true
   },
@@ -10438,6 +10690,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 18:23:55 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-05-11 17:12:02 +0000"
@@ -10465,6 +10723,12 @@
   "modularrouters:recipes/misc/blank_module": {
     "criteria": {
       "has_redstone": "2025-05-11 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-11 18:23:55 +0000"
     },
     "done": true
   },
