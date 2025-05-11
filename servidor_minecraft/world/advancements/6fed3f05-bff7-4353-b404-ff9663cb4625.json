@@ -1807,6 +1807,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-05-10 03:48:59 +0000",
+      "potato": "2025-05-11 23:11:29 +0000",
       "wheat": "2025-05-10 00:04:12 +0000"
     },
     "done": false
@@ -12179,6 +12180,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-11 23:16:21 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
@@ -12398,6 +12405,12 @@
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2025-05-11 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-11 23:16:21 +0000"
     },
     "done": true
   },
