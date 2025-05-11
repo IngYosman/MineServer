@@ -7008,6 +7008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-11 22:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7065,6 +7071,12 @@
   "enderio:recipes/redstone/resetting_lever_ten": {
     "criteria": {
       "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -7164,6 +7176,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2025-05-11 20:27:16 +0000"
@@ -7185,6 +7203,12 @@
   "xycraft_machines:recipes/misc/shaped/machine_base": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_rgb": {
+    "criteria": {
+      "has_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -7308,6 +7332,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-11 20:41:27 +0000"
@@ -7410,9 +7440,21 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/voltmeter": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
+    "criteria": {
+      "has_black_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -7542,6 +7584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7563,6 +7611,12 @@
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -7860,6 +7914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
@@ -7962,6 +8022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-11 22:50:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7977,6 +8043,12 @@
   "immersiveengineering:recipes/misc/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8034,6 +8106,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -8049,6 +8127,18 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-11 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8112,6 +8202,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/manasteel_block": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
@@ -8121,6 +8217,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8178,6 +8280,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_ten_inv": {
     "criteria": {
       "has_ingredient": "2025-05-11 22:27:45 +0000"
@@ -8187,6 +8295,12 @@
   "mcwtrpdoors:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8388,6 +8502,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 21:36:56 +0000"
@@ -8439,6 +8559,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_black": {
+    "criteria": {
+      "has_black_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8562,6 +8688,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-11 19:57:38 +0000"
@@ -8571,6 +8703,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8595,6 +8733,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8844,6 +8988,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/black_force_furnace_from_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
@@ -8859,6 +9009,12 @@
   "bloodmagic:recipes/misc/blood_altar": {
     "criteria": {
       "has_gold": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8895,6 +9051,12 @@
   "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "forge:dyes/black": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -8970,6 +9132,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 22:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-11 19:52:27 +0000"
@@ -9018,9 +9186,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-11 22:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -9069,6 +9249,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/misc/labelgun": {
+    "criteria": {
+      "has_ink": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -9153,6 +9339,12 @@
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
     "criteria": {
       "has_ingredient": "2025-05-11 22:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -9291,6 +9483,12 @@
   "silentgear:recipes/misc/emerald_shard": {
     "criteria": {
       "has_item": "2025-05-11 19:56:48 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_black_torch": {
+    "criteria": {
+      "has_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },
@@ -9444,6 +9642,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-05-11 22:50:04 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
@@ -9465,6 +9669,12 @@
   "itemcollectors:recipes/misc/basic_collector": {
     "criteria": {
       "recipe_condition": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-11 22:51:55 +0000"
     },
     "done": true
   },

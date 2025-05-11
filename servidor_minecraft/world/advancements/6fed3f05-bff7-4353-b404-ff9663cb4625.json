@@ -12065,6 +12065,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/building_blocks/force_brick": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
@@ -12101,9 +12107,27 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12119,9 +12143,39 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 22:55:28 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12143,6 +12197,18 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
@@ -12158,6 +12224,12 @@
   "forcecraft:recipes/misc/gunpowder_from_pile_of_gunpowder": {
     "criteria": {
       "has_pile_of_gunpowder": "2025-05-11 20:21:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12179,6 +12251,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
@@ -12191,9 +12269,33 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-11 22:52:22 +0000"
     },
     "done": true
   },
@@ -12206,6 +12308,12 @@
   "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12236,6 +12344,12 @@
   "enderio:recipes/misc/basic_item_filter": {
     "criteria": {
       "has_ingredient": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },
@@ -12272,6 +12386,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 22:52:19 +0000"
     },
     "done": true
   },

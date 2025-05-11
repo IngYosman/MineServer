@@ -3392,3 +3392,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 22:40:10.382] [Server thread/INFO] [tombstone/]: The player DStevenTy has successfully been saved
 [11May2025 22:40:12.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 2.0,-4.799999999999997,4099.0
 [11May2025 22:40:14.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> xd
+[11May2025 22:50:04.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Hidden in the Depths]
+[11May2025 22:55:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has reached the goal [Bone Crusher]
+[11May2025 22:56:30.257] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[11May2025 22:56:42.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:57617] logged in with entity id 15459 at (-4097.270531094973, 67.0, 4098.995705060204)
+[11May2025 22:56:42.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[11May2025 22:56:42.272] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[11May2025 22:56:42.273] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[11May2025 22:56:56.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Drying like a boss]
