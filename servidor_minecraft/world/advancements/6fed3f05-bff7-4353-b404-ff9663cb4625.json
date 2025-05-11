@@ -4955,6 +4955,7 @@
       "minecraft:spider": "2025-05-10 03:45:53 +0000",
       "minecraft:creeper": "2025-05-11 16:09:36 +0000",
       "minecraft:phantom": "2025-05-10 02:16:13 +0000",
+      "minecraft:enderman": "2025-05-11 17:19:11 +0000",
       "minecraft:zombie": "2025-05-10 01:52:36 +0000"
     },
     "done": false
@@ -9645,9 +9646,27 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
+    "criteria": {
+      "has_tool": "2025-05-11 17:18:04 +0000"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/misc/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-11 17:19:16 +0000"
     },
     "done": true
   },
@@ -9657,9 +9676,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-05-11 17:17:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-05-11 17:18:04 +0000"
     },
     "done": true
   },
@@ -9681,6 +9712,12 @@
     },
     "done": true
   },
+  "shrink:recipes/tools/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
@@ -9699,9 +9736,33 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/collector": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-11 17:17:30 +0000"
     },
     "done": true
   },
@@ -9723,9 +9784,39 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-05-11 17:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-11 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/block": {
+    "criteria": {
+      "recipe_condition": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2025-05-11 17:19:16 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/misc/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-05-11 17:19:16 +0000"
     },
     "done": true
   },
