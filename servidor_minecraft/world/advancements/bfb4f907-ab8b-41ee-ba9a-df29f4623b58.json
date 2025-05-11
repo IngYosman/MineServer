@@ -6990,6 +6990,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/peridot_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/flint_block_1x": {
     "criteria": {
       "has_flint_block": "2025-05-11 20:11:43 +0000"
@@ -7017,6 +7023,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7080,6 +7092,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 20:31:09 +0000"
@@ -7107,6 +7125,12 @@
   "occultism:recipes/misc/crafting/dictionary_of_spirits": {
     "criteria": {
       "has_datura": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7149,6 +7173,12 @@
   "xycraft_world:recipes/misc/unpacking/aluminum_nugget": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-11 22:25:34 +0000"
     },
     "done": true
   },
@@ -7236,6 +7266,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-11 20:41:27 +0000"
@@ -7260,6 +7296,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_item": "2025-05-11 19:57:38 +0000"
@@ -7275,6 +7317,12 @@
   "alltheores:recipes/misc/copper_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7296,9 +7344,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7317,6 +7377,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7356,6 +7422,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
     "criteria": {
       "has_aluminum": "2025-05-11 20:10:45 +0000"
@@ -7371,6 +7443,12 @@
   "alltheores:recipes/misc/lead_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-05-11 22:25:34 +0000"
     },
     "done": true
   },
@@ -7419,6 +7497,12 @@
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7485,6 +7569,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7572,6 +7662,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-11 19:54:11 +0000"
@@ -7581,6 +7677,12 @@
   "botania:recipes/tools/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7626,6 +7728,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 21:36:56 +0000"
@@ -7635,6 +7743,18 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2025-05-11 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7752,6 +7872,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7848,6 +7974,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_leggings": {
     "criteria": {
       "has_item": "2025-05-11 21:15:48 +0000"
@@ -7902,6 +8034,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/ruby_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
     "criteria": {
       "has_aluminum": "2025-05-11 20:10:45 +0000"
@@ -7911,6 +8049,12 @@
   "occultism:recipes/crushing/crushing/nickel_dust": {
     "criteria": {
       "has_nickel": "2025-05-11 19:54:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -7977,6 +8121,12 @@
   "occultism:recipes/crushing/crushing/copper_dust": {
     "criteria": {
       "has_copper": "2025-05-11 19:52:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8076,6 +8226,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-05-11 20:31:09 +0000"
@@ -8103,6 +8259,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8136,9 +8298,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8181,6 +8355,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-05-11 21:37:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8322,15 +8502,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
     },
     "done": true
   },
+  "alltheores:recipes/misc/gold_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8400,6 +8598,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/bronze_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alu_fence": {
     "criteria": {
       "has_alu_ingot": "2025-05-11 20:10:45 +0000"
@@ -8454,9 +8658,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/golden_hammer": {
     "criteria": {
       "has_item": "2025-05-11 20:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-11 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8568,6 +8790,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/signalum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-11 20:10:45 +0000"
@@ -8592,6 +8820,18 @@
     },
     "done": true
   },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-05-11 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 21:19:18 +0000"
@@ -8601,6 +8841,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8625,6 +8871,12 @@
   "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
     "criteria": {
       "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8667,6 +8919,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-11 19:52:55 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-05-11 22:25:34 +0000"
     },
     "done": true
   },
@@ -8760,6 +9018,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/emerald_shard": {
     "criteria": {
       "has_item": "2025-05-11 19:56:48 +0000"
@@ -8790,6 +9054,24 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/brass_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_blue": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-11 20:10:45 +0000"
@@ -8799,6 +9081,12 @@
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-11 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lumium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-11 22:23:46 +0000"
     },
     "done": true
   },
@@ -8907,6 +9195,12 @@
   "itemcollectors:recipes/misc/basic_collector": {
     "criteria": {
       "recipe_condition": "2025-05-11 20:18:36 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-05-11 22:25:34 +0000"
     },
     "done": true
   },
