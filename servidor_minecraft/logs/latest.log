@@ -3331,3 +3331,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 15:46:59.026] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
 [11May2025 15:46:59.083] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [11May2025 15:47:00.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3149ms or 62 ticks behind
+[11May2025 16:16:13.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Timed out
+[11May2025 16:16:13.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[11May2025 16:16:13.275] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 16:17:11.828] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51ca2323[id=<null>,name=BURPIX,properties={},legacy=false] (/127.205.129.119:52351) lost connection: Timed out
+[11May2025 16:17:15.428] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[11May2025 16:17:27.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:34489] logged in with entity id 979 at (-4097.5, 67.0, 1.5)
+[11May2025 16:17:27.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[11May2025 16:17:27.613] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[11May2025 16:17:27.615] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
