@@ -3388,3 +3388,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 22:16:28.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has reached the goal [Die Classy]
 [11May2025 22:26:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Squeezing like a boss]
 [11May2025 22:33:41.449] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
+[11May2025 22:40:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy fell from a high place
+[11May2025 22:40:10.382] [Server thread/INFO] [tombstone/]: The player DStevenTy has successfully been saved
+[11May2025 22:40:12.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 2.0,-4.799999999999997,4099.0
+[11May2025 22:40:14.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> xd
