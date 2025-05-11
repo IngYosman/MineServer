@@ -3352,3 +3352,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 19:15:09.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy lost connection: Disconnected
 [11May2025 19:15:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy left the game
 [11May2025 19:15:47.190] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
+[11May2025 19:15:59.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DStevenTy[/127.50.134.206:48951] logged in with entity id 3634 at (2.9914692792413926, 68.0, 4097.3041826211)
+[11May2025 19:15:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
+[11May2025 19:15:59.466] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
+[11May2025 19:15:59.467] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[11May2025 19:24:30.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> ya vengo ire a almorzar xddd
+[11May2025 19:24:34.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
+[11May2025 19:24:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[11May2025 19:24:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> valeee
