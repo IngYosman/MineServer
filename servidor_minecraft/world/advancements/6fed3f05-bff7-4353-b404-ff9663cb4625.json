@@ -12065,6 +12065,24 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_brick": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/force_brick_from_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/mechanical_hammer": {
     "criteria": {
       "has_item": "2025-05-11 20:11:29 +0000"
@@ -12083,9 +12101,51 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
   "exmachinis:recipes/misc/item_buffer": {
     "criteria": {
       "has_hopper": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
     },
     "done": true
   },
@@ -12101,9 +12161,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_boots": {
     "criteria": {
       "has_armor": "2025-05-11 20:24:34 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
     },
     "done": true
   },
@@ -12113,9 +12221,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/basic_item_filter": {
     "criteria": {
       "has_ingredient": "2025-05-11 20:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 20:48:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 20:48:53 +0000"
     },
     "done": true
   },

@@ -7474,6 +7474,12 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-05-11 20:48:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
@@ -7504,6 +7510,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-11 20:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-11 19:57:38 +0000"
@@ -7519,6 +7531,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-05-11 19:57:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-11 20:50:12 +0000"
     },
     "done": true
   },
@@ -7549,6 +7567,12 @@
   "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
     "criteria": {
       "has_raw_iron": "2025-05-11 20:27:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-11 20:50:12 +0000"
     },
     "done": true
   },
@@ -7867,6 +7891,12 @@
   "occultism:recipes/crushing/crushing/tin_dust": {
     "criteria": {
       "has_tin": "2025-05-11 19:54:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-11 20:50:12 +0000"
     },
     "done": true
   },
