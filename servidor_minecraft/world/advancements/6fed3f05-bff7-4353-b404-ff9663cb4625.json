@@ -12131,6 +12131,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 22:15:40 +0000"
+    },
+    "done": true
+  },
   "exmachinis:recipes/misc/item_buffer": {
     "criteria": {
       "has_hopper": "2025-05-11 20:11:29 +0000"
