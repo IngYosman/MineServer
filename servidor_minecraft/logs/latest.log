@@ -3341,3 +3341,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 16:17:27.613] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
 [11May2025 16:17:27.615] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [11May2025 17:12:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has reached the goal [Worthy Equipment]
+[11May2025 19:11:48.770] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
+[11May2025 19:12:00.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DStevenTy[/127.50.134.206:53121] logged in with entity id 3621 at (-0.9850229721934451, 69.0, 4092.4650154374904)
+[11May2025 19:12:00.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
+[11May2025 19:12:01.062] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
+[11May2025 19:12:01.064] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[11May2025 19:13:15.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> Buenasss
+[11May2025 19:13:20.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> hello
+[11May2025 19:13:23.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> :bongocat::bongocat:
+[11May2025 19:15:09.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy lost connection: Disconnected
+[11May2025 19:15:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy left the game
+[11May2025 19:15:47.190] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
