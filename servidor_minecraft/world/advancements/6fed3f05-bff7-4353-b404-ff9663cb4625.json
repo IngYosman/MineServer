@@ -12811,15 +12811,51 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/hives/advanced_mangrove_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_birch_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_cherry_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-05-12 00:43:25 +0000"
     },
     "done": true
   },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_bamboo_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_crimson_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/candied_nuts": {
     "criteria": {
       "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_acacia_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
     },
     "done": true
   },
@@ -12841,6 +12877,18 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_crimson_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_jungle_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-05-12 00:35:24 +0000"
@@ -12850,6 +12898,12 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_red_wool": "2025-05-12 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_mangrove_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
     },
     "done": true
   },
@@ -12865,9 +12919,39 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/hives/advanced_warped_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_jungle_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-05-12 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_spruce_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_bamboo_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-12 00:46:55 +0000"
     },
     "done": true
   },
@@ -12877,15 +12961,57 @@
     },
     "done": true
   },
+  "productivebees:recipes/misc/hives/advanced_cherry_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-05-12 00:35:24 +0000"
     },
     "done": true
   },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_acacia_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_birch_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_warped_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_dark_oak_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_oak_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_dark_oak_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
     },
     "done": true
   },
@@ -12898,6 +13024,36 @@
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_snake_block_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_oak_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/hives/advanced_snake_block_canvas_hive": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-12 00:46:55 +0000"
+    },
+    "done": true
+  },
+  "productivebees:recipes/misc/expansion_boxes/expansion_box_spruce_canvas": {
+    "criteria": {
+      "has_hive": "2025-05-12 00:49:30 +0000"
     },
     "done": true
   },
