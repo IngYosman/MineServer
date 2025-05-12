@@ -12925,6 +12925,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-05-12 01:21:58 +0000"
+    },
+    "done": false
+  },
   "productivebees:recipes/misc/expansion_boxes/expansion_box_jungle_canvas": {
     "criteria": {
       "has_hive": "2025-05-12 00:49:30 +0000"
@@ -12964,6 +12970,12 @@
   "productivebees:recipes/misc/hives/advanced_cherry_canvas_hive": {
     "criteria": {
       "has_hive": "2025-05-12 00:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-12 01:21:58 +0000"
     },
     "done": true
   },

@@ -20,3 +20,6 @@
 [12May2025 00:54:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> :peped::peped::peped::peped:
 [12May2025 00:58:34.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Timed out
 [12May2025 00:58:34.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
+[12May2025 01:21:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [The Parrots and the Bats]
+[12May2025 01:24:33.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
+[12May2025 01:24:33.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
