@@ -3365,3 +3365,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 23:43:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
 [12May2025 23:43:57.355] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
 [12May2025 23:43:57.357] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[12May2025 23:47:06.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy lost connection: Disconnected
+[12May2025 23:47:06.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy left the game
+[12May2025 23:49:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> fetch sabes como se hace el agua de bruhja?
+[12May2025 23:54:33.383] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
+[12May2025 23:54:45.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DStevenTy[/127.50.134.206:39353] logged in with entity id 8094 at (16.293352969944994, 68.0, 4100.816909702411)
+[12May2025 23:54:45.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
+[12May2025 23:54:45.570] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
+[12May2025 23:54:45.572] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5

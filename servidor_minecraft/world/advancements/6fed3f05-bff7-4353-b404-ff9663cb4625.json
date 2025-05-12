@@ -13633,6 +13633,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-05-12 23:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-05-12 23:35:33 +0000"

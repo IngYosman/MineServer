@@ -11357,15 +11357,165 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-05-12 23:19:24 +0000"
     },
     "done": true
   },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-05-12 23:45:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-05-12 23:45:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/fortune_cookie": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-05-12 23:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_card": {
+    "criteria": {
+      "paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-05-12 23:45:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
   "create:compacting": {
     "criteria": {
       "0": "2025-05-12 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-05-12 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-05-12 23:45:20 +0000"
     },
     "done": true
   },
