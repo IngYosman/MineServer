@@ -13093,6 +13093,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/aurum_wood": {
+    "criteria": {
+      "has_aurum_log": "2025-05-12 03:22:02 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/decorations/relay_mk1": {
     "criteria": {
       "has_diamond": "2025-05-12 03:06:20 +0000"
@@ -13102,6 +13108,12 @@
   "allthecompressed:recipes/building_blocks/compress/emerald_block_1x": {
     "criteria": {
       "has_emerald_block": "2025-05-12 03:06:36 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/aurum_planks": {
+    "criteria": {
+      "has_log": "2025-05-12 03:22:02 +0000"
     },
     "done": true
   },
