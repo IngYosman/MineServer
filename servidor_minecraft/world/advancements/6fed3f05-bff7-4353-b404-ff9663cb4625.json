@@ -13177,5 +13177,17 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/anvil_cart": {
+    "criteria": {
+      "criterion0": "2025-05-12 04:03:53 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
+    "criteria": {
+      "has_anvil": "2025-05-12 04:03:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
