@@ -10558,9 +10558,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/bronze_dust_from_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-12 00:00:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
     },
     "done": true
   },
@@ -10696,6 +10708,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/bronze_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
   "exmachinis:recipes/misc/comparator_upgrade": {
     "criteria": {
       "has_comparator": "2025-05-11 23:27:19 +0000"
@@ -10711,6 +10729,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-12 00:33:24 +0000"
     },
     "done": true
   },
@@ -10834,6 +10858,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/bronze_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_red": {
     "criteria": {
       "has_dyes/black": "2025-05-12 00:20:59 +0000"
@@ -10855,6 +10885,18 @@
   "sophisticatedstorage:recipes/misc/copper_chest": {
     "criteria": {
       "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_knife": "2025-05-12 00:30:10 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/bronze_block_1x": {
+    "criteria": {
+      "has_bronze_block": "2025-05-12 00:33:24 +0000"
     },
     "done": true
   },
@@ -10897,6 +10939,12 @@
   "sophisticatedstorage:recipes/misc/storage_output": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_ore_hammer": {
+    "criteria": {
+      "has_bronze_block": "2025-05-12 00:33:24 +0000"
     },
     "done": true
   },
@@ -10948,6 +10996,12 @@
     },
     "done": true
   },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-12 00:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-11 23:58:44 +0000"
@@ -10975,6 +11029,12 @@
   "sophisticatedstorage:recipes/misc/double_iron_chest": {
     "criteria": {
       "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
     },
     "done": true
   },
@@ -11083,6 +11143,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
     },
     "done": true
   },

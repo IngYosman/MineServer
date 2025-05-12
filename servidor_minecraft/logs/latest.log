@@ -5,3 +5,12 @@
 [12May2025 00:27:11.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
 [12May2025 00:27:11.237] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
 [12May2025 00:27:11.238] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[12May2025 00:27:54.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
+[12May2025 00:27:54.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[12May2025 00:28:08.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch moved too quickly! -8.086320338050427,0.757002463247801,6.280062684253608
+[12May2025 00:28:56.515] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[12May2025 00:29:08.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:55629] logged in with entity id 20314 at (-4096.632316555498, 67.0, 3.221088177297499)
+[12May2025 00:29:08.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[12May2025 00:29:08.480] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[12May2025 00:29:08.481] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[12May2025 00:30:10.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Iron Torch]
