@@ -23,3 +23,9 @@
 [12May2025 01:21:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [The Parrots and the Bats]
 [12May2025 01:24:33.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
 [12May2025 01:24:33.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[12May2025 01:39:03.305] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[12May2025 01:39:15.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:58329] logged in with entity id 22236 at (-4101.8953766391905, 68.0, 2.7999689555577496)
+[12May2025 01:39:15.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[12May2025 01:39:15.278] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[12May2025 01:39:15.279] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[12May2025 01:43:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [What a Deal!]
