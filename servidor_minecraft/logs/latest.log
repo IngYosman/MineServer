@@ -18,3 +18,5 @@
 [12May2025 00:54:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> sleep
 [12May2025 00:54:26.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> :DinkDonk::DinkDonk::DinkDonk::DinkDonk:
 [12May2025 00:54:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> :peped::peped::peped::peped:
+[12May2025 00:58:34.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Timed out
+[12May2025 00:58:34.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
