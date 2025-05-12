@@ -3432,3 +3432,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 23:56:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
 [11May2025 23:56:20.389] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
 [11May2025 23:56:20.391] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[11May2025 23:59:21.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Diamonds!]

@@ -10552,6 +10552,18 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-12 00:00:28 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_comparator": {
     "criteria": {
       "has_base_block": "2025-05-11 23:27:19 +0000"
@@ -10561,6 +10573,18 @@
   "reliquary:recipes/misc/uncrafting/gold_nugget": {
     "criteria": {
       "has_zombie_heart": "2025-05-11 23:16:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-05-11 23:58:59 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/golden_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
     },
     "done": true
   },
@@ -10576,9 +10600,45 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/poppy_to_dandelion": {
+    "criteria": {
+      "has_poppy": "2025-05-12 00:00:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/double_copper_chest": {
     "criteria": {
       "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
     },
     "done": true
   },
@@ -10588,9 +10648,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/tps_meter": {
     "criteria": {
       "has_comparator": "2025-05-11 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/wooden_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/iron_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
     },
     "done": true
   },
@@ -10606,9 +10708,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_helmet": {
     "criteria": {
       "has_armor": "2025-05-11 23:28:52 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
     },
     "done": true
   },
@@ -10624,6 +10738,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/copper_chest": {
     "criteria": {
       "has_chest": "2025-05-11 23:46:34 +0000"
@@ -10636,15 +10762,57 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
     "criteria": {
       "has_zombie_heart": "2025-05-11 23:16:34 +0000"
     },
     "done": true
   },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-05-11 23:58:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_output": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-11 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-12 00:00:31 +0000"
     },
     "done": true
   },
@@ -10660,6 +10828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
     "criteria": {
       "has_controller": "2025-05-11 23:49:48 +0000"
@@ -10669,6 +10843,12 @@
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_leggings": {
     "criteria": {
       "has_armor": "2025-05-11 23:15:27 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/diamond_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
     },
     "done": true
   },
@@ -10696,6 +10876,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-05-11 23:14:43 +0000"
@@ -10717,6 +10909,30 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-11 23:03:26 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/stone_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-11 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/compressed_iron_hammer": {
+    "criteria": {
+      "has_item": "2025-05-12 00:05:37 +0000"
     },
     "done": true
   },

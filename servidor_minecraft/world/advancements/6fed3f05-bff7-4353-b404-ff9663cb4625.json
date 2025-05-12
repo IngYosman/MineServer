@@ -12432,5 +12432,383 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-12 00:02:37 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-05-12 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_item": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/poppy_to_dandelion": {
+    "criteria": {
+      "has_poppy": "2025-05-12 00:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/red_force_furnace_from_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/central_rune_holder": {
+    "criteria": {
+      "criterion0": "2025-05-12 00:00:52 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/diamond_mesh_from_golden_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_red_torch": {
+    "criteria": {
+      "has_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/experience_crystal": {
+    "criteria": {
+      "criterion1": "2025-05-12 00:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/diamond_shears": {
+    "criteria": {
+      "criterion0": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2025-05-12 00:00:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-05-12 00:00:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-05-12 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/diamond_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-12 00:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/diamond_shard": {
+    "criteria": {
+      "has_item": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_red": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/high_covalence_dust": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-05-12 00:00:52 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2025-05-12 00:00:52 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/diamond_from_shards": {
+    "criteria": {
+      "has_item": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 23:59:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
