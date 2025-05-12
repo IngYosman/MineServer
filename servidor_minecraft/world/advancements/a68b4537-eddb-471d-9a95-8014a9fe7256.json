@@ -10594,9 +10594,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/rotten_flesh": {
     "criteria": {
       "has_zombie_heart": "2025-05-11 23:16:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
     },
     "done": true
   },
@@ -10624,6 +10642,18 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/double_copper_chest": {
     "criteria": {
       "has_chest": "2025-05-11 23:46:34 +0000"
@@ -10636,9 +10666,33 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/red_force_furnace_from_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
     },
     "done": true
   },
@@ -10654,6 +10708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 23:58:44 +0000"
@@ -10663,6 +10723,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
     },
     "done": true
   },
@@ -10681,6 +10747,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_red_torch": {
+    "criteria": {
+      "has_dye": "2025-05-12 00:20:59 +0000"
     },
     "done": true
   },
@@ -10732,9 +10804,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-05-11 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
     },
     "done": true
   },
@@ -10744,9 +10834,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:20:59 +0000"
     },
     "done": true
   },
@@ -10759,6 +10861,18 @@
   "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
     "criteria": {
       "has_rib_bone": "2025-05-11 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
     },
     "done": true
   },
@@ -10801,6 +10915,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-11 23:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
     },
     "done": true
   },
@@ -10864,6 +10984,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2025-05-11 23:16:32 +0000"
@@ -10882,6 +11014,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_red": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 23:58:44 +0000"
@@ -10894,6 +11038,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/shulker_from_chest": {
     "criteria": {
       "has_chest": "2025-05-11 23:46:34 +0000"
@@ -10903,6 +11059,12 @@
   "sophisticatedstorage:recipes/misc/storage_io": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
     },
     "done": true
   },
