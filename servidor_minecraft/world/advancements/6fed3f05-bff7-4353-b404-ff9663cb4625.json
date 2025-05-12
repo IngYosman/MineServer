@@ -13189,5 +13189,335 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-12 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-12 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-12 23:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_furnace_from_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-12 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-12 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_black": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-12 23:02:41 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/black_force_furnace_from_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "forge:dyes/black": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-12 23:03:26 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/misc/labelgun": {
+    "criteria": {
+      "has_ink": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-05-12 23:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-12 23:03:26 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_black_torch": {
+    "criteria": {
+      "has_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-05-12 23:03:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-12 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 23:02:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

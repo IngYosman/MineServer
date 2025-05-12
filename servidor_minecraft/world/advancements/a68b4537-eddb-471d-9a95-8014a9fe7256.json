@@ -10546,519 +10546,9 @@
     },
     "done": true
   },
-  "apotheosis:affix/mythic_gem": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "gem": "2025-05-11 23:13:05 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
-    "criteria": {
-      "has_dandelion": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/bronze_dust_from_ingot": {
-    "criteria": {
-      "has_bronze_ingot": "2025-05-12 00:33:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-05-12 00:00:28 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/bronze_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_comparator": {
-    "criteria": {
-      "has_base_block": "2025-05-11 23:27:19 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/gold_nugget": {
-    "criteria": {
-      "has_zombie_heart": "2025-05-11 23:16:34 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
-    "criteria": {
-      "has_datura": "2025-05-11 23:58:59 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/golden_watering_can": {
-    "criteria": {
-      "has_item": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
-    "criteria": {
-      "has_zombie_heart": "2025-05-11 23:16:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_red2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
-    "criteria": {
-      "has_zombie_heart": "2025-05-11 23:16:34 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_red_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_fluxfield": {
-    "criteria": {
-      "has_item": "2025-05-12 00:36:57 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/poppy_to_dandelion": {
-    "criteria": {
-      "has_poppy": "2025-05-12 00:00:28 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red": {
-    "criteria": {
-      "has_red_wool": "2025-05-12 00:21:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_copper_chest": {
-    "criteria": {
-      "has_chest": "2025-05-11 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/red_force_furnace_from_dye": {
-    "criteria": {
-      "has_red_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-05-12 00:21:03 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_red": {
-    "criteria": {
-      "has_red_wool": "2025-05-12 00:21:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_item": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/bronze_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-05-12 00:33:17 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:recipes/misc/comparator_upgrade": {
-    "criteria": {
-      "has_comparator": "2025-05-11 23:27:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/bronze_ingot_from_block": {
-    "criteria": {
-      "has_item": "2025-05-12 00:33:24 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/tps_meter": {
-    "criteria": {
-      "has_comparator": "2025-05-11 23:27:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_red_torch": {
-    "criteria": {
-      "has_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/wooden_watering_can": {
-    "criteria": {
-      "has_item": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/iron_watering_can": {
-    "criteria": {
-      "has_item": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/paintbrush": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-05-12 00:53:34 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-05-11 23:21:06 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_helmet": {
-    "criteria": {
-      "has_armor": "2025-05-11 23:28:52 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_input": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-05-11 23:13:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-05-12 00:21:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/bronze_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_red": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_red": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_chest": {
-    "criteria": {
-      "has_chest": "2025-05-11 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_bacon": {
-    "criteria": {
-      "has_knife": "2025-05-12 00:30:10 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
-    "criteria": {
-      "has_redstone_block": "2025-05-12 00:36:57 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/bronze_block_1x": {
-    "criteria": {
-      "has_bronze_block": "2025-05-12 00:33:24 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
-    "criteria": {
-      "has_rib_bone": "2025-05-11 23:16:32 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_red": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_red2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
-    "criteria": {
-      "has_zombie_heart": "2025-05-11 23:16:34 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
-    "criteria": {
-      "has_datura": "2025-05-11 23:58:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_output": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/bronze_ore_hammer": {
-    "criteria": {
-      "has_bronze_block": "2025-05-12 00:33:24 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-05-11 23:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-05-12 00:21:03 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-05-12 00:00:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest": {
-    "criteria": {
-      "has_chest": "2025-05-11 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_chestplate": {
-    "criteria": {
-      "has_armor": "2025-05-11 23:14:43 +0000"
-    },
-    "done": true
-  },
-  "croptopia:knife": {
-    "criteria": {
-      "knife": "2025-05-12 00:30:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-11 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-05-12 00:36:57 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
-    "criteria": {
-      "has_controller": "2025-05-11 23:49:48 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_leggings": {
-    "criteria": {
-      "has_armor": "2025-05-11 23:15:27 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/tools/diamond_watering_can": {
-    "criteria": {
-      "has_item": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_iron_chest": {
-    "criteria": {
-      "has_chest": "2025-05-11 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/bronze_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
+      "traded": "2025-05-11 23:03:26 +0000"
     },
     "done": true
   },
@@ -11068,51 +10558,21 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_red2": {
+  "apotheosis:affix/mythic_gem": {
     "criteria": {
-      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+      "gem": "2025-05-11 23:13:05 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+  "apotheosis:affix/gem": {
     "criteria": {
-      "forge:dyes/red": "2025-05-12 00:20:59 +0000"
+      "gem": "2025-05-11 23:13:05 +0000"
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/bone": {
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_chestplate": {
     "criteria": {
-      "has_rib_bone": "2025-05-11 23:16:32 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/controller": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/mortar_and_pestle": {
-    "criteria": {
-      "has_bowl": "2025-05-12 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_red": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_red": {
-    "criteria": {
-      "has_red_dye": "2025-05-12 00:20:59 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
-    "criteria": {
-      "has_flower": "2025-05-11 23:58:44 +0000"
+      "has_armor": "2025-05-11 23:14:43 +0000"
     },
     "done": true
   },
@@ -11122,15 +10582,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_leggings": {
     "criteria": {
-      "has_red_dye": "2025-05-12 00:20:59 +0000"
+      "has_armor": "2025-05-11 23:15:27 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+  "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
     "criteria": {
-      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+      "has_rib_bone": "2025-05-11 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2025-05-11 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-11 23:16:34 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-11 23:16:34 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-11 23:16:34 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-11 23:16:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-05-11 23:21:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-05-11 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/comparator_upgrade": {
+    "criteria": {
+      "has_comparator": "2025-05-11 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_comparator": "2025-05-11 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_helmet": {
+    "criteria": {
+      "has_armor": "2025-05-11 23:28:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-05-11 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 23:46:34 +0000"
     },
     "done": true
   },
@@ -11146,21 +10714,111 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
     "criteria": {
-      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+      "has_controller": "2025-05-11 23:49:48 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
     "criteria": {
-      "traded": "2025-05-11 23:03:26 +0000"
+      "has_dandelion": "2025-05-11 23:58:44 +0000"
     },
     "done": true
   },
-  "exdeorum:recipes/tools/stone_watering_can": {
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
     "criteria": {
-      "has_item": "2025-05-12 00:04:13 +0000"
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 23:58:44 +0000"
     },
     "done": true
   },
@@ -11170,9 +10828,21 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/bronze_gear": {
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
+      "has_datura": "2025-05-11 23:58:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-05-11 23:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-11 23:59:58 +0000"
     },
     "done": true
   },
@@ -11182,9 +10852,508 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-12 00:00:28 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/poppy_to_dandelion": {
+    "criteria": {
+      "has_poppy": "2025-05-12 00:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-12 00:00:31 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/golden_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/wooden_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/iron_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/diamond_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/stone_watering_can": {
+    "criteria": {
+      "has_item": "2025-05-12 00:04:13 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/compressed_iron_hammer": {
     "criteria": {
       "has_item": "2025-05-12 00:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/red_force_furnace_from_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_red_torch": {
+    "criteria": {
+      "has_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_red": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-12 00:21:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_knife": "2025-05-12 00:30:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-12 00:30:10 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/bronze_dust_from_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-05-12 00:33:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-12 00:33:24 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/bronze_block_1x": {
+    "criteria": {
+      "has_bronze_block": "2025-05-12 00:33:24 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_ore_hammer": {
+    "criteria": {
+      "has_bronze_block": "2025-05-12 00:33:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-05-12 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
+    "criteria": {
+      "has_redstone_block": "2025-05-12 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-12 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-12 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-12 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/glue_ball": {
+    "criteria": {
+      "criterion0": "2025-05-12 22:25:47 +0000",
+      "criterion1": "2025-05-12 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-05-12 22:33:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/lead_tagged": {
+    "criteria": {
+      "has_slime": "2025-05-12 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-12 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-05-12 22:34:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-05-12 22:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-12 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-05-12 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-05-12 22:24:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-05-12 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-12 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-05-12 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-05-12 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-05-12 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-12 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-12 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-12 22:23:58 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/sticky_piston_tagged": {
+    "criteria": {
+      "has_slime": "2025-05-12 22:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-12 22:25:47 +0000"
     },
     "done": true
   },
