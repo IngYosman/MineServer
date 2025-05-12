@@ -3357,3 +3357,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 23:19:34.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> salen varias xd
 [12May2025 23:22:34.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> vaya probando jajaja
 [12May2025 23:22:44.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> ya xd
+[12May2025 23:36:48.199] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c0d3a24[id=<null>,name=DStevenTy,properties={},legacy=false] (/127.50.134.206:48021) lost connection: Disconnected
+[12May2025 23:39:01.936] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
+[12May2025 23:39:04.699] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ec4ba34[id=bfb4f907-ab8b-41ee-ba9a-df29f4623b58,name=DStevenTy,properties={textures=[com.mojang.authlib.properties.Property@4916b198]},legacy=false] (/127.50.134.206:55381) lost connection: Disconnected
+[12May2025 23:43:45.080] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
+[12May2025 23:43:57.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DStevenTy[/127.50.134.206:35377] logged in with entity id 6588 at (14.822931490895039, 68.0, 4104.030449275095)
+[12May2025 23:43:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
+[12May2025 23:43:57.355] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
+[12May2025 23:43:57.357] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5

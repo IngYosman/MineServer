@@ -13519,5 +13519,131 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/fluorite_dust_from_gem": {
+    "criteria": {
+      "has_fluorite_gem": "2025-05-12 23:35:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-05-12 23:35:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2025-05-12 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sulfur_dust_from_gem": {
+    "criteria": {
+      "has_sulfur_gem": "2025-05-12 23:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-12 23:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-12 23:35:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-12 23:38:25 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-05-12 23:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-12 23:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-12 23:38:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2025-05-12 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_salt": "2025-05-12 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_salt": "2025-05-12 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/moss_block_1x": {
+    "criteria": {
+      "has_moss_block": "2025-05-12 23:38:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/cinnabar_dust_from_gem": {
+    "criteria": {
+      "has_cinnabar_gem": "2025-05-12 23:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-12 23:35:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2025-05-12 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2025-05-12 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-12 23:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-12 23:35:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/apatite_dust_from_gem": {
+    "criteria": {
+      "has_apatite_gem": "2025-05-12 23:35:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
