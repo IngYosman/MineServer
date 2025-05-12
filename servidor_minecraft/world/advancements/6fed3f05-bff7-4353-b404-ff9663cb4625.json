@@ -13069,6 +13069,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/overworld_nest": {
+    "criteria": {
+      "get_item": "2025-05-12 01:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-12 01:43:49 +0000"
