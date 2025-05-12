@@ -13081,51 +13081,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-05-12 03:06:36 +0000"
-    },
-    "done": true
-  },
-  "pylons:recipes/misc/infusion_pylon": {
-    "criteria": {
-      "has_emerald_block": "2025-05-12 03:06:36 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/aurum_wood": {
-    "criteria": {
-      "has_aurum_log": "2025-05-12 03:22:02 +0000"
-    },
-    "done": true
-  },
   "projecte:recipes/decorations/relay_mk1": {
     "criteria": {
       "has_diamond": "2025-05-12 03:06:20 +0000"
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/emerald_block_1x": {
-    "criteria": {
-      "has_emerald_block": "2025-05-12 03:06:36 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/aurum_planks": {
-    "criteria": {
-      "has_log": "2025-05-12 03:22:02 +0000"
-    },
-    "done": true
-  },
   "pylons:recipes/misc/expulsion_pylon": {
     "criteria": {
       "has_diamond_block": "2025-05-12 03:06:20 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/copper_dust_from_raw_block": {
-    "criteria": {
-      "has_raw_copper_block": "2025-05-12 03:07:08 +0000"
     },
     "done": true
   },
@@ -13153,9 +13117,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-12 03:06:36 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/infusion_pylon": {
+    "criteria": {
+      "has_emerald_block": "2025-05-12 03:06:36 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/emerald_block_1x": {
+    "criteria": {
+      "has_emerald_block": "2025-05-12 03:06:36 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_copper_block": "2025-05-12 03:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-05-12 03:07:08 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/aurum_wood": {
+    "criteria": {
+      "has_aurum_log": "2025-05-12 03:22:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/aurum_planks": {
+    "criteria": {
+      "has_log": "2025-05-12 03:22:02 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/flux_hammer": {
+    "criteria": {
+      "has_diamond_hammer": "2025-05-12 03:57:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-05-12 03:55:54 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/compressed_diamond_hammer": {
+    "criteria": {
+      "has_item": "2025-05-12 03:57:16 +0000"
     },
     "done": true
   },
