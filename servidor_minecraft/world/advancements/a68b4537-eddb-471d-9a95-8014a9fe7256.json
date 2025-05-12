@@ -10642,6 +10642,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-05-12 00:36:57 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 23:58:44 +0000"
@@ -10894,6 +10900,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
+    "criteria": {
+      "has_redstone_block": "2025-05-12 00:36:57 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/bronze_block_1x": {
     "criteria": {
       "has_bronze_block": "2025-05-12 00:33:24 +0000"
@@ -11005,6 +11017,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-11 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-12 00:36:57 +0000"
     },
     "done": true
   },

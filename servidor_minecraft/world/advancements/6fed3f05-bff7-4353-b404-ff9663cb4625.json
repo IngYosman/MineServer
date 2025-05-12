@@ -4970,6 +4970,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-10 01:22:47 +0000",
+      "baked_potato": "2025-05-12 00:38:55 +0000",
       "apple": "2025-05-11 20:14:32 +0000"
     },
     "done": false
@@ -12810,6 +12811,30 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/osmium_block_1x": {
+    "criteria": {
+      "has_osmium_block": "2025-05-12 00:37:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_red_wool": "2025-05-12 00:35:24 +0000"
@@ -12828,15 +12853,51 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-05-12 00:35:24 +0000"
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-12 00:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-05-12 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-12 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-05-12 00:43:25 +0000"
     },
     "done": true
   },
