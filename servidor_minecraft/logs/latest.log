@@ -3344,3 +3344,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 23:03:26.899] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [12May2025 23:04:26.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
 [12May2025 23:04:26.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[12May2025 23:15:39.339] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[12May2025 23:15:51.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:43041] logged in with entity id 726 at (-4091.215074185418, 67.0, 4.71986622280171)
+[12May2025 23:15:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[12May2025 23:15:51.378] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[12May2025 23:15:51.379] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[12May2025 23:16:23.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> fetch
+[12May2025 23:16:40.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> diga
+[12May2025 23:16:54.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> usted sabe como se confugra y que configurar para picar varios bloques?
+[12May2025 23:18:53.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> es con el boton que esta al lado del 1
+[12May2025 23:19:31.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> y que opcion toca dejar?
+[12May2025 23:19:34.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> salen varias xd
+[12May2025 23:22:34.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> vaya probando jajaja
+[12May2025 23:22:44.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> ya xd
