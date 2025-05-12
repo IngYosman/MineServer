@@ -1,16 +1,16 @@
-[15:45:34] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[15:45:34] [INIT] Loaded plugins:
-[15:45:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[15:45:34] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
-[15:45:34] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
-[15:45:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[15:45:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[15:45:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[15:45:34] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[15:45:34] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
-[15:45:34] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[15:45:34] [INFO] Loaded script startup_scripts:custom_additions.js in 0.083 s
-[15:45:34] [INFO] farmingForBlockheads.js#11: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
-[15:45:34] [INFO] Loaded script startup_scripts:farmingForBlockheads.js in 0.02 s
-[15:45:34] [INFO] Loaded script startup_scripts:AE2/Universal_Press.js in 0.001 s
-[15:45:34] [INFO] Loaded 3/3 KubeJS startup scripts in 0.504 s with 0 errors and 0 warnings
+[02:13:32] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[02:13:32] [INIT] Loaded plugins:
+[02:13:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[02:13:32] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
+[02:13:32] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[02:13:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[02:13:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[02:13:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[02:13:32] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[02:13:32] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
+[02:13:32] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[02:13:33] [INFO] Loaded script startup_scripts:custom_additions.js in 0.132 s
+[02:13:33] [INFO] farmingForBlockheads.js#11: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[02:13:33] [INFO] Loaded script startup_scripts:farmingForBlockheads.js in 0.039 s
+[02:13:33] [INFO] Loaded script startup_scripts:AE2/Universal_Press.js in 0.012 s
+[02:13:33] [INFO] Loaded 3/3 KubeJS startup scripts in 0.773 s with 0 errors and 0 warnings

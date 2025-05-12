@@ -1,115 +1,115 @@
-[15:45:52] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[15:45:52] [INIT] Loaded plugins:
-[15:45:52] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[15:45:52] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
-[15:45:52] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
-[15:45:52] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[15:45:52] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[15:45:52] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[15:45:52] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[15:45:52] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
-[15:45:52] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/_before.js in 0.005 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/dust.js in 0.007 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/wires.js in 0.004 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/storage_blocks.js in 0.005 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/ingots.js in 0.006 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/nuggets.js in 0.004 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/raw_materials.js in 0.003 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/plates.js in 0.006 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/rods.js in 0.004 s
-[15:45:54] [INFO] Loaded script server_scripts:postUnify/gears.js in 0.004 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/dank/recipes.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/oreberry/oreberry.js in 0.002 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/mob_grinding_utils/recipes.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/create/create.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/misc/recipes.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/projecte/projecte.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.003 s
-[15:45:54] [INFO] mods/mysticalagriculture/crops.js#1: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
-[15:45:54] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.009 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/atm/creative.js in 0.002 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.001 s
-[15:45:54] [INFO] mods/flux/dust.js#2: Loaded Java class 'net.minecraft.sounds.SoundEvents'
-[15:45:54] [INFO] mods/flux/dust.js#3: Loaded Java class 'net.minecraft.sounds.SoundSource'
-[15:45:54] [INFO] mods/flux/dust.js#4: Loaded Java class 'net.minecraft.core.particles.ParticleTypes'
-[15:45:54] [INFO] Loaded script server_scripts:mods/flux/dust.js in 0.009 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/cobblefordays/cobblegen.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/exdeorum/exdeorum.js in 0.003 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/exdeorum/sieveremovals.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/exdeorum/pebbles.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/thermal/rock_gen.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/thermal/recipes.js in 0.001 s
-[15:45:54] [INFO] mods/farmingforblockheads/market.js#60: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
-[15:45:54] [INFO] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.002 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/corail_tombstone/Nuke_Eggs.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/minecraft/recipes.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/AppliedE/AppliedE.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/xycraft/rock_gen_kivi.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:disable.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:tags.js in 0.003 s
-[15:45:54] [INFO] Loaded script server_scripts:summoning/summoning.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:modpack/atm_metals.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:modpack/atm_templates.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:modpack/atm_star_shards.js in 0.001 s
-[15:45:54] [INFO] Loaded script server_scripts:modpack/atm_star_creative.js in 0.003 s
-[15:45:54] [INFO] Loaded script server_scripts:modpack/patrick_star.js in 0.0 s
-[15:45:54] [INFO] Loaded script server_scripts:modpack/atm_shard.js in 0.0 s
-[15:45:54] [INFO] Loaded 44/44 KubeJS server scripts in 0.124 s with 0 errors and 0 warnings
-[15:45:54] [INFO] Scripts loaded
-[15:45:54] [INFO] Initializing recipe event...
-[15:45:57] [INFO] [minecraft:worldgen/biome] Found 217 tags, added 8 objects, removed 0 objects
-[15:45:57] [INFO] [minecraft:fluid] Found 83 tags, added 1 objects, removed 4 objects
-[15:45:57] [INFO] [minecraft:entity_type] Found 138 tags, added 58 objects, removed 0 objects
-[15:45:59] [INFO] [minecraft:item] Found 4073 tags, added 60 objects, removed 1 objects
-[15:45:59] [INFO] [minecraft:block] Found 1816 tags, added 300 objects, removed 0 objects
-[15:46:05] [INFO] Processing recipes...
-[15:46:05] [INFO] Found 40274 recipes in 443.0 ms
-[15:46:09] [INFO] Posted recipe events in 3.449 s
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/9x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_9x","count":1},"result":{"item":"allthecompressed:deepslate_block_9x"},"energy":2400000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/9x
+[02:13:51] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[02:13:51] [INIT] Loaded plugins:
+[02:13:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[02:13:51] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
+[02:13:51] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[02:13:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[02:13:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[02:13:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[02:13:51] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[02:13:51] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
+[02:13:51] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/_before.js in 0.006 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/dust.js in 0.008 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/wires.js in 0.005 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/storage_blocks.js in 0.005 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/ingots.js in 0.007 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/nuggets.js in 0.003 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/raw_materials.js in 0.003 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/plates.js in 0.006 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/rods.js in 0.003 s
+[02:13:53] [INFO] Loaded script server_scripts:postUnify/gears.js in 0.004 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/dank/recipes.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/oreberry/oreberry.js in 0.004 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/mob_grinding_utils/recipes.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/create/create.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/misc/recipes.js in 0.002 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/projecte/projecte.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.004 s
+[02:13:53] [INFO] mods/mysticalagriculture/crops.js#1: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
+[02:13:53] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.008 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/atm/creative.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.0 s
+[02:13:53] [INFO] mods/flux/dust.js#2: Loaded Java class 'net.minecraft.sounds.SoundEvents'
+[02:13:53] [INFO] mods/flux/dust.js#3: Loaded Java class 'net.minecraft.sounds.SoundSource'
+[02:13:53] [INFO] mods/flux/dust.js#4: Loaded Java class 'net.minecraft.core.particles.ParticleTypes'
+[02:13:53] [INFO] Loaded script server_scripts:mods/flux/dust.js in 0.009 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/cobblefordays/cobblegen.js in 0.003 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/exdeorum/exdeorum.js in 0.008 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/exdeorum/sieveremovals.js in 0.002 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/exdeorum/pebbles.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/thermal/rock_gen.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/thermal/recipes.js in 0.003 s
+[02:13:53] [INFO] mods/farmingforblockheads/market.js#60: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[02:13:53] [INFO] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.002 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/corail_tombstone/Nuke_Eggs.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/minecraft/recipes.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/AppliedE/AppliedE.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/xycraft/rock_gen_kivi.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:disable.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:tags.js in 0.003 s
+[02:13:53] [INFO] Loaded script server_scripts:summoning/summoning.js in 0.002 s
+[02:13:53] [INFO] Loaded script server_scripts:modpack/atm_metals.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:modpack/atm_templates.js in 0.0 s
+[02:13:53] [INFO] Loaded script server_scripts:modpack/atm_star_shards.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:modpack/atm_star_creative.js in 0.004 s
+[02:13:53] [INFO] Loaded script server_scripts:modpack/patrick_star.js in 0.001 s
+[02:13:53] [INFO] Loaded script server_scripts:modpack/atm_shard.js in 0.0 s
+[02:13:53] [INFO] Loaded 44/44 KubeJS server scripts in 0.147 s with 0 errors and 0 warnings
+[02:13:53] [INFO] Scripts loaded
+[02:13:53] [INFO] Initializing recipe event...
+[02:13:56] [INFO] [minecraft:entity_type] Found 138 tags, added 58 objects, removed 0 objects
+[02:13:56] [INFO] [minecraft:fluid] Found 83 tags, added 1 objects, removed 4 objects
+[02:13:57] [INFO] [minecraft:worldgen/biome] Found 217 tags, added 8 objects, removed 0 objects
+[02:13:58] [INFO] [minecraft:block] Found 1816 tags, added 300 objects, removed 0 objects
+[02:13:58] [INFO] [minecraft:item] Found 4073 tags, added 60 objects, removed 1 objects
+[02:14:06] [INFO] Processing recipes...
+[02:14:06] [INFO] Found 40274 recipes in 512.7 ms
+[02:14:09] [INFO] Posted recipe events in 2.447 s
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/9x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_9x","count":1},"result":{"item":"allthecompressed:deepslate_block_9x"},"energy":2400000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/9x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/1x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_1x","count":1},"result":{"item":"allthecompressed:deepslate_block_1x"},"energy":240000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/1x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/1x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_1x","count":1},"result":{"item":"allthecompressed:deepslate_block_1x"},"energy":240000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/1x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/2x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_2x","count":1},"result":{"item":"allthecompressed:deepslate_block_2x"},"energy":480000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/2x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/2x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_2x","count":1},"result":{"item":"allthecompressed:deepslate_block_2x"},"energy":480000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/2x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/3x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_3x","count":1},"result":{"item":"allthecompressed:deepslate_block_3x"},"energy":720000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/3x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/3x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_3x","count":1},"result":{"item":"allthecompressed:deepslate_block_3x"},"energy":720000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/3x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/5x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_5x","count":1},"result":{"item":"allthecompressed:deepslate_block_5x"},"energy":1200000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/5x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/5x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_5x","count":1},"result":{"item":"allthecompressed:deepslate_block_5x"},"energy":1200000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/5x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/4x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_4x","count":1},"result":{"item":"allthecompressed:deepslate_block_4x"},"energy":960000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/4x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/4x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_4x","count":1},"result":{"item":"allthecompressed:deepslate_block_4x"},"energy":960000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/4x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/6x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_6x","count":1},"result":{"item":"allthecompressed:deepslate_block_6x"},"energy":1440000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/6x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/6x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_6x","count":1},"result":{"item":"allthecompressed:deepslate_block_6x"},"energy":1440000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/6x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/7x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_7x","count":1},"result":{"item":"allthecompressed:deepslate_block_7x"},"energy":1680000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/7x
+[02:14:09] [WARN] Error parsing recipe alchemistry:dissolver/ore_chunks/uranium_ore_chunk[alchemistry:dissolver]: {"type":"alchemistry:dissolver","group":"alchemistry:dissolver","input":{"ingredient":{"item":"exdeorum:uranium_ore_chunk"},"count":1},"output":{"rolls":1,"weighted":false,"groups":[{"probability":100.0,"results":[{"item":"chemlib:uranium\r\n","count":8}]}]}}: Non [a-z0-9/._-] character in path of location: chemlib:uranium\r\n
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/7x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_7x","count":1},"result":{"item":"allthecompressed:deepslate_block_7x"},"energy":1680000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/7x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/8x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_8x","count":1},"result":{"item":"allthecompressed:deepslate_block_8x"},"energy":2160000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/8x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/stone/deepslate/8x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:cobbled_deepslate_block_8x","count":1},"result":{"item":"allthecompressed:deepslate_block_8x"},"energy":2160000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/stone/deepslate/8x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/1x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_1x","count":1},"result":{"item":"allthecompressed:terracotta_block_1x"},"energy":240000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/1x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/1x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_1x","count":1},"result":{"item":"allthecompressed:terracotta_block_1x"},"energy":240000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/1x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/2x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_2x","count":1},"result":{"item":"allthecompressed:terracotta_block_2x"},"energy":480000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/2x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/2x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_2x","count":1},"result":{"item":"allthecompressed:terracotta_block_2x"},"energy":480000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/2x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe alchemistry:dissolver/ore_chunks/uranium_ore_chunk[alchemistry:dissolver]: {"type":"alchemistry:dissolver","group":"alchemistry:dissolver","input":{"ingredient":{"item":"exdeorum:uranium_ore_chunk"},"count":1},"output":{"rolls":1,"weighted":false,"groups":[{"probability":100.0,"results":[{"item":"chemlib:uranium\r\n","count":8}]}]}}: Non [a-z0-9/._-] character in path of location: chemlib:uranium\r\n
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/5x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_5x","count":1},"result":{"item":"allthecompressed:terracotta_block_5x"},"energy":1200000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/5x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/5x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_5x","count":1},"result":{"item":"allthecompressed:terracotta_block_5x"},"energy":1200000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/5x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe occultism:miner/ores/apatite[occultism:miner]: {"type":"occultism:miner","ingredient":{"tag":"occultism:miners/ores"},"result":{"item":"gtceu:apatite_ore"},"weight":400,"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ores/apatite"}}]}: Unknown item 'gtceu:apatite_ore'
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/6x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_6x","count":1},"result":{"item":"allthecompressed:terracotta_block_6x"},"energy":1440000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/6x
+[02:14:09] [WARN] Error parsing recipe occultism:miner/ores/apatite[occultism:miner]: {"type":"occultism:miner","ingredient":{"tag":"occultism:miners/ores"},"result":{"item":"gtceu:apatite_ore"},"weight":400,"conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ores/apatite"}}]}: Unknown item 'gtceu:apatite_ore'
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/6x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_6x","count":1},"result":{"item":"allthecompressed:terracotta_block_6x"},"energy":1440000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/6x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/3x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_3x","count":1},"result":{"item":"allthecompressed:terracotta_block_3x"},"energy":720000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/3x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/3x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_3x","count":1},"result":{"item":"allthecompressed:terracotta_block_3x"},"energy":720000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/3x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/4x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_4x","count":1},"result":{"item":"allthecompressed:terracotta_block_4x"},"energy":960000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/4x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/4x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_4x","count":1},"result":{"item":"allthecompressed:terracotta_block_4x"},"energy":960000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/4x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/9x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_9x","count":1},"result":{"item":"allthecompressed:terracotta_block_9x"},"energy":2400000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/9x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/9x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_9x","count":1},"result":{"item":"allthecompressed:terracotta_block_9x"},"energy":2400000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/9x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/7x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_7x","count":1},"result":{"item":"allthecompressed:terracotta_block_7x"},"energy":1680000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/7x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/7x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_7x","count":1},"result":{"item":"allthecompressed:terracotta_block_7x"},"energy":1680000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/7x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/8x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_8x","count":1},"result":{"item":"allthecompressed:terracotta_block_8x"},"energy":2160000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/8x
+[02:14:09] [WARN] Error parsing recipe thermal:furnace/allthecompressed/terracotta/8x[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"item":"allthecompressed:clay_block_8x","count":1},"result":{"item":"allthecompressed:terracotta_block_8x"},"energy":2160000,"conditions":[{"type":"forge:and","values":[{"type":"forge:not","value":{"type":"forge:mod_loaded","modid":"compressium"}},{"type":"forge:mod_loaded","modid":"thermal"}]}]}: Invalid Thermal Series recipe: thermal:furnace/allthecompressed/terracotta/8x
 Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[15:46:10] [WARN] Error parsing recipe forbidden_arcanus:edelwood_chest_boat[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"forbidden_arcanus:edelwood_boat"},{"fabric_value":{"tag":"c:chests"},"forge_value":{"tag":"forge:chests/wooden"}}],"result":{"item":"forbidden_arcanus:edelwood_chest_boat"}}: An ingredient entry needs either a tag or an item
-[15:46:10] [WARN] Error parsing recipe forbidden_arcanus:aurum_chest_boat[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"forbidden_arcanus:aurum_boat"},{"fabric_value":{"tag":"c:chests"},"forge_value":{"tag":"forge:chests/wooden"}}],"result":{"item":"forbidden_arcanus:aurum_chest_boat"}}: An ingredient entry needs either a tag or an item
-[15:46:10] [WARN] Error parsing recipe kubejs:mysticalagriculture/cyanite_seeds/infusion[mysticalagriculture:infusion]: {"type":"mysticalagriculture:infusion","input":{"item":"mysticalagriculture:prosperity_seed_base"},"ingredients":[{"item":"mysticalagriculture:supremium_essence"},{"item":"bigreactors:cyanite_block"},{"item":"mysticalagriculture:supremium_essence"},{"item":"bigreactors:cyanite_block"},{"item":"mysticalagriculture:supremium_essence"},{"item":"bigreactors:cyanite_block"},{"item":"mysticalagriculture:supremium_essence"},{"item":"bigreactors:cyanite_block"}],"result":{"item":"mysticalagriculture:cyanite_seeds"}}: Unknown item 'bigreactors:cyanite_block'
-[15:46:10] [WARN] Error parsing recipe kubejs:mysticalagriculture/graphite_seeds/infusion[mysticalagriculture:infusion]: {"type":"mysticalagriculture:infusion","input":{"item":"mysticalagriculture:prosperity_seed_base"},"ingredients":[{"item":"mysticalagriculture:tertium_essence"},{"item":"bigreactors:graphite_block"},{"item":"mysticalagriculture:tertium_essence"},{"item":"bigreactors:graphite_block"},{"item":"mysticalagriculture:tertium_essence"},{"item":"bigreactors:graphite_block"},{"item":"mysticalagriculture:tertium_essence"},{"item":"bigreactors:graphite_block"}],"result":{"item":"mysticalagriculture:graphite_seeds"}}: Unknown item 'bigreactors:graphite_block'
-[15:46:10] [INFO] Added 843 recipes, removed 204 recipes, modified 13 recipes, with 24 failed recipes in 1.021 s
-[15:46:16] [INFO] Server resource reload complete!
+[02:14:09] [WARN] Error parsing recipe forbidden_arcanus:aurum_chest_boat[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"forbidden_arcanus:aurum_boat"},{"fabric_value":{"tag":"c:chests"},"forge_value":{"tag":"forge:chests/wooden"}}],"result":{"item":"forbidden_arcanus:aurum_chest_boat"}}: An ingredient entry needs either a tag or an item
+[02:14:09] [WARN] Error parsing recipe forbidden_arcanus:edelwood_chest_boat[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"forbidden_arcanus:edelwood_boat"},{"fabric_value":{"tag":"c:chests"},"forge_value":{"tag":"forge:chests/wooden"}}],"result":{"item":"forbidden_arcanus:edelwood_chest_boat"}}: An ingredient entry needs either a tag or an item
+[02:14:10] [WARN] Error parsing recipe kubejs:mysticalagriculture/cyanite_seeds/infusion[mysticalagriculture:infusion]: {"type":"mysticalagriculture:infusion","input":{"item":"mysticalagriculture:prosperity_seed_base"},"ingredients":[{"item":"mysticalagriculture:supremium_essence"},{"item":"bigreactors:cyanite_block"},{"item":"mysticalagriculture:supremium_essence"},{"item":"bigreactors:cyanite_block"},{"item":"mysticalagriculture:supremium_essence"},{"item":"bigreactors:cyanite_block"},{"item":"mysticalagriculture:supremium_essence"},{"item":"bigreactors:cyanite_block"}],"result":{"item":"mysticalagriculture:cyanite_seeds"}}: Unknown item 'bigreactors:cyanite_block'
+[02:14:10] [WARN] Error parsing recipe kubejs:mysticalagriculture/graphite_seeds/infusion[mysticalagriculture:infusion]: {"type":"mysticalagriculture:infusion","input":{"item":"mysticalagriculture:prosperity_seed_base"},"ingredients":[{"item":"mysticalagriculture:tertium_essence"},{"item":"bigreactors:graphite_block"},{"item":"mysticalagriculture:tertium_essence"},{"item":"bigreactors:graphite_block"},{"item":"mysticalagriculture:tertium_essence"},{"item":"bigreactors:graphite_block"},{"item":"mysticalagriculture:tertium_essence"},{"item":"bigreactors:graphite_block"}],"result":{"item":"mysticalagriculture:graphite_seeds"}}: Unknown item 'bigreactors:graphite_block'
+[02:14:10] [INFO] Added 843 recipes, removed 204 recipes, modified 13 recipes, with 24 failed recipes in 1.071 s
+[02:14:17] [INFO] Server resource reload complete!
