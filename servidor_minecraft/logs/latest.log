@@ -3336,3 +3336,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 03:55:54.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Local Librarian]
 [12May2025 04:07:40.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
 [12May2025 04:07:40.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[12May2025 04:10:58.053] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[12May2025 04:11:09.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:46907] logged in with entity id 1522 at (-4086.6114708329533, 69.0, -20.30000001192093)
+[12May2025 04:11:09.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[12May2025 04:11:10.141] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[12May2025 04:11:10.142] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5

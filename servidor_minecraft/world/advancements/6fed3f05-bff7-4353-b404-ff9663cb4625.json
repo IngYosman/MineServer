@@ -13159,15 +13159,15 @@
     },
     "done": true
   },
-  "exmachinis:recipes/misc/flux_hammer": {
-    "criteria": {
-      "has_diamond_hammer": "2025-05-12 03:57:16 +0000"
-    },
-    "done": true
-  },
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-05-12 03:55:54 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/flux_hammer": {
+    "criteria": {
+      "has_diamond_hammer": "2025-05-12 03:57:16 +0000"
     },
     "done": true
   },
