@@ -60,3 +60,4 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [13May2025 00:47:31.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> xd
 [13May2025 00:53:53.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
 [13May2025 00:54:17.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
+[13May2025 01:13:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [The Andesite Age]

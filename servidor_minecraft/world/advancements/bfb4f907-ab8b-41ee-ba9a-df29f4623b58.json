@@ -9876,9 +9876,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/redstone_proxy": {
     "criteria": {
       "frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -9912,9 +9924,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/redstoneproxy_update": {
     "criteria": {
       "torch": "2025-05-13 01:00:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -9927,6 +9951,12 @@
   "rftoolsbuilder:recipes/misc/space_chamber_controller": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -9960,6 +9990,18 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-13 01:00:12 +0000"
@@ -9975,6 +10017,12 @@
   "xnet:recipes/xnet/controller": {
     "criteria": {
       "frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -9996,9 +10044,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_dyes/black": "2025-05-13 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10053,6 +10113,18 @@
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
       "nugget": "2025-05-13 00:58:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10122,6 +10194,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/bright_white": {
     "criteria": {
       "has_glowstone_dust": "2025-05-13 00:59:32 +0000"
@@ -10134,15 +10212,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-13 00:59:34 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-13 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10158,6 +10272,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-13 00:58:19 +0000"
@@ -10167,6 +10287,12 @@
   "rftoolsbuilder:recipes/misc/shield_block1": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10182,9 +10308,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/vehicle_builder": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10230,6 +10368,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-05-13 00:58:01 +0000"
@@ -10266,6 +10410,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-05-13 00:58:01 +0000"
@@ -10296,9 +10446,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone": {
     "criteria": {
       "has_glowstone": "2025-05-13 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10386,6 +10560,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/blue_force_furnace_from_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-13 00:58:01 +0000"
@@ -10401,6 +10581,12 @@
   "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-13 01:00:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10446,9 +10632,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/space_chamber": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10470,9 +10674,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-13 01:00:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10500,9 +10716,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "rftoolspower:recipes/rftoolspower/coalgenerator": {
     "criteria": {
       "frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
@@ -10512,15 +10746,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/environmental_controller": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/azulejo_0": {
     "criteria": {
       "has_item": "2025-05-13 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2025-05-13 01:05:59 +0000"
     },
     "done": true
   },
