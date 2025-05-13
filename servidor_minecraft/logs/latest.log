@@ -3373,3 +3373,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 23:54:45.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
 [12May2025 23:54:45.570] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
 [12May2025 23:54:45.572] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[12May2025 23:59:26.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
+[12May2025 23:59:46.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
