@@ -13861,6 +13861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-13 01:59:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/blood_pendant": {
     "criteria": {
       "has_item": "2025-05-13 01:46:33 +0000"
@@ -13885,6 +13891,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-05-13 01:56:18 +0000"
+    },
+    "done": true
+  },
   "productivetrees:recipes/misc/sawdust_to_paper": {
     "criteria": {
       "has_sawdust": "2025-05-13 01:22:06 +0000"
@@ -13894,6 +13906,12 @@
   "forcecraft:recipes/transmutation/transmutation/infuser_from_enchanting_table": {
     "criteria": {
       "has_enchanting_table": "2025-05-13 01:31:15 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_2x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-05-13 01:56:18 +0000"
     },
     "done": true
   },
@@ -13993,6 +14011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-13 01:59:24 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
     "criteria": {
       "has_tool": "2025-05-13 01:27:36 +0000"
@@ -14023,6 +14047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-13 01:59:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-05-13 01:02:27 +0000"
@@ -14044,6 +14074,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
+    "criteria": {
+      "has_item": "2025-05-13 01:58:20 +0000"
     },
     "done": true
   },
@@ -14071,6 +14107,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-05-13 01:55:52 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/misc/alfsteel_pylon": {
     "criteria": {
       "criterion2": "2025-05-13 01:46:33 +0000"
@@ -14086,6 +14128,12 @@
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-05-13 01:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-13 01:59:24 +0000"
     },
     "done": true
   },
@@ -14131,6 +14179,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/crushed_blackstone_from_compressed_crushed_blackstone": {
+    "criteria": {
+      "has_item": "2025-05-13 01:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-13 01:02:27 +0000"
@@ -14146,6 +14200,12 @@
   "occultism:recipes/crushing/crushing/obsidian_dust": {
     "criteria": {
       "has_obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-05-13 01:59:24 +0000"
     },
     "done": true
   },

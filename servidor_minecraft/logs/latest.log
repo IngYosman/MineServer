@@ -68,3 +68,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [13May2025 01:37:13.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Ice Bucket Challenge]
 [13May2025 01:44:14.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Disconnected
 [13May2025 01:44:14.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
+[13May2025 01:59:24.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Hidden in the Depths]
+[13May2025 02:03:02.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy lost connection: Disconnected
+[13May2025 02:03:02.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy left the game

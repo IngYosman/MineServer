@@ -421,6 +421,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-09 00:14:09 +0000",
+      "baked_potato": "2025-05-13 01:59:59 +0000",
       "melon_slice": "2025-05-10 03:10:43 +0000",
       "golden_carrot": "2025-05-11 21:20:25 +0000"
     },
@@ -10869,6 +10870,12 @@
   "croptopia:recipes/butter": {
     "criteria": {
       "has_salt": "2025-05-13 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-05-13 01:56:34 +0000"
     },
     "done": true
   },
