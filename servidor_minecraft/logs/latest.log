@@ -3373,3 +3373,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [13May2025 23:16:06.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
 [13May2025 23:16:06.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
 [13May2025 23:16:07.011] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13May2025 23:48:44.204] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[13May2025 23:48:56.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:40449] logged in with entity id 5860 at (-4099.90875394217, 67.0, 4111.051666857779)
+[13May2025 23:48:56.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[13May2025 23:48:56.317] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[13May2025 23:48:56.318] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[13May2025 23:50:56.077] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: XFetch/granja_de_mobs_create.nbt
