@@ -13861,39 +13861,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "darkutils:adventure/pigpen": {
     "criteria": {
-      "has_ancient_debris": "2025-05-13 01:59:24 +0000"
+      "get_tome": "2025-05-13 00:38:41 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/gold_to_netherite_tier_upgrade": {
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
     "criteria": {
-      "has_gold_to_diamond_tier_upgrade": "2025-05-13 02:10:57 +0000"
+      "has_soul_sand": "2025-05-13 01:02:01 +0000"
     },
     "done": true
   },
-  "computercraft:recipes/redstone/computer_advanced": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_components": "2025-05-13 02:19:20 +0000"
+      "has_soul_sand": "2025-05-13 01:02:01 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+  "create:recipes/misc/smelting/scoria": {
     "criteria": {
-      "has_diamond_chest": "2025-05-13 02:10:54 +0000"
+      "has_item": "2025-05-13 01:02:01 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/blood_pendant": {
+  "utilitarian:recipes/misc/snad/soul_snad": {
     "criteria": {
-      "has_item": "2025-05-13 01:46:33 +0000"
+      "has_soul_sand": "2025-05-13 01:02:01 +0000"
     },
     "done": true
   },
-  "botania:recipes/redstone/red_string_comparator": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_base_block": "2025-05-13 01:03:29 +0000"
+      "has_soul_sand": "2025-05-13 01:02:01 +0000"
     },
     "done": true
   },
@@ -13909,66 +13909,6 @@
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
-    "criteria": {
-      "has_soul_sand_1x": "2025-05-13 01:56:18 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/mead": {
-    "criteria": {
-      "has_honey": "2025-05-13 02:09:27 +0000"
-    },
-    "done": true
-  },
-  "productivetrees:recipes/misc/sawdust_to_paper": {
-    "criteria": {
-      "has_sawdust": "2025-05-13 01:22:06 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/infuser_from_enchanting_table": {
-    "criteria": {
-      "has_enchanting_table": "2025-05-13 01:31:15 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/soul_sand_2x": {
-    "criteria": {
-      "has_soul_sand_1x": "2025-05-13 01:56:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/incense_stick": {
-    "criteria": {
-      "has_item": "2025-05-13 01:46:33 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
-    "criteria": {
-      "has_soul_sand": "2025-05-13 01:02:01 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_netherwart_stew": {
-    "criteria": {
-      "has_nether_wart": "2025-05-13 01:46:34 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/obsidian_skull": {
-    "criteria": {
-      "has_obsidian": "2025-05-13 01:27:48 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_copper_chest": {
-    "criteria": {
-      "has_chest": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2025-05-13 01:02:27 +0000"
@@ -13978,60 +13918,6 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-13 01:02:27 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:recipes/misc/comparator_upgrade": {
-    "criteria": {
-      "has_comparator": "2025-05-13 01:03:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-05-13 02:10:01 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/tps_meter": {
-    "criteria": {
-      "has_comparator": "2025-05-13 01:03:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-13 02:05:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/paintbrush": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/glowing_water": {
-    "criteria": {
-      "has_nether_wart": "2025-05-13 01:46:34 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-05-13 02:10:54 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-05-13 01:31:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-13 01:02:01 +0000"
     },
     "done": true
   },
@@ -14053,81 +13939,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_input": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
-    "criteria": {
-      "has_obsidian": "2025-05-13 01:27:48 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {
       "has_nether_quartz": "2025-05-13 01:02:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-13 01:59:24 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
-    "criteria": {
-      "has_tool": "2025-05-13 01:27:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-05-13 01:02:01 +0000"
-    },
-    "done": true
-  },
-  "productivetrees:recipes/misc/sawdust_to_paper_water_bottle": {
-    "criteria": {
-      "has_sawdust": "2025-05-13 01:22:06 +0000"
-    },
-    "done": true
-  },
-  "darkutils:adventure/pigpen": {
-    "criteria": {
-      "get_tome": "2025-05-13 00:38:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-13 02:09:27 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_chest": {
-    "criteria": {
-      "has_chest": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-05-13 01:46:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-05-13 01:59:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-05-13 02:09:19 +0000"
     },
     "done": true
   },
@@ -14137,105 +13951,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-05-13 01:46:34 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-05-13 02:24:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
-    "criteria": {
-      "has_basic_to_iron_tier_upgrade": "2025-05-13 02:09:26 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/snad/soul_snad": {
-    "criteria": {
-      "has_soul_sand": "2025-05-13 01:02:01 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-05-13 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-05-13 02:10:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-05-13 01:27:48 +0000"
-    },
-    "done": true
-  },
-  "projecte:root": {
-    "criteria": {
-      "philstone_recipe": "2025-05-13 02:20:44 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
-    "criteria": {
-      "has_item": "2025-05-13 01:58:20 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-05-13 02:10:01 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_item": "2025-05-13 01:22:06 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_output": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:recipes/misc/kvasir_mead": {
-    "criteria": {
-      "criterion1": "2025-05-13 02:09:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-05-13 01:02:27 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-05-13 02:10:01 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest": {
-    "criteria": {
-      "has_chest": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_iron_to_gold_tier_upgrade": "2025-05-13 02:10:04 +0000"
     },
     "done": true
   },
@@ -14251,81 +13969,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-13 02:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-13 02:09:27 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
-    "criteria": {
-      "has_controller": "2025-05-13 01:55:52 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:recipes/misc/alfsteel_pylon": {
-    "criteria": {
-      "criterion2": "2025-05-13 01:46:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-13 01:02:01 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_iron_chest": {
-    "criteria": {
-      "has_chest": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2025-05-13 01:02:27 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_gold_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-05-13 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-05-13 01:59:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-13 01:02:27 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/controller": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-13 01:27:48 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_iron_chest_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-05-13 02:24:52 +0000"
     },
     "done": true
   },
@@ -14338,12 +13990,6 @@
   "botania:recipes/misc/quartz_dark": {
     "criteria": {
       "has_item": "2025-05-13 01:02:27 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
-    "criteria": {
-      "has_chest": "2025-05-13 02:08:17 +0000"
     },
     "done": true
   },
@@ -14365,33 +14011,45 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_io": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/crushed_blackstone_from_compressed_crushed_blackstone": {
-    "criteria": {
-      "has_item": "2025-05-13 01:58:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-13 01:02:27 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+  "botania:recipes/redstone/red_string_comparator": {
     "criteria": {
-      "has_copper_chest": "2025-05-13 02:24:52 +0000"
+      "has_base_block": "2025-05-13 01:03:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+  "exmachinis:recipes/misc/comparator_upgrade": {
     "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-05-13 02:05:33 +0000"
+      "has_comparator": "2025-05-13 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_comparator": "2025-05-13 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "productivetrees:recipes/misc/sawdust_to_paper": {
+    "criteria": {
+      "has_sawdust": "2025-05-13 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "productivetrees:recipes/misc/sawdust_to_paper_water_bottle": {
+    "criteria": {
+      "has_sawdust": "2025-05-13 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_item": "2025-05-13 01:22:06 +0000"
     },
     "done": true
   },
@@ -14401,15 +14059,357 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-05-13 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
+    "criteria": {
+      "has_obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/obsidian_dust": {
     "criteria": {
       "has_obsidian": "2025-05-13 01:27:48 +0000"
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/infuser_from_enchanting_table": {
+    "criteria": {
+      "has_enchanting_table": "2025-05-13 01:31:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-05-13 01:31:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-05-13 01:46:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-05-13 01:46:33 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/alfsteel_pylon": {
+    "criteria": {
+      "criterion2": "2025-05-13 01:46:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-05-13 01:46:34 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-05-13 01:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-13 01:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-13 01:46:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-05-13 01:55:52 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-05-13 01:56:18 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_2x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-05-13 01:56:18 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_crushed_blackstone": {
+    "criteria": {
+      "has_item": "2025-05-13 01:58:20 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/crushed_blackstone_from_compressed_crushed_blackstone": {
+    "criteria": {
+      "has_item": "2025-05-13 01:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-13 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-13 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-13 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-13 01:59:24 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-05-13 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-13 02:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-05-13 02:05:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-05-13 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-05-13 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-05-13 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-05-13 02:09:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/mead": {
+    "criteria": {
+      "has_honey": "2025-05-13 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-13 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/kvasir_mead": {
+    "criteria": {
+      "criterion1": "2025-05-13 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-13 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-13 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-05-13 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-05-13 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-05-13 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_iron_to_gold_tier_upgrade": "2025-05-13 02:10:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-13 02:10:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-13 02:10:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-13 02:10:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_gold_to_diamond_tier_upgrade": "2025-05-13 02:10:57 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-05-13 02:19:20 +0000"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2025-05-13 02:20:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-05-13 02:24:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-05-13 02:24:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-05-13 02:24:52 +0000"
     },
     "done": true
   },

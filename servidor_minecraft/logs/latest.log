@@ -3363,3 +3363,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 [13May2025 21:43:10.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Disconnected
 [13May2025 21:43:10.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
+[13May2025 22:53:05.351] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[13May2025 22:53:17.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:34665] logged in with entity id 536 at (-4109.281729390747, 68.0, 3.9958049589902327)
+[13May2025 22:53:17.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[13May2025 22:53:17.427] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[13May2025 22:53:17.429] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[13May2025 22:55:41.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [The Copper Age]
