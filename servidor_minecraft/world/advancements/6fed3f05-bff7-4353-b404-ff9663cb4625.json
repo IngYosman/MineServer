@@ -13579,6 +13579,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-13 00:16:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-05-13 00:07:44 +0000"
@@ -13600,6 +13606,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-12 23:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-13 00:16:16 +0000"
     },
     "done": true
   },
@@ -13636,6 +13648,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-12 23:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-13 00:16:16 +0000"
     },
     "done": true
   },
@@ -13723,15 +13741,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-13 00:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-05-12 23:35:33 +0000"
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/mutton_to_chicken": {
+    "criteria": {
+      "has_mutton": "2025-05-13 00:16:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/crema": {
     "criteria": {
       "has_salt": "2025-05-12 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-13 00:16:16 +0000"
     },
     "done": true
   },
@@ -13774,6 +13810,12 @@
   "sophisticatedstorage:recipes/misc/storage_link": {
     "criteria": {
       "has_repeater": "2025-05-12 23:47:07 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
+    "criteria": {
+      "has_netherrack": "2025-05-13 00:18:53 +0000"
     },
     "done": true
   },
