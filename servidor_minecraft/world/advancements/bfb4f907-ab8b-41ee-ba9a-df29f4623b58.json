@@ -10182,6 +10182,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-13 01:40:26 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
       "nugget": "2025-05-13 00:58:19 +0000"
@@ -10917,6 +10923,12 @@
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-13 01:40:26 +0000"
     },
     "done": true
   },
