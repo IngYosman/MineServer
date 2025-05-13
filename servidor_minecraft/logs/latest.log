@@ -3369,3 +3369,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [13May2025 22:53:17.427] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
 [13May2025 22:53:17.429] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [13May2025 22:55:41.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [The Copper Age]
+[13May2025 23:10:54.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Cover Me with Diamonds]
+[13May2025 23:16:06.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
+[13May2025 23:16:06.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game
+[13May2025 23:16:07.011] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
