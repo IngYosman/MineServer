@@ -62,3 +62,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [13May2025 00:54:17.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
 [13May2025 01:13:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [The Andesite Age]
 [13May2025 01:19:44.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,400.19263605860135,0.0
+[13May2025 01:27:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Ice Bucket Challenge]
+[13May2025 01:30:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has reached the goal [Workout Session]
+[13May2025 01:31:15.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [The Secrets of Enchanting]

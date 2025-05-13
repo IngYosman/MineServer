@@ -13879,9 +13879,27 @@
     },
     "done": true
   },
+  "productivetrees:recipes/misc/sawdust_to_paper": {
+    "criteria": {
+      "has_sawdust": "2025-05-13 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/infuser_from_enchanting_table": {
+    "criteria": {
+      "has_enchanting_table": "2025-05-13 01:31:15 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
     "criteria": {
       "has_soul_sand": "2025-05-13 01:02:01 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-05-13 01:27:48 +0000"
     },
     "done": true
   },
@@ -13909,6 +13927,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-05-13 01:31:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-13 01:02:01 +0000"
@@ -13933,15 +13957,33 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
+    "criteria": {
+      "has_obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {
       "has_nether_quartz": "2025-05-13 01:02:27 +0000"
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-05-13 01:27:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-05-13 01:02:01 +0000"
+    },
+    "done": true
+  },
+  "productivetrees:recipes/misc/sawdust_to_paper_water_bottle": {
+    "criteria": {
+      "has_sawdust": "2025-05-13 01:22:06 +0000"
     },
     "done": true
   },
@@ -13960,6 +14002,18 @@
   "utilitarian:recipes/misc/snad/soul_snad": {
     "criteria": {
       "has_soul_sand": "2025-05-13 01:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_item": "2025-05-13 01:22:06 +0000"
     },
     "done": true
   },
@@ -13999,6 +14053,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_hoe": {
     "criteria": {
       "has_nether_quartz": "2025-05-13 01:02:27 +0000"
@@ -14032,6 +14092,18 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-13 01:02:27 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-05-13 01:25:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-05-13 01:27:48 +0000"
     },
     "done": true
   },
