@@ -54,3 +54,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [13May2025 00:45:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
 [13May2025 00:45:23.470] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
 [13May2025 00:45:23.471] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[13May2025 00:47:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> he vuelto
+[13May2025 00:47:25.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> BURPIX se ha ido de la partida
+[13May2025 00:47:27.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> xd
+[13May2025 00:47:31.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> xd
+[13May2025 00:53:53.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
+[13May2025 00:54:17.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
