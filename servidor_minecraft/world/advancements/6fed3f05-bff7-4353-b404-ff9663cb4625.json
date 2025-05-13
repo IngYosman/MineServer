@@ -13861,6 +13861,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-05-13 01:46:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_comparator": {
     "criteria": {
       "has_base_block": "2025-05-13 01:03:29 +0000"
@@ -13891,9 +13897,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-05-13 01:46:33 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
     "criteria": {
       "has_soul_sand": "2025-05-13 01:02:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-05-13 01:46:34 +0000"
     },
     "done": true
   },
@@ -13924,6 +13942,12 @@
   "utilitarian:recipes/misc/tps_meter": {
     "criteria": {
       "has_comparator": "2025-05-13 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-05-13 01:46:34 +0000"
     },
     "done": true
   },
@@ -13993,9 +14017,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-13 01:46:34 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-05-13 01:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-13 01:46:34 +0000"
     },
     "done": true
   },
@@ -14032,6 +14068,12 @@
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2025-05-13 01:02:27 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/alfsteel_pylon": {
+    "criteria": {
+      "criterion2": "2025-05-13 01:46:33 +0000"
     },
     "done": true
   },

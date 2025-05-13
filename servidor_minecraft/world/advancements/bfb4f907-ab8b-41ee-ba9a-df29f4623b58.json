@@ -9936,6 +9936,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-13 01:44:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
@@ -9972,6 +9978,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/space_chamber_controller": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
@@ -10002,9 +10020,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-13 01:42:53 +0000"
     },
     "done": true
   },
@@ -10038,6 +10068,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-05-13 01:05:59 +0000"
@@ -10047,6 +10083,12 @@
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10065,6 +10107,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-05-13 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10098,6 +10146,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-13 01:47:27 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-05-13 00:59:32 +0000"
@@ -10119,6 +10179,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_dyes/black": "2025-05-13 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-13 01:42:33 +0000"
     },
     "done": true
   },
@@ -10152,6 +10218,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-13 01:44:43 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/misc/reactor_casing": {
     "criteria": {
       "has_item": "2025-05-13 00:59:34 +0000"
@@ -10176,6 +10248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-13 01:42:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/armor_faraday_chestplate": {
     "criteria": {
       "has_alu_plate": "2025-05-13 01:13:58 +0000"
@@ -10194,9 +10272,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10287,6 +10377,12 @@
   "immersiveengineering:recipes/misc/crafting/armor_faraday_leggings": {
     "criteria": {
       "has_alu_plate": "2025-05-13 01:13:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10386,6 +10482,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-13 01:42:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
@@ -10398,15 +10506,45 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-13 01:47:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_tool": {
     "criteria": {
       "has_redstone_torch": "2025-05-13 01:00:12 +0000"
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-05-13 01:44:43 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10488,6 +10626,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-05-13 01:13:15 +0000"
@@ -10506,6 +10650,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-05-13 01:13:15 +0000"
@@ -10515,6 +10671,12 @@
   "rftoolsbuilder:recipes/misc/mover_controller": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10566,6 +10728,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsbase/matter_beamer": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
@@ -10590,9 +10758,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10668,6 +10854,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-13 00:58:01 +0000"
@@ -10701,6 +10893,12 @@
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10806,6 +11004,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/tank": {
     "criteria": {
       "frame": "2025-05-13 01:00:43 +0000"
@@ -10827,6 +11031,12 @@
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
@@ -10878,6 +11088,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
@@ -10893,6 +11109,12 @@
   "create:recipes/misc/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-05-13 01:44:43 +0000"
     },
     "done": true
   },
@@ -10914,6 +11136,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-13 01:47:59 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/environmental_controller": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
@@ -10923,6 +11151,12 @@
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2025-05-13 01:47:59 +0000"
     },
     "done": true
   },
