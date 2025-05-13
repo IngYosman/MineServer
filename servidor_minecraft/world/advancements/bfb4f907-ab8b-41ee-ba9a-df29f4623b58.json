@@ -9924,6 +9924,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
@@ -9933,6 +9939,12 @@
   "xnet:recipes/xnet/redstoneproxy_update": {
     "criteria": {
       "torch": "2025-05-13 01:00:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -9948,6 +9960,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/space_chamber_controller": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
@@ -9957,6 +9975,12 @@
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_helmet": {
+    "criteria": {
+      "has_alu_plate": "2025-05-13 01:13:58 +0000"
     },
     "done": true
   },
@@ -9972,9 +9996,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-13 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-05-13 01:15:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -10020,6 +10062,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
@@ -10047,6 +10095,12 @@
   "create:recipes/misc/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -10107,6 +10161,12 @@
   "croptopia:recipes/misc/dead_bush": {
     "criteria": {
       "has_salts": "2025-05-13 00:59:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_chestplate": {
+    "criteria": {
+      "has_alu_plate": "2025-05-13 01:13:58 +0000"
     },
     "done": true
   },
@@ -10188,9 +10248,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-13 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_leggings": {
+    "criteria": {
+      "has_alu_plate": "2025-05-13 01:13:58 +0000"
     },
     "done": true
   },
@@ -10350,6 +10428,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/beef_jerky": {
     "criteria": {
       "has_salt": "2025-05-13 00:59:32 +0000"
@@ -10368,6 +10452,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
@@ -10380,6 +10470,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-05-13 00:58:01 +0000"
@@ -10389,6 +10485,12 @@
   "rftoolsutility:recipes/rftoolsutility/dialing_device": {
     "criteria": {
       "frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -10437,6 +10539,12 @@
   "rftoolsbuilder:recipes/shield_block4": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
     },
     "done": true
   },
@@ -10506,6 +10614,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shapeless/glass_viewer_glowing_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-05-13 00:59:32 +0000"
@@ -10548,6 +10662,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/wireless_router": {
     "criteria": {
       "frame": "2025-05-13 01:00:43 +0000"
@@ -10569,6 +10689,12 @@
   "forcecraft:recipes/misc/blue_force_furnace_from_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-13 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_aluminum": {
+    "criteria": {
+      "has_plate": "2025-05-13 01:13:58 +0000"
     },
     "done": true
   },
@@ -10632,6 +10758,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_boots": {
+    "criteria": {
+      "has_alu_plate": "2025-05-13 01:13:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-05-13 01:05:59 +0000"
@@ -10692,6 +10824,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-05-13 01:13:11 +0000"
+    },
+    "done": true
+  },
   "rftoolspower:recipes/rftoolspower/blazing_generator": {
     "criteria": {
       "frame": "2025-05-13 01:00:43 +0000"
@@ -10707,6 +10845,12 @@
   "rftoolsbuilder:recipes/misc/builder": {
     "criteria": {
       "machine_frame": "2025-05-13 01:00:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-05-13 01:13:15 +0000"
     },
     "done": true
   },
