@@ -44,3 +44,13 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [13May2025 00:31:22.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Disconnected
 [13May2025 00:31:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
 [13May2025 00:35:26.877] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[13May2025 00:35:38.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:59433] logged in with entity id 10270 at (-4099.179374233369, 67.5, -0.8559699233808588)
+[13May2025 00:35:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[13May2025 00:35:38.919] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[13May2025 00:35:38.920] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[13May2025 00:38:41.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [Taste of Knowledge]
+[13May2025 00:45:11.441] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[13May2025 00:45:23.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:35213] logged in with entity id 10779 at (-4089.278728161455, 67.0, 4122.237369390888)
+[13May2025 00:45:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[13May2025 00:45:23.470] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[13May2025 00:45:23.471] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
