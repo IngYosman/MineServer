@@ -11586,6 +11586,12 @@
     },
     "done": true
   },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-05-13 00:30:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-05-12 23:45:30 +0000"
