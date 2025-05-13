@@ -1806,6 +1806,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-05-13 22:56:44 +0000",
       "sugar_cane": "2025-05-10 03:48:59 +0000",
       "potato": "2025-05-11 23:11:29 +0000",
       "wheat": "2025-05-10 00:04:12 +0000"
@@ -14410,6 +14411,54 @@
   "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
     "criteria": {
       "has_copper_chest": "2025-05-13 02:24:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-05-13 22:55:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-13 22:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-05-13 22:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-13 22:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-05-13 22:55:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-05-13 22:55:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-13 22:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-05-13 22:55:46 +0000"
     },
     "done": true
   },
