@@ -13873,6 +13873,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-05-13 02:19:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/double_netherite_chest": {
     "criteria": {
       "has_diamond_chest": "2025-05-13 02:10:54 +0000"
@@ -14164,6 +14170,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-13 01:27:48 +0000"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2025-05-13 02:20:44 +0000"
     },
     "done": true
   },
