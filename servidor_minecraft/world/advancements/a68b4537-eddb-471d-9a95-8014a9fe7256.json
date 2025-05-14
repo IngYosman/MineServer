@@ -12073,45 +12073,21 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/quartz_fixture": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-05-14 00:53:34 +0000"
-    },
-    "done": false
-  },
-  "allthecompressed:recipes/building_blocks/compress/flint_block_1x": {
-    "criteria": {
-      "has_flint_block": "2025-05-14 01:32:16 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-05-13 23:58:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
+      "has_item": "2025-05-13 23:58:52 +0000"
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/force_brick_from_stone_bricks": {
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+      "has_item": "2025-05-13 23:59:51 +0000"
     },
     "done": true
   },
@@ -12121,57 +12097,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
+  "create:brass_casing": {
     "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/fluorite_dust_from_gem": {
-    "criteria": {
-      "has_fluorite_gem": "2025-05-14 00:44:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/misctools_charged_staff": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/prism": {
-    "criteria": {
-      "has_item": "2025-05-14 00:44:05 +0000"
+      "0": "2025-05-14 00:12:52 +0000"
     },
     "done": true
   },
@@ -12181,69 +12109,69 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green_r": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/sulfur_dust_from_gem": {
-    "criteria": {
-      "has_sulfur_gem": "2025-05-14 00:44:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_terracotta": {
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
     "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
+      "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue_r": {
+  "create:recipes/misc/crafting/logistics/redstone_link": {
     "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+      "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
     "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
+      "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/kelp_roll": {
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
     "criteria": {
-      "has_dried_kelp": "2025-05-14 00:54:49 +0000"
+      "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
-      "has_kelp": "2025-05-14 00:44:05 +0000"
+      "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/pedestal": {
+  "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+      "has_item": "2025-05-14 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-05-14 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-05-14 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-05-14 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
@@ -12253,9 +12181,51 @@
     },
     "done": true
   },
-  "mekanism:materials": {
+  "create:precision_mechanism": {
     "criteria": {
-      "material": "2025-05-14 00:44:07 +0000"
+      "0": "2025-05-14 00:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
     },
     "done": true
   },
@@ -12277,129 +12247,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/redstone_link": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-05-14 00:44:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/stockpile_switch": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-05-14 00:53:33 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red_r": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "silentgear:nether": {
-    "criteria": {
-      "entered_nether": "2025-05-14 00:53:33 +0000"
-    },
-    "done": true
-  },
-  "create:precision_mechanism": {
-    "criteria": {
-      "0": "2025-05-14 00:37:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-05-13 23:59:51 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light_r": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark_r": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-14 00:37:56 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/content_observer": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/display_link": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-14 00:37:56 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/cinnabar_dust_from_gem": {
-    "criteria": {
-      "has_cinnabar_gem": "2025-05-14 00:44:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-05-14 01:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:41 +0000"
     },
     "done": true
   },
@@ -12415,6 +12271,60 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-05-14 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sulfur_dust_from_gem": {
+    "criteria": {
+      "has_sulfur_gem": "2025-05-14 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-14 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-14 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/cinnabar_dust_from_gem": {
+    "criteria": {
+      "has_cinnabar_gem": "2025-05-14 00:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-14 00:44:05 +0000"
@@ -12427,63 +12337,9 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-05-14 00:53:33 +0000"
-    },
-    "done": true
-  },
   "appflux:recipes/misc/insulating_resin": {
     "criteria": {
       "has_item": "2025-05-14 00:44:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block_uncrafting": {
-    "criteria": {
-      "has_flint_block": "2025-05-14 01:32:16 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-05-14 00:54:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
@@ -12493,39 +12349,213 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
+  "occultism:recipes/crushing/crushing/apatite_dust_from_gem": {
     "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
+      "has_apatite_gem": "2025-05-14 00:44:05 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/filter_clear": {
+  "occultism:recipes/crushing/crushing/fluorite_dust_from_gem": {
     "criteria": {
-      "has_item": "2025-05-14 01:38:20 +0000"
+      "has_fluorite_gem": "2025-05-14 00:44:07 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+  "mekanism:materials": {
     "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
+      "material": "2025-05-14 00:44:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+  "ae2:recipes/misc/decorative/quartz_fixture": {
     "criteria": {
-      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
     "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
+      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
     },
     "done": true
   },
   "ae2:main/charged_quartz": {
     "criteria": {
       "certus": "2025-05-14 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-14 00:53:33 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-05-14 00:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-14 00:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-14 00:53:34 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-14 00:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-14 00:54:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-14 00:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/force_brick_from_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:07:42 +0000"
     },
     "done": true
   },
@@ -12553,63 +12583,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-14 00:54:49 +0000"
-    },
-    "done": true
-  },
-  "create:brass_casing": {
-    "criteria": {
-      "0": "2025-05-14 00:12:52 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-14 00:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/apatite_dust_from_gem": {
-    "criteria": {
-      "has_apatite_gem": "2025-05-14 00:44:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-14 01:07:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/brass_door": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2025-05-13 23:58:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nixie_tube": {
-    "criteria": {
-      "has_item": "2025-05-14 00:12:54 +0000"
     },
     "done": true
   },
@@ -12628,6 +12604,114 @@
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-05-14 01:07:42 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/flint_block_1x": {
+    "criteria": {
+      "has_flint_block": "2025-05-14 01:32:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block_uncrafting": {
+    "criteria": {
+      "has_flint_block": "2025-05-14 01:32:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-05-14 01:38:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-05-14 01:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/quartz_block_1x": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/tablet": {
+    "criteria": {
+      "quartz": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "laserio:recipes/misc/logic_chip_raw": {
+    "criteria": {
+      "has_quartz": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
     },
     "done": true
   },
