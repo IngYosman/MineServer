@@ -12643,6 +12643,18 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_armor": "2025-05-14 04:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-14 04:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-14 02:13:08 +0000"
@@ -12703,6 +12715,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/gunpowder_from_pile_of_gunpowder": {
+    "criteria": {
+      "has_pile_of_gunpowder": "2025-05-14 04:35:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/gold_chest": {
     "criteria": {
       "has_iron_chest": "2025-05-14 02:21:25 +0000"
@@ -12730,6 +12748,12 @@
   "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
     "criteria": {
       "has_iron_chest": "2025-05-14 02:21:25 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-05-14 04:32:44 +0000"
     },
     "done": true
   },
@@ -12796,6 +12820,12 @@
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-05-14 04:01:54 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
+    "criteria": {
+      "has_armor": "2025-05-14 04:31:49 +0000"
     },
     "done": true
   },
