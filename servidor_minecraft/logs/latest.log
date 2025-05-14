@@ -15,3 +15,4 @@
 [14May2025 01:30:45.722] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: No valid spawn position found, searching...
 [14May2025 01:35:49.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
 [14May2025 01:37:05.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,398.0055436384173,0.0
+[14May2025 01:46:46.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Carl the Ghost Hunter'/10898, l='ServerLevel[world]', x=13.83, y=68.00, z=4102.50] died: Carl the Ghost Hunter was slain by DStevenTy
