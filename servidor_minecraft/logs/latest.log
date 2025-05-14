@@ -1,2 +1,10 @@
 [14May2025 00:12:52.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [The Brass Age]
 [14May2025 00:37:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Complex Curiosities]
+[14May2025 00:40:45.359] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
+[14May2025 00:40:57.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DStevenTy[/127.164.136.185:38279] logged in with entity id 6071 at (13.671519881625025, 68.0, 4099.637668730174)
+[14May2025 00:40:57.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
+[14May2025 00:40:57.582] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
+[14May2025 00:40:57.584] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[14May2025 00:42:57.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> llamada o que jaja
+[14May2025 00:43:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> como quieran
+[14May2025 00:45:11.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Shocking]
