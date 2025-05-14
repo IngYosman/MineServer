@@ -6004,6 +6004,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-05-14 00:58:39 +0000",
       "sugar_cane": "2025-05-10 03:29:14 +0000",
       "wheat": "2025-05-09 02:21:19 +0000",
       "pumpkin": "2025-05-10 00:22:49 +0000"
@@ -12180,6 +12181,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-14 00:54:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-14 00:44:05 +0000"
@@ -12342,6 +12349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-14 00:54:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-14 00:37:56 +0000"
@@ -12381,6 +12394,12 @@
   "ae2:main/charged_quartz": {
     "criteria": {
       "certus": "2025-05-14 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-14 00:54:49 +0000"
     },
     "done": true
   },
