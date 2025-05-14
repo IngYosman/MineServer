@@ -11203,9 +11203,27 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-05-14 00:46:38 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_2x": {
+    "criteria": {
+      "has_soul_sand_1x": "2025-05-14 00:46:38 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
     "criteria": {
       "has_soul_sand": "2025-05-14 00:42:44 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-05-14 00:46:18 +0000"
     },
     "done": true
   },

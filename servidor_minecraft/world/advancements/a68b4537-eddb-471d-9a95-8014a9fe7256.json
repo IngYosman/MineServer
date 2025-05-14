@@ -12072,6 +12072,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-14 00:53:34 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-05-13 23:58:52 +0000"
@@ -12108,6 +12120,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-14 00:37:56 +0000"
@@ -12135,6 +12153,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
     },
     "done": true
   },
@@ -12222,6 +12246,18 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-14 00:53:33 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-05-14 00:53:33 +0000"
+    },
+    "done": true
+  },
   "create:precision_mechanism": {
     "criteria": {
       "0": "2025-05-14 00:37:43 +0000"
@@ -12288,9 +12324,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-14 00:53:33 +0000"
+    },
+    "done": true
+  },
   "appflux:recipes/misc/insulating_resin": {
     "criteria": {
       "has_item": "2025-05-14 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
     },
     "done": true
   },
@@ -12330,15 +12378,33 @@
     },
     "done": true
   },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-05-14 00:45:11 +0000"
+    },
+    "done": true
+  },
   "create:brass_casing": {
     "criteria": {
       "0": "2025-05-14 00:12:52 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-05-14 00:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-14 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
     },
     "done": true
   },
