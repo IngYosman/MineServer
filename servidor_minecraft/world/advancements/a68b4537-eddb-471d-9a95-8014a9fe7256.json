@@ -12085,6 +12085,12 @@
     },
     "done": false
   },
+  "allthecompressed:recipes/building_blocks/compress/flint_block_1x": {
+    "criteria": {
+      "has_flint_block": "2025-05-14 01:32:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-05-13 23:58:52 +0000"
@@ -12436,6 +12442,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-05-14 00:45:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block_uncrafting": {
+    "criteria": {
+      "has_flint_block": "2025-05-14 01:32:16 +0000"
     },
     "done": true
   },
