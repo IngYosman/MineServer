@@ -12757,6 +12757,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-05-14 04:20:27 +0000"
+    },
+    "done": true
+  },
   "laserio:recipes/misc/logic_chip_raw": {
     "criteria": {
       "has_quartz": "2025-05-14 02:13:08 +0000"
@@ -12772,6 +12778,12 @@
   "sophisticatedstorage:recipes/misc/double_gold_chest": {
     "criteria": {
       "has_iron_chest": "2025-05-14 02:21:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-05-14 04:20:27 +0000"
     },
     "done": true
   },
