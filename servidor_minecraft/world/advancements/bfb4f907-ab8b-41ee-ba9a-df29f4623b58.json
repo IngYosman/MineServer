@@ -11203,6 +11203,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-14 01:07:54 +0000"
+    },
+    "done": false
+  },
   "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
     "criteria": {
       "has_soul_sand_1x": "2025-05-14 00:46:38 +0000"
@@ -11239,9 +11245,27 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-14 01:07:53 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-05-14 01:07:53 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/snad/soul_snad": {
     "criteria": {
       "has_soul_sand": "2025-05-14 00:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-14 01:07:53 +0000"
     },
     "done": true
   },
