@@ -423,7 +423,8 @@
       "cooked_beef": "2025-05-09 00:14:09 +0000",
       "baked_potato": "2025-05-13 01:59:59 +0000",
       "melon_slice": "2025-05-10 03:10:43 +0000",
-      "golden_carrot": "2025-05-11 21:20:25 +0000"
+      "golden_carrot": "2025-05-11 21:20:25 +0000",
+      "carrot": "2025-05-14 02:21:33 +0000"
     },
     "done": false
   },
@@ -11290,6 +11291,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-14 00:42:44 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_soil_1x": {
+    "criteria": {
+      "has_soul_soil": "2025-05-14 02:28:12 +0000"
     },
     "done": true
   },
