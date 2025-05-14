@@ -24,3 +24,5 @@
 [14May2025 02:04:43.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
 [14May2025 02:04:43.298] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
 [14May2025 02:04:43.303] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[14May2025 02:40:44.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy lost connection: Disconnected
+[14May2025 02:40:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy left the game
