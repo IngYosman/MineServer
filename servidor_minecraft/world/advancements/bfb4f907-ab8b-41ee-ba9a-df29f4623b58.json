@@ -11209,6 +11209,12 @@
     },
     "done": false
   },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2025-05-14 01:23:09 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/decompress/soul_sand_1x": {
     "criteria": {
       "has_soul_sand_1x": "2025-05-14 00:46:38 +0000"
@@ -11245,6 +11251,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-14 01:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-14 01:07:53 +0000"
@@ -11269,9 +11281,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-14 01:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-14 00:42:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-05-14 01:23:09 +0000"
     },
     "done": true
   },
