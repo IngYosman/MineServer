@@ -12841,5 +12841,371 @@
     },
     "done": true
   },
+  "forcecraft:recipes/tools/force_arrow": {
+    "criteria": {
+      "has_force_nugget": "2025-05-15 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_wrench": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_chest": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/infuser_from_enchanting_table": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_axe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_shears": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_axe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_pickaxe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_hoe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_door": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_boots": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/irom_ingot_from_cauldron": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/upgrade_core": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_rod_from_stick": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_chicken_to_beef": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_rod": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_pickaxe": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_hoe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_porkchop_to_mutton": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_nugget": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/fortune_from_fortune_cookie": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_shovel": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_shovel": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/combat/force_sword": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/beef_to_porkchop": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_pickaxe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_gear": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chainmail_boots": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/tripwire_hook_from_crossbow": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/chicken_to_beef": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/mutton_to_chicken": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_horse_armor": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_shovel": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_clock": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_mutton_to_chicken": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_minecart": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/combat/force_bow": {
+    "criteria": {
+      "has_force_nugget": "2025-05-15 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_ingot_from_nuggets": {
+    "criteria": {
+      "has_force_nugget": "2025-05-15 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_helmet": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_axe": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_legs": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_shovel": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/porkchop_to_mutton": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_boots": {
+    "criteria": {
+      "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_hoe": {
+    "criteria": {
+      "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
