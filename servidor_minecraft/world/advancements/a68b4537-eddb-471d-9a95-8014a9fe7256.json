@@ -12961,9 +12961,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_planks": {
+    "criteria": {
+      "has_force_log": "2025-05-15 22:40:57 +0000"
+    },
+    "done": true
+  },
   "forcecraft:tier0/damage": {
     "criteria": {
       "crafting_table": "2025-05-15 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_plank_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:41:29 +0000"
     },
     "done": true
   },
@@ -13069,9 +13081,21 @@
     },
     "done": true
   },
+  "silentgear:armor": {
+    "criteria": {
+      "chestplate": "2025-05-15 22:45:30 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/combat/force_sword": {
     "criteria": {
       "has_force_ingot": "2025-05-15 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/golden_power_source": {
+    "criteria": {
+      "has_force_logs": "2025-05-15 22:40:57 +0000"
     },
     "done": true
   },
@@ -13177,6 +13201,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_plank_slab": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:41:29 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
     "criteria": {
       "has_rod": "2025-05-15 22:23:06 +0000"
@@ -13186,6 +13216,12 @@
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_minecart": {
     "criteria": {
       "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_stick": {
+    "criteria": {
+      "has_force_planks": "2025-05-15 22:41:29 +0000"
     },
     "done": true
   },
@@ -13222,6 +13258,12 @@
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_horse_armor": {
     "criteria": {
       "has_rod": "2025-05-15 22:23:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/forcecraft/sign_post_force": {
+    "criteria": {
+      "has_item": "2025-05-15 22:41:29 +0000"
     },
     "done": true
   },
@@ -13276,6 +13318,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
     "criteria": {
       "has_book": "2025-05-15 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_wood": {
+    "criteria": {
+      "has_force_log": "2025-05-15 22:40:57 +0000"
     },
     "done": true
   },
