@@ -13693,6 +13693,12 @@
     },
     "done": true
   },
+  "simplemagnets:recipes/misc/advancedmagnet": {
+    "criteria": {
+      "recipe_condition": "2025-05-15 23:12:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
