@@ -3366,3 +3366,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [15May2025 22:45:30.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Better Armor]
 [15May2025 23:02:05.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Disconnected
 [15May2025 23:02:05.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
+[15May2025 23:04:43.913] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[15May2025 23:04:55.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:47011] logged in with entity id 8439 at (-4066.438296757285, 67.0, 4084.7101348463134)
+[15May2025 23:04:55.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[15May2025 23:04:55.950] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[15May2025 23:04:55.953] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
