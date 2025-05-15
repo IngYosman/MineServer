@@ -3371,3 +3371,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [15May2025 23:04:55.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
 [15May2025 23:04:55.950] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
 [15May2025 23:04:55.953] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[15May2025 23:26:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Meneglin Discovery]
+[15May2025 23:27:16.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [The Parrots and the Bats]

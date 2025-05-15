@@ -13393,6 +13393,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/sinew_fiber": {
+    "criteria": {
+      "has_item": "2025-05-15 23:27:30 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/spruce_logs_to_slabs": {
     "criteria": {
       "has_log": "2025-05-15 23:09:50 +0000"
@@ -13414,6 +13420,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-15 23:09:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 23:22:33 +0000"
     },
     "done": true
   },
@@ -13525,15 +13537,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-05-15 23:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-05-15 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-05-15 23:27:16 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:22:33 +0000"
     },
     "done": true
   },
@@ -13579,6 +13627,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-05-15 23:27:00 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2025-05-15 23:09:51 +0000"
@@ -13597,6 +13651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/dark_oak_log_1x": {
     "criteria": {
       "has_dark_oak_log": "2025-05-15 23:09:51 +0000"
@@ -13609,9 +13669,27 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/dried_sinew": {
+    "criteria": {
+      "has_item": "2025-05-15 23:27:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-05-15 23:27:00 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-15 23:27:16 +0000"
     },
     "done": true
   },
@@ -13642,6 +13720,12 @@
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/doormat_2": {
+    "criteria": {
+      "forge:crops/flax": "2025-05-15 23:29:45 +0000"
     },
     "done": true
   },
@@ -13711,9 +13795,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-05-15 23:26:35 +0000"
     },
     "done": true
   },
@@ -13732,6 +13828,18 @@
   "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope": {
+    "criteria": {
+      "forge:crops/flax": "2025-05-15 23:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:22:33 +0000"
     },
     "done": true
   },
