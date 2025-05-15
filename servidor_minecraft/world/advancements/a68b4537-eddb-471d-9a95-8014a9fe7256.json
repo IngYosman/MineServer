@@ -13405,6 +13405,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-15 23:30:49 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/spruce_log_1x": {
     "criteria": {
       "has_spruce_log": "2025-05-15 23:09:50 +0000"
@@ -13453,6 +13459,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-05-15 23:30:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-05-15 23:30:49 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
@@ -13489,6 +13507,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-05-15 23:30:49 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:50 +0000"
@@ -13522,6 +13546,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-05-15 23:30:49 +0000"
     },
     "done": true
   },
@@ -13801,6 +13831,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-15 23:30:49 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:50 +0000"
@@ -13816,6 +13852,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-05-15 23:30:49 +0000"
     },
     "done": true
   },
