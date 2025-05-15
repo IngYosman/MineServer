@@ -12631,27 +12631,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-05-14 02:22:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-05-14 02:13:08 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_helmet": {
-    "criteria": {
-      "has_armor": "2025-05-14 04:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-05-14 04:31:49 +0000"
     },
     "done": true
   },
@@ -12661,21 +12643,9 @@
     },
     "done": true
   },
-  "create:speed_controller": {
-    "criteria": {
-      "0": "2025-05-14 02:42:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-05-14 02:13:08 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-05-14 02:22:18 +0000"
     },
     "done": true
   },
@@ -12688,12 +12658,6 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-05-14 02:13:08 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-05-14 02:22:37 +0000"
     },
     "done": true
   },
@@ -12715,24 +12679,6 @@
     },
     "done": true
   },
-  "forcecraft:recipes/misc/gunpowder_from_pile_of_gunpowder": {
-    "criteria": {
-      "has_pile_of_gunpowder": "2025-05-14 04:35:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-05-14 02:21:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-05-14 02:20:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-05-14 02:13:08 +0000"
@@ -12745,45 +12691,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
-    "criteria": {
-      "has_iron_chest": "2025-05-14 02:21:25 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
-    "criteria": {
-      "has_armor": "2025-05-14 04:32:44 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-05-14 02:22:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-05-14 02:22:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_chest": {
-    "criteria": {
-      "has_gold_chest": "2025-05-14 02:22:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-14 02:13:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_table": {
-    "criteria": {
-      "has_item": "2025-05-14 04:20:27 +0000"
     },
     "done": true
   },
@@ -12799,15 +12709,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_gold_chest": {
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
-      "has_iron_chest": "2025-05-14 02:21:25 +0000"
+      "has_quartz_block": "2025-05-14 02:13:08 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematicannon": {
+  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
     "criteria": {
-      "has_item": "2025-05-14 04:20:27 +0000"
+      "has_copper_chest": "2025-05-14 02:20:28 +0000"
     },
     "done": true
   },
@@ -12817,9 +12727,93 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-05-14 02:20:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-05-14 02:21:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-05-14 02:21:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-05-14 02:21:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-05-14 02:22:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-05-14 02:22:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_chest": "2025-05-14 02:22:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-14 02:22:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-14 02:22:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-14 02:22:37 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-05-14 02:42:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-05-14 04:01:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-05-14 04:20:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-05-14 04:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-14 04:31:49 +0000"
     },
     "done": true
   },
@@ -12829,15 +12823,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
     "criteria": {
-      "has_quartz_block": "2025-05-14 02:13:08 +0000"
+      "has_armor": "2025-05-14 04:32:44 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_helmet": {
     "criteria": {
-      "has_copper_chest": "2025-05-14 02:20:28 +0000"
+      "has_armor": "2025-05-14 04:32:50 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/gunpowder_from_pile_of_gunpowder": {
+    "criteria": {
+      "has_pile_of_gunpowder": "2025-05-14 04:35:35 +0000"
     },
     "done": true
   },
