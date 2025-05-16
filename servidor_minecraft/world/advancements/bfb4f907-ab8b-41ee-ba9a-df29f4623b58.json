@@ -11330,6 +11330,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_orange": {
     "criteria": {
       "has_item": "2025-05-16 23:15:02 +0000"
@@ -11342,9 +11348,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/light_blue_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2025-05-16 23:33:16 +0000"
     },
     "done": true
   },
@@ -11357,6 +11381,18 @@
   "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-16 23:12:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:35:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:50 +0000"
     },
     "done": true
   },
@@ -11390,6 +11426,36 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:17 +0000"
+    },
+    "done": true
+  },
   "botania:main/apothecary_pickup": {
     "criteria": {
       "apothecary": "2025-05-16 23:23:11 +0000"
@@ -11402,6 +11468,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2025-05-16 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 23:39:01 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-05-16 23:12:03 +0000"
@@ -11411,6 +11489,12 @@
   "botania:recipes/misc/petal_pink": {
     "criteria": {
       "has_item": "2025-05-16 23:15:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:33:16 +0000"
     },
     "done": true
   },
@@ -11432,6 +11516,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_gray": {
     "criteria": {
       "has_alt_item": "2025-05-16 23:12:13 +0000"
@@ -11444,15 +11534,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:33:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/gray_petal_block": {
     "criteria": {
       "has_item": "2025-05-16 23:12:13 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2025-05-16 23:38:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_light_blue": {
     "criteria": {
       "has_item": "2025-05-16 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:35:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:17 +0000"
     },
     "done": true
   },
@@ -11468,6 +11588,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-05-16 23:35:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/orange_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 23:15:02 +0000"
@@ -11477,6 +11603,12 @@
   "botania:recipes/decorations/black_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
     },
     "done": true
   },
@@ -11498,9 +11630,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_yellow": {
     "criteria": {
       "has_item": "2025-05-16 23:14:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:35:54 +0000"
     },
     "done": true
   },
@@ -11519,6 +11669,12 @@
   "botania:recipes/misc/petal_gray_double": {
     "criteria": {
       "has_alt_item": "2025-05-16 23:12:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:33:16 +0000"
     },
     "done": true
   },

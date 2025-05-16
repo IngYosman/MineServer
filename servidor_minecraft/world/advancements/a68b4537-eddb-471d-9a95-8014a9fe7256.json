@@ -14569,6 +14569,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/cloud_pendant": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-16 23:16:16 +0000"
@@ -14593,6 +14599,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_black_bowtie": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2025-05-16 23:39:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/third_eye": {
     "criteria": {
       "has_item": "2025-05-16 23:20:03 +0000"
@@ -14605,9 +14623,34 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_googly_eyes": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_blue_butterfly": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/floating_endoflame": {
     "criteria": {
       "has_item": "2025-05-16 23:15:59 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:mythicbotany/all_runes": {
+    "criteria": {
+      "inventory_changed14": "2025-05-16 23:39:50 +0000",
+      "inventory_changed5": "2025-05-16 23:39:56 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/tools/smelt_rod": {
+    "criteria": {
+      "has_item": "2025-05-16 23:39:56 +0000"
     },
     "done": true
   },
@@ -14629,9 +14672,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/cobble_rod": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:39:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/ice_pendant": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_pink_flower_bud": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -14647,9 +14702,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_devil_tail": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_lusitanic_shield": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_rod": {
+    "criteria": {
+      "has_item": "2025-05-16 23:39:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_black_tie": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_thinking_hand": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2025-05-16 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_witch_pin": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -14671,6 +14762,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_red_ribbons": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cobweb": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mana_mirror": {
     "criteria": {
       "has_item": "2025-05-16 23:22:15 +0000"
@@ -14686,6 +14789,18 @@
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_unicorn_horn": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_hyper_plus": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -14755,6 +14870,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_eerie_mask": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_light_gray": {
     "criteria": {
       "has_item": "2025-05-16 23:15:41 +0000"
@@ -14767,9 +14888,33 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_questgiver_mark": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_thick_eyebrows": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:main/runic_altar_pickup": {
     "criteria": {
       "altar": "2025-05-16 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_orange_shades": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_cat_ears": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -14791,15 +14936,39 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_red_glasses": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_botanist_emblem": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_brown": {
     "criteria": {
       "has_item": "2025-05-16 23:15:44 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_eyepatch": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/travel_belt": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_four_leaf_clover": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -14833,15 +15002,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_devil_horns": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_groucho_glasses": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_puffy_scarf": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/manaweave_cloth": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_alien_antenna": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -14857,6 +15056,30 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_polka_dotted_bows": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_kamui_eye": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_clock_eye": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/fire_rod": {
+    "criteria": {
+      "has_item": "2025-05-16 23:39:56 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
@@ -14866,6 +15089,12 @@
   "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
     "criteria": {
       "has_coal_block": "2025-05-16 23:16:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_ancient_mask": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -14881,6 +15110,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_engineer_goggles": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_anaglyph_glasses": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_normal": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
@@ -14893,9 +15134,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_tiny_potato_mask": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_wicked_eyepatch": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/divining_rod": {
     "criteria": {
       "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2025-05-16 23:39:50 +0000"
     },
     "done": true
   },
