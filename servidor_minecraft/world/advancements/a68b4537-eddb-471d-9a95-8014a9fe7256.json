@@ -14581,6 +14581,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-16 23:15:44 +0000"
@@ -14593,9 +14599,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/floating_endoflame": {
     "criteria": {
       "has_item": "2025-05-16 23:15:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
@@ -14605,9 +14623,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/avatar": {
     "criteria": {
       "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-05-16 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
@@ -14617,9 +14671,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-05-16 23:22:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-16 23:15:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
@@ -14641,6 +14707,36 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_pylon": {
     "criteria": {
       "has_item": "2025-05-16 23:20:03 +0000"
@@ -14653,9 +14749,45 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_light_gray": {
     "criteria": {
       "has_item": "2025-05-16 23:15:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "altar": "2025-05-16 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
@@ -14665,15 +14797,69 @@
     },
     "done": true
   },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/light_gray_petal_block": {
     "criteria": {
       "has_item": "2025-05-16 23:15:41 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/auto_crafting_halo": {
     "criteria": {
       "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
@@ -14686,6 +14872,18 @@
   "botania:recipes/building_blocks/mana_diamond_block": {
     "criteria": {
       "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },

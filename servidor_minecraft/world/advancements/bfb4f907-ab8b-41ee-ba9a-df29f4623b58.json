@@ -11390,6 +11390,12 @@
     },
     "done": true
   },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-05-16 23:23:11 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mashed_potatoes": {
     "criteria": {
       "has_milk": "2025-05-16 23:11:58 +0000"
