@@ -13387,6 +13387,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-16 00:03:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
@@ -13417,6 +13423,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-05-16 00:03:28 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/dark_oak_logs_to_stairs": {
     "criteria": {
       "has_log": "2025-05-15 23:09:51 +0000"
@@ -13435,6 +13447,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:07:29 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:50 +0000"
@@ -13444,6 +13462,18 @@
   "mcwbridges:recipes/dark_oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:09 +0000"
     },
     "done": true
   },
@@ -13477,6 +13507,24 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-16 00:03:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:07:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:37 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:51 +0000"
@@ -13489,9 +13537,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 00:08:04 +0000"
     },
     "done": true
   },
@@ -13531,6 +13591,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:03:30 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:51 +0000"
@@ -13561,6 +13627,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:07:30 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
@@ -13570,6 +13642,12 @@
   "farmersdelight:recipes/food/hamburger": {
     "criteria": {
       "has_beef_patty": "2025-05-15 23:30:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 00:08:04 +0000"
     },
     "done": true
   },
@@ -13591,9 +13669,27 @@
     },
     "done": false
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-05-16 00:03:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:31 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:32 +0000"
     },
     "done": true
   },
@@ -13603,15 +13699,39 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2025-05-16 00:03:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 00:08:24 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-05-16 00:07:29 +0000"
     },
     "done": true
   },
@@ -13630,6 +13750,18 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2025-05-16 00:03:32 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-05-16 00:08:14 +0000"
     },
     "done": true
   },
@@ -13663,9 +13795,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2025-05-16 00:08:24 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-16 00:03:28 +0000"
     },
     "done": true
   },
@@ -13705,9 +13849,21 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_fertilizer": {
+    "criteria": {
+      "has_base_block": "2025-05-16 00:02:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-05-15 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:31 +0000"
     },
     "done": true
   },
@@ -13732,6 +13888,24 @@
   "utilitarian:recipes/misc/utility/spruce_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:03:28 +0000"
     },
     "done": true
   },
@@ -13783,6 +13957,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-15 23:09:49 +0000"
@@ -13807,6 +13987,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:03:32 +0000"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/misc/advancedmagnet": {
     "criteria": {
       "recipe_condition": "2025-05-15 23:12:50 +0000"
@@ -13825,9 +14011,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/orange_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:07:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 00:08:04 +0000"
     },
     "done": true
   },
@@ -13846,6 +14050,12 @@
   "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
       "criteria_0": "2025-05-15 23:26:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-05-16 00:07:29 +0000"
     },
     "done": true
   },
@@ -13879,9 +14089,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-05-16 00:07:30 +0000"
     },
     "done": true
   },
@@ -13894,6 +14116,12 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 23:09:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:07 +0000"
     },
     "done": true
   },
@@ -13933,6 +14161,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow": {
+    "criteria": {
+      "has_item": "2025-05-16 00:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-15 23:09:51 +0000"
@@ -13945,9 +14185,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2025-05-16 00:03:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2025-05-16 00:08:04 +0000"
     },
     "done": true
   },
