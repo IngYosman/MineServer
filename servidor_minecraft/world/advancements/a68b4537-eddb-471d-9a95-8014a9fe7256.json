@@ -13675,6 +13675,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-05-16 00:16:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pink_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 00:04:31 +0000"
@@ -14008,6 +14014,12 @@
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:16:37 +0000"
     },
     "done": true
   },
