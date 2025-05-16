@@ -13417,6 +13417,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/spruce_log_1x": {
     "criteria": {
       "has_spruce_log": "2025-05-15 23:09:50 +0000"
@@ -13435,6 +13441,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-15 23:09:49 +0000"
@@ -13444,6 +13456,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
     },
     "done": true
   },
@@ -13465,6 +13483,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/open_crate": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/orange_petal_block": {
     "criteria": {
       "has_item": "2025-05-16 00:08:24 +0000"
@@ -13474,6 +13498,12 @@
   "botania:recipes/misc/petal_orange": {
     "criteria": {
       "has_item": "2025-05-16 00:04:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 00:35:06 +0000"
     },
     "done": true
   },
@@ -13513,6 +13543,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/light_gray_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 00:07:29 +0000"
@@ -13528,6 +13564,12 @@
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/framed_livingwood": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
     },
     "done": true
   },
@@ -13579,9 +13621,21 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2025-05-16 00:32:59 +0000"
     },
     "done": true
   },
@@ -13603,9 +13657,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/yggdrasil_branch": {
+    "criteria": {
+      "criterion0": "2025-05-16 00:32:59 +0000"
     },
     "done": true
   },
@@ -13681,6 +13747,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2025-05-16 00:32:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_white": {
     "criteria": {
       "has_item": "2025-05-16 00:16:37 +0000"
@@ -13735,6 +13807,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-05-16 00:32:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-05-15 23:22:33 +0000"
@@ -13759,9 +13837,21 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood_planks_stairs": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2025-05-16 00:32:59 +0000"
     },
     "done": true
   },
@@ -13795,6 +13885,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2025-05-16 00:32:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
@@ -13807,9 +13903,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2025-05-16 00:32:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_orange": {
     "criteria": {
       "has_item": "2025-05-16 00:08:24 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2025-05-16 00:35:30 +0000"
     },
     "done": true
   },
@@ -13861,6 +13969,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/dried_sinew": {
     "criteria": {
       "has_item": "2025-05-15 23:27:30 +0000"
@@ -13891,6 +14005,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/mossy_livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-05-15 23:27:16 +0000"
@@ -13915,15 +14035,33 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/livingwood_fence_gate": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_gray": {
     "criteria": {
       "has_item": "2025-05-16 00:04:32 +0000"
     },
     "done": true
   },
+  "botania:recipes/building_blocks/pattern_framed_livingwood": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/brown_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 00:03:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2025-05-16 00:32:59 +0000"
     },
     "done": true
   },
@@ -13939,6 +14077,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:51 +0000"
@@ -13948,6 +14092,12 @@
   "supplementaries:recipes/doormat_2": {
     "criteria": {
       "forge:crops/flax": "2025-05-15 23:29:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
     },
     "done": true
   },
@@ -13987,6 +14137,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/building_blocks/botania/sign_post_livingwood": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_light_blue": {
     "criteria": {
       "has_item": "2025-05-16 00:04:37 +0000"
@@ -14023,6 +14185,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/red_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 00:03:32 +0000"
@@ -14035,9 +14203,21 @@
     },
     "done": true
   },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2025-05-16 00:34:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_slab": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
     },
     "done": true
   },
@@ -14083,9 +14263,27 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-16 00:08:04 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2025-05-16 00:35:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
     },
     "done": true
   },
@@ -14098,6 +14296,12 @@
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
     },
     "done": true
   },
@@ -14191,6 +14395,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2025-05-16 00:32:59 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/spruce_logs_to_boats": {
     "criteria": {
       "has_log": "2025-05-15 23:09:50 +0000"
@@ -14200,6 +14410,24 @@
   "utilitarian:recipes/misc/utility/dark_oak_logs_to_slabs": {
     "criteria": {
       "has_log": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2025-05-16 00:35:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_fence": {
+    "criteria": {
+      "has_item": "2025-05-16 00:34:35 +0000"
     },
     "done": true
   },
