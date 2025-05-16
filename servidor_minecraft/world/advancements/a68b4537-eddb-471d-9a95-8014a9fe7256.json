@@ -14509,6 +14509,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2025-05-16 01:04:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/floating_hydroangeas": {
     "criteria": {
       "has_item": "2025-05-16 01:00:28 +0000"
@@ -14524,6 +14530,12 @@
   "botania:recipes/misc/dye_cyan": {
     "criteria": {
       "has_item": "2025-05-16 01:00:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2025-05-16 01:04:29 +0000"
     },
     "done": true
   },
