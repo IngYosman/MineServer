@@ -3332,3 +3332,45 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [16May2025 23:03:05.041] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
 [16May2025 23:03:05.223] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
 [16May2025 23:03:07.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3291ms or 65 ticks behind
+[16May2025 23:07:23.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy lost connection: Disconnected
+[16May2025 23:07:23.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy left the game
+[16May2025 23:08:18.238] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DStevenTy is bfb4f907-ab8b-41ee-ba9a-df29f4623b58
+[16May2025 23:08:30.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DStevenTy[/127.150.169.216:45131] logged in with entity id 550 at (54.9239156908796, 68.0, 4098.95554471887)
+[16May2025 23:08:30.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy joined the game
+[16May2025 23:08:30.612] [Server thread/INFO] [Jade/]: Syncing config to DStevenTy (bfb4f907-ab8b-41ee-ba9a-df29f4623b58)
+[16May2025 23:08:30.614] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[16May2025 23:11:26.808] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[16May2025 23:11:38.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:59337] logged in with entity id 592 at (-4062.68033878082, 69.0, 4112.426558864427)
+[16May2025 23:11:38.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[16May2025 23:11:39.031] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[16May2025 23:11:39.040] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[16May2025 23:11:39.426] [ForkJoinPool.commonPool-worker-10/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent it/unimi/dsi/fastutil/doubles/AbstractDoubleList for class com/abdelaziz/canary/common/shapes/lists/OffsetFractionalDoubleList in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-10,5,SERVER]
+[16May2025 23:11:39.427] [ForkJoinPool.commonPool-worker-10/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleList
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.abdelaziz.canary.common.shapes.VoxelShapeAlignedCuboidOffset.m_7700_(VoxelShapeAlignedCuboidOffset.java:136) ~[?:?]
+	at net.minecraft.world.phys.shapes.Shapes.m_83148_(Shapes.java:148) ~[?:?]
+	at com.simibubi.create.content.contraptions.Contraption.lambda$gatherBBsOffThread$25(Contraption.java:1416) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[16May2025 23:12:03.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Sky of Beginning]
