@@ -1,2 +1,9 @@
 [16May2025 00:03:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Sky of Beginning]
 [16May2025 00:35:30.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Vivid Wave]
+[16May2025 00:50:19.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Disconnected
+[16May2025 00:50:19.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
+[16May2025 00:50:28.572] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[16May2025 00:50:41.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:40051] logged in with entity id 18073 at (-4079.8032535796397, 67.0, 4118.441571919091)
+[16May2025 00:50:42.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[16May2025 00:50:42.119] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[16May2025 00:50:42.120] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
