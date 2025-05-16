@@ -13591,6 +13591,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 00:29:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/magenta_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 00:03:30 +0000"
@@ -13807,6 +13813,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2025-05-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/dark_oak_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2025-05-15 23:09:51 +0000"
@@ -13939,6 +13951,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 00:26:17 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-15 23:09:50 +0000"
@@ -13948,6 +13966,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-15 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2025-05-16 00:29:15 +0000"
     },
     "done": true
   },
@@ -13993,6 +14017,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 00:29:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/red_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 00:03:32 +0000"
@@ -14023,6 +14053,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-05-16 00:29:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/orange_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 00:04:09 +0000"
@@ -14038,6 +14074,12 @@
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-05-15 23:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-16 00:22:02 +0000"
     },
     "done": true
   },
@@ -14143,6 +14185,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-05-16 00:26:17 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/spruce_logs_to_boats": {
     "criteria": {
       "has_log": "2025-05-15 23:09:50 +0000"
@@ -14188,6 +14236,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-15 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 00:29:03 +0000"
     },
     "done": true
   },
