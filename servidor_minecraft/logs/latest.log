@@ -3378,3 +3378,14 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [16May2025 23:28:46.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Inner Arts]
 [16May2025 23:39:01.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Crime in Town]
 [16May2025 23:39:50.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Drop Pop Candy]
+[16May2025 23:44:52.067] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BURPIX is 6fed3f05-bff7-4353-b404-ff9663cb4625
+[16May2025 23:45:03.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BURPIX[/127.205.129.119:33319] logged in with entity id 41165 at (-4107.676021478386, 68.5, -7.8463892095871834)
+[16May2025 23:45:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX joined the game
+[16May2025 23:45:04.061] [Server thread/INFO] [Jade/]: Syncing config to BURPIX (6fed3f05-bff7-4353-b404-ff9663cb4625)
+[16May2025 23:45:04.064] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5
+[16May2025 23:45:44.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BURPIX> wenas
+[16May2025 23:46:13.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> hola
+[16May2025 23:47:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Vivid Wave]
+[16May2025 23:47:58.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> holas
+[16May2025 23:49:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [HAMMAH!]
+[16May2025 23:53:10.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Those Were the Days]

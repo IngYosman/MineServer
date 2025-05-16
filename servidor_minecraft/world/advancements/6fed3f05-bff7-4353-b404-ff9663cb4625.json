@@ -14414,9 +14414,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "create:copper_casing": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-05-13 23:10:28 +0000"
+      "0": "2025-05-13 22:55:41 +0000"
     },
     "done": true
   },
@@ -14426,87 +14426,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-13 23:10:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-13 23:10:26 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
-    "criteria": {
-      "has_armor": "2025-05-13 23:10:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2025-05-13 22:57:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
-    "criteria": {
-      "has_raiser_armor_trim_smithing_template": "2025-05-13 23:10:28 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_door": {
     "criteria": {
       "has_item": "2025-05-13 22:55:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/host_armor_trim_smithing_template": {
-    "criteria": {
-      "has_host_armor_trim_smithing_template": "2025-05-13 23:10:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-05-13 23:10:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-13 23:10:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-13 23:10:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-05-13 23:10:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-05-13 22:57:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-13 23:10:28 +0000"
-    },
-    "done": true
-  },
-  "create:copper_casing": {
-    "criteria": {
-      "0": "2025-05-13 22:55:41 +0000"
     },
     "done": true
   },
@@ -14516,21 +14438,21 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
+  "create:recipes/misc/crafting/kinetics/item_drain": {
     "criteria": {
-      "has_armor": "2025-05-13 23:10:58 +0000"
+      "has_item": "2025-05-13 22:55:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+  "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
-      "has_ward_armor_trim_smithing_template": "2025-05-13 23:10:27 +0000"
+      "has_dried_kelp": "2025-05-13 22:57:29 +0000"
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
-      "has_armor": "2025-05-13 23:10:54 +0000"
+      "has_dried_kelp": "2025-05-13 22:57:29 +0000"
     },
     "done": true
   },
@@ -14540,15 +14462,111 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_item": "2025-05-13 22:55:46 +0000"
+      "has_smithing_trim_template": "2025-05-13 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-13 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-13 23:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template": {
+    "criteria": {
+      "has_host_armor_trim_smithing_template": "2025-05-13 23:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-13 23:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-05-13 23:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-13 23:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
+    "criteria": {
+      "has_raiser_armor_trim_smithing_template": "2025-05-13 23:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-13 23:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-13 23:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-13 23:10:54 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+    "criteria": {
+      "has_armor": "2025-05-13 23:10:54 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
+    "criteria": {
+      "has_armor": "2025-05-13 23:10:55 +0000"
     },
     "done": true
   },
   "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
     "criteria": {
       "has_armor": "2025-05-13 23:10:55 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-05-13 23:10:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-05-16 23:49:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2025-05-16 23:49:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-05-16 23:49:13 +0000"
     },
     "done": true
   },
