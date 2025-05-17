@@ -11570,6 +11570,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/hourglass": {
+    "criteria": {
+      "has_item": "2025-05-17 02:13:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/lime_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 23:14:58 +0000"
@@ -11990,6 +11996,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/vial": {
+    "criteria": {
+      "has_item": "2025-05-17 02:13:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/orange_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 23:15:02 +0000"
@@ -12101,6 +12113,12 @@
   "botania:recipes/redstone/mana_spreader": {
     "criteria": {
       "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/mana_glass_pane": {
+    "criteria": {
+      "has_item": "2025-05-17 02:13:53 +0000"
     },
     "done": true
   },
