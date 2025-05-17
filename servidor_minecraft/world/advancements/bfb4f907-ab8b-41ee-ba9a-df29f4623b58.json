@@ -11600,6 +11600,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-05-17 02:08:08 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-05-16 23:12:03 +0000"
@@ -11795,6 +11801,12 @@
   "croptopia:recipes/oatmeal": {
     "criteria": {
       "has_milk": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2025-05-17 02:08:08 +0000"
     },
     "done": true
   },
