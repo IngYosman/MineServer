@@ -15585,5 +15585,119 @@
     },
     "done": true
   },
+  "botania:recipes/misc/lens_speed": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_weight": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_power": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_phantom": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_magnet": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_messenger": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_bounce": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_paint": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_fire": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_light_alt": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_piston": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_gravity": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_damage": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_efficiency": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_time": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_explosive": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_influence": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_mine": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_light": {
+    "criteria": {
+      "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
