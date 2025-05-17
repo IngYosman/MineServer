@@ -15756,6 +15756,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_thermalily": {
+    "criteria": {
+      "has_item": "2025-05-17 01:48:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/mana_glass_pane": {
     "criteria": {
       "has_item": "2025-05-17 00:56:34 +0000"
