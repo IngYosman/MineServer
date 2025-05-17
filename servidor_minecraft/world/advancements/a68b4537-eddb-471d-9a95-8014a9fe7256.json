@@ -13874,7 +13874,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2025-05-15 23:27:16 +0000"
+      "minecraft:sheep": "2025-05-15 23:27:16 +0000",
+      "minecraft:chicken": "2025-05-17 01:02:00 +0000"
     },
     "done": false
   },
@@ -15129,7 +15130,9 @@
   "mythicbotany:mythicbotany/all_runes": {
     "criteria": {
       "inventory_changed14": "2025-05-16 23:39:50 +0000",
+      "inventory_changed": "2025-05-17 01:06:35 +0000",
       "inventory_changed5": "2025-05-16 23:39:56 +0000",
+      "inventory_changed3": "2025-05-17 01:09:08 +0000",
       "inventory_changed9": "2025-05-16 23:44:40 +0000"
     },
     "done": false
@@ -15639,6 +15642,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/bellows": {
+    "criteria": {
+      "has_item": "2025-05-17 01:06:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/temperance_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 01:09:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_paint": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
@@ -15681,6 +15696,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-17 01:02:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_time": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
@@ -15690,6 +15711,12 @@
   "botania:recipes/building_blocks/mana_quartz": {
     "criteria": {
       "has_item": "2025-05-17 00:55:50 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2025-05-17 01:02:06 +0000"
     },
     "done": true
   },
@@ -15705,6 +15732,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dirt_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 01:09:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_influence": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
@@ -15717,15 +15750,33 @@
     },
     "done": true
   },
+  "botania:recipes/tools/slingshot": {
+    "criteria": {
+      "has_item": "2025-05-17 01:06:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/mana_glass_pane": {
     "criteria": {
       "has_item": "2025-05-17 00:56:34 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/tornado_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 01:06:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_light": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-05-17 01:02:06 +0000"
     },
     "done": true
   },

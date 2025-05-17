@@ -11366,6 +11366,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2025-05-17 01:08:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/polished_livingrock": {
     "criteria": {
       "has_item": "2025-05-16 23:45:18 +0000"
@@ -11413,6 +11419,12 @@
       "has_item": "2025-05-16 23:57:53 +0000"
     },
     "done": true
+  },
+  "mythicbotany:mythicbotany/all_runes": {
+    "criteria": {
+      "inventory_changed3": "2025-05-17 01:08:59 +0000"
+    },
+    "done": false
   },
   "botania:recipes/decorations/apothecary_livingrock": {
     "criteria": {
@@ -11588,6 +11600,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/temperance_stone": {
+    "criteria": {
+      "has_item": "2025-05-17 01:08:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/brown_petal_block": {
     "criteria": {
       "has_item": "2025-05-17 00:38:33 +0000"
@@ -11705,6 +11723,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "rune": "2025-05-17 01:08:59 +0000"
     },
     "done": true
   },
@@ -11900,6 +11924,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dirt_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 01:08:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_yellow": {
     "criteria": {
       "has_item": "2025-05-16 23:57:53 +0000"
@@ -12029,6 +12059,12 @@
   "botania:recipes/decorations/blue_petal_block": {
     "criteria": {
       "has_item": "2025-05-16 23:33:16 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2025-05-17 01:08:59 +0000"
     },
     "done": true
   },
