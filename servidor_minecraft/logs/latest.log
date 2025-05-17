@@ -82,3 +82,7 @@
 [17May2025 03:00:46.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> bro zzz
 [17May2025 03:01:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> ya no xd
 [17May2025 03:09:27.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DStevenTy moved too quickly! 0.0,396.1251276254468,0.0
+[17May2025 03:15:04.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [The Parrots and the Bats]
+[17May2025 03:19:04.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DStevenTy> zzzzz
+[17May2025 03:19:42.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=69, z=4097} BlockPos{x=55, y=67, z=4095}
+[17May2025 03:20:25.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=61, y=68, z=4100} BlockPos{x=59, y=67, z=4099}

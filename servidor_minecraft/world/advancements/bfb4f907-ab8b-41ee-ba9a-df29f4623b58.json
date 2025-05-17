@@ -11342,6 +11342,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/tools/force_arrow": {
+    "criteria": {
+      "has_feather": "2025-05-17 03:15:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/doughnut": {
     "criteria": {
       "has_milk": "2025-05-16 23:11:58 +0000"
@@ -11687,6 +11693,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-05-17 03:15:04 +0000"
+    },
+    "done": false
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-05-16 23:12:03 +0000"
@@ -11939,6 +11951,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-17 03:15:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-17 03:15:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/spark_upgrade_dispersive": {
     "criteria": {
       "has_alt_item": "2025-05-17 02:22:35 +0000"
@@ -12158,6 +12182,12 @@
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2025-05-16 23:15:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2025-05-17 03:15:25 +0000"
     },
     "done": true
   },
@@ -12404,6 +12434,12 @@
   "botania:recipes/misc/petal_light_gray_double": {
     "criteria": {
       "has_alt_item": "2025-05-17 00:38:40 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-05-17 03:15:25 +0000"
     },
     "done": true
   },
