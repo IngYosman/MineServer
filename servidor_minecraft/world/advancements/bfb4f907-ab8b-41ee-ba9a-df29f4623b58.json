@@ -11432,6 +11432,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-17 00:04:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_blue": {
     "criteria": {
       "has_item": "2025-05-16 23:33:16 +0000"
@@ -11747,6 +11753,12 @@
   "botania:recipes/misc/petal_light_blue_double": {
     "criteria": {
       "has_alt_item": "2025-05-16 23:55:05 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-17 00:04:02 +0000"
     },
     "done": true
   },
