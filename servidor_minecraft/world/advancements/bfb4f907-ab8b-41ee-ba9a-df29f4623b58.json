@@ -11552,6 +11552,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-05-17 02:24:48 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/misc/yggdrasil_branch": {
     "criteria": {
       "criterion0": "2025-05-16 23:42:36 +0000"
@@ -11690,6 +11696,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/spark_upgrade_isolated": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:22:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_brown_double": {
     "criteria": {
       "has_alt_item": "2025-05-17 00:38:33 +0000"
@@ -11714,9 +11726,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/spark_upgrade_dominant": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:22:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/incense_plate": {
     "criteria": {
       "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/spark_upgrade_recessive": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:22:35 +0000"
     },
     "done": true
   },
@@ -11819,6 +11843,12 @@
   "botania:recipes/tools/tiny_planet": {
     "criteria": {
       "has_item": "2025-05-17 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark_upgrade_dispersive": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:22:35 +0000"
     },
     "done": true
   },
@@ -11933,6 +11963,12 @@
   "botania:recipes/misc/petal_light_blue": {
     "criteria": {
       "has_item": "2025-05-16 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-17 02:29:10 +0000"
     },
     "done": true
   },
@@ -12083,6 +12119,12 @@
   "botania:recipes/decorations/yellow_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 23:14:58 +0000"
+    },
+    "done": true
+  },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2025-05-17 02:22:35 +0000"
     },
     "done": true
   },

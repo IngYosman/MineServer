@@ -15600,6 +15600,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-17 02:23:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_power": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
@@ -15648,15 +15654,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-05-17 02:30:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/temperance_stone": {
     "criteria": {
       "has_item": "2025-05-17 01:09:08 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/spark_upgrade_isolated": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:23:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_paint": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/spark_upgrade_dominant": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:23:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/spark_upgrade_recessive": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:23:44 +0000"
     },
     "done": true
   },
@@ -15696,9 +15726,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-17 02:23:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-05-17 01:02:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark_upgrade_dispersive": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:23:44 +0000"
     },
     "done": true
   },
@@ -15732,6 +15774,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:23:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2025-05-17 02:23:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dirt_rod": {
     "criteria": {
       "has_item": "2025-05-17 01:09:08 +0000"
@@ -15750,6 +15804,12 @@
     },
     "done": true
   },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2025-05-17 02:23:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/slingshot": {
     "criteria": {
       "has_item": "2025-05-17 01:06:35 +0000"
@@ -15759,6 +15819,12 @@
   "botania:recipes/decorations/floating_thermalily": {
     "criteria": {
       "has_item": "2025-05-17 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-05-17 02:29:07 +0000"
     },
     "done": true
   },
