@@ -11312,9 +11312,51 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "croptopia:recipes/doughnut": {
     "criteria": {
-      "has_any_ingredient": "2025-05-17 03:01:32 +0000"
+      "has_milk": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-16 23:11:58 +0000"
     },
     "done": true
   },
@@ -11324,135 +11366,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/aura_ring": {
-    "criteria": {
-      "has_item": "2025-05-17 02:35:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_cyan_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:56:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/yellow_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-16 23:57:53 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/tools/force_arrow": {
-    "criteria": {
-      "has_feather": "2025-05-17 03:15:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/doughnut": {
-    "criteria": {
-      "has_milk": "2025-05-16 23:11:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/blood_pendant": {
-    "criteria": {
-      "has_item": "2025-05-17 02:53:43 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/white_pavement": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-16 23:56:45 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-05-16 23:12:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-17 00:38:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_void": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/terra_plate": {
-    "criteria": {
-      "has_item": "2025-05-17 01:08:59 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/polished_livingrock": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/purple_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/third_eye": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/incense_stick": {
-    "criteria": {
-      "has_item": "2025-05-17 02:53:43 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_orange": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/mana_detector": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_relay": {
-    "criteria": {
-      "has_base_block": "2025-05-16 23:51:30 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/phantom_ink": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_endoflame": {
-    "criteria": {
-      "has_item": "2025-05-17 00:39:05 +0000"
     },
     "done": true
   },
@@ -11462,15 +11378,663 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-05-16 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-16 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2025-05-16 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:12:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:12:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:12:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_gray": {
+    "criteria": {
+      "has_item": "2025-05-16 23:12:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:12:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-05-16 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2025-05-16 23:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:14:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:14:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow": {
+    "criteria": {
+      "has_item": "2025-05-16 23:14:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-05-16 23:15:32 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-05-16 23:23:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2025-05-16 23:32:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2025-05-16 23:33:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:33:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:33:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:33:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:35:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:35:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-05-16 23:35:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:35:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2025-05-16 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2025-05-16 23:38:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 23:39:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/yggdrasil_branch": {
+    "criteria": {
+      "criterion0": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2025-05-16 23:42:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2025-05-16 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2025-05-16 23:47:39 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2025-05-16 23:47:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2025-05-16 23:51:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2025-05-16 23:51:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:55:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:55:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_blue": {
+    "criteria": {
+      "has_item": "2025-05-16 23:55:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:55:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:56:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:56:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2025-05-16 23:56:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:56:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2025-05-16 23:57:01 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-05-16 23:57:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/yellow_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:57:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/yellow_petal_block": {
     "criteria": {
       "has_item": "2025-05-16 23:57:53 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/shaped_netherwart_stew": {
+  "botania:recipes/misc/dye_yellow": {
     "criteria": {
-      "has_nether_wart": "2025-05-17 02:53:46 +0000"
+      "has_item": "2025-05-16 23:57:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:57:53 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-17 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-17 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 00:38:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 00:38:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2025-05-17 00:39:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2025-05-17 01:08:59 +0000"
     },
     "done": true
   },
@@ -11484,69 +12048,51 @@
     },
     "done": false
   },
-  "botania:recipes/decorations/apothecary_livingrock": {
+  "botania:recipes/tools/temperance_stone": {
     "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
+      "has_item": "2025-05-17 01:08:59 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/light_gray_shiny_flower": {
+  "botania:main/runic_altar_pickup": {
     "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
+      "rune": "2025-05-17 01:08:59 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/smelt_rod": {
+  "botania:recipes/tools/dirt_rod": {
     "criteria": {
-      "has_item": "2025-05-17 02:59:34 +0000"
+      "has_item": "2025-05-17 01:08:59 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/light_blue_shiny_flower": {
+  "botania:main/rune_pickup": {
     "criteria": {
-      "has_item": "2025-05-16 23:12:03 +0000"
+      "rune": "2025-05-17 01:08:59 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/floating_hydroangeas": {
+  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
     "criteria": {
-      "has_item": "2025-05-16 23:57:01 +0000"
+      "has_item": "2025-05-17 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/third_eye": {
+    "criteria": {
+      "has_item": "2025-05-17 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2025-05-17 01:27:15 +0000"
     },
     "done": true
   },
   "botania:recipes/decorations/runic_altar_alt": {
     "criteria": {
       "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_cyan": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/red_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-17 00:38:35 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/cobble_rod": {
-    "criteria": {
-      "has_alt_item": "2025-05-17 02:49:02 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/mob_charm": {
-    "criteria": {
-      "has_mob_charm_fragment": "2025-05-17 00:04:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_blue": {
-    "criteria": {
-      "has_item": "2025-05-16 23:33:16 +0000"
     },
     "done": true
   },
@@ -11562,87 +12108,9 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/livingrock_slate": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/water_rod": {
-    "criteria": {
-      "has_item": "2025-05-17 02:49:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/churros": {
-    "criteria": {
-      "has_milk": "2025-05-16 23:11:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-16 23:12:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingwood": {
-    "criteria": {
-      "has_log": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-16 23:35:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/magenta_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:50 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/diluted_pool": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:main/bauble_wear": {
-    "criteria": {
-      "code_triggered": "2025-05-17 02:24:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-17 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:recipes/misc/yggdrasil_branch": {
-    "criteria": {
-      "criterion0": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/abstruse_platform": {
     "criteria": {
       "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/glowing_water": {
-    "criteria": {
-      "has_nether_wart": "2025-05-17 02:53:46 +0000"
     },
     "done": true
   },
@@ -11652,111 +12120,9 @@
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/lapis_block_1x": {
-    "criteria": {
-      "has_lapis_block": "2025-05-17 03:23:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/hourglass": {
-    "criteria": {
-      "has_item": "2025-05-17 02:13:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/lime_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:14:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-16 23:11:58 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/mana_tablet": {
     "criteria": {
       "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_cyan": {
-    "criteria": {
-      "has_item": "2025-05-16 23:56:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_red_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-17 00:38:35 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_mirror": {
-    "criteria": {
-      "has_item": "2025-05-17 02:08:08 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/bellows": {
-    "criteria": {
-      "has_item": "2025-05-17 03:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-05-17 03:15:04 +0000"
-    },
-    "done": false
-  },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-05-16 23:12:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-17 00:38:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/turntable": {
-    "criteria": {
-      "has_item": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_white": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:04 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/pink_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/gray_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_magenta": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:50 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_green": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
     },
     "done": true
   },
@@ -11766,147 +12132,9 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/livingwood_planks": {
-    "criteria": {
-      "has_item": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/temperance_stone": {
-    "criteria": {
-      "has_item": "2025-05-17 01:08:59 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brown_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-17 00:38:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/spark_upgrade_isolated": {
-    "criteria": {
-      "has_alt_item": "2025-05-17 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-05-17 02:53:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_brown_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-17 00:38:33 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-05-17 02:53:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/glimmering_livingwood_log": {
-    "criteria": {
-      "has_item": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_red": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:17 +0000"
-    },
-    "done": true
-  },
-  "botania:main/apothecary_pickup": {
-    "criteria": {
-      "apothecary": "2025-05-16 23:23:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/spark_upgrade_dominant": {
-    "criteria": {
-      "has_alt_item": "2025-05-17 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/incense_plate": {
-    "criteria": {
-      "has_item": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/spark_upgrade_recessive": {
-    "criteria": {
-      "has_alt_item": "2025-05-17 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/mashed_potatoes": {
-    "criteria": {
-      "has_milk": "2025-05-16 23:11:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/livingwood_twig": {
-    "criteria": {
-      "has_item": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
-  "botania:main/mana_pool_pickup_lexicon": {
-    "criteria": {
-      "pickup": "2025-05-16 23:47:39 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_pure_daisy": {
-    "criteria": {
-      "has_item": "2025-05-16 23:38:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/crime_in_town": {
-    "criteria": {
-      "coded_trigger": "2025-05-16 23:39:01 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2025-05-16 23:12:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
       "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/livingrock_wall": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
     },
     "done": true
   },
@@ -11922,33 +12150,57 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/redstone_spreader": {
+  "botania:recipes/tools/tiny_planet": {
     "criteria": {
-      "has_item": "2025-05-16 23:51:30 +0000"
+      "has_item": "2025-05-17 01:27:15 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_pink": {
+  "botania:recipes/tools/crafting_halo": {
     "criteria": {
-      "has_item": "2025-05-16 23:15:03 +0000"
+      "has_item": "2025-05-17 01:27:15 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/dye_light_gray": {
+  "botania:recipes/decorations/runic_altar": {
     "criteria": {
-      "has_item": "2025-05-17 00:38:40 +0000"
+      "has_item": "2025-05-17 01:27:15 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+  "botania:recipes/tools/auto_crafting_halo": {
     "criteria": {
-      "has_item": "2025-05-16 23:33:16 +0000"
+      "has_item": "2025-05-17 01:27:15 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/oatmeal": {
+  "botania:recipes/building_blocks/mana_diamond_block": {
     "criteria": {
-      "has_milk": "2025-05-16 23:11:58 +0000"
+      "has_item": "2025-05-17 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2025-05-17 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/divining_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-05-17 02:08:08 +0000"
     },
     "done": true
   },
@@ -11958,21 +12210,39 @@
     },
     "done": true
   },
-  "botania:recipes/tools/tiny_planet": {
+  "botania:recipes/redstone/hourglass": {
     "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
+      "has_item": "2025-05-17 02:13:53 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "botania:recipes/misc/vial": {
     "criteria": {
-      "bred": "2025-05-17 03:15:04 +0000"
+      "has_item": "2025-05-17 02:13:53 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/feather_block": {
+  "botania:recipes/misc/mana_glass_pane": {
     "criteria": {
-      "has_feather": "2025-05-17 03:15:25 +0000"
+      "has_item": "2025-05-17 02:13:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/spark_upgrade_isolated": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/spark_upgrade_dominant": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/spark_upgrade_recessive": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:22:35 +0000"
     },
     "done": true
   },
@@ -11982,9 +12252,129 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
+  "botania:main/spark_craft": {
     "criteria": {
-      "has_any_ingredient": "2025-05-16 23:11:58 +0000"
+      "spark": "2025-05-17 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-05-17 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-17 02:29:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/aura_ring": {
+    "criteria": {
+      "has_item": "2025-05-17 02:35:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_item": "2025-05-17 02:35:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cobble_rod": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 02:49:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 02:49:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-05-17 02:53:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-05-17 02:53:43 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/alfsteel_pylon": {
+    "criteria": {
+      "criterion2": "2025-05-17 02:53:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-05-17 02:53:46 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-05-17 02:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-17 02:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-17 02:53:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/smelt_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/fire_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
     },
     "done": true
   },
@@ -12021,276 +12411,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-05-17 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "botania:main/runic_altar_pickup": {
-    "criteria": {
-      "rune": "2025-05-17 01:08:59 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brewery": {
-    "criteria": {
-      "has_item": "2025-05-17 02:35:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_blue_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-16 23:55:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/cyan_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-16 23:56:45 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_milk_bottle": {
-    "criteria": {
-      "has_milk": "2025-05-16 23:11:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/green_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_gray": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:12:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brown_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:14:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/horn_grass": {
-    "criteria": {
-      "has_item": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/crafting_halo": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_pool": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_blue_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:33:16 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/gray_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-16 23:12:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_brown": {
-    "criteria": {
-      "has_item": "2025-05-17 00:38:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/blue_pavement": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
-    },
-    "done": true
-  },
-  "botania:main/pure_daisy_pickup": {
-    "criteria": {
-      "daisy": "2025-05-16 23:38:24 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/red_pavement": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue": {
-    "criteria": {
-      "has_item": "2025-05-16 23:12:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-17 02:29:10 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:recipes/misc/alfsteel_pylon": {
-    "criteria": {
-      "criterion2": "2025-05-17 02:53:43 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:55:05 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_belt": {
-    "criteria": {
-      "has_mob_charm_fragment": "2025-05-17 00:04:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/white_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-16 23:35:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_gray_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-17 00:38:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/black_pavement": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/red_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:17 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/livingwood_bow": {
-    "criteria": {
-      "has_twig": "2025-05-16 23:44:55 +0000"
-    },
-    "done": true
-  },
-  "botania:main/lexicon_use": {
-    "criteria": {
-      "use_lexicon": "2025-05-16 23:15:32 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
-    "criteria": {
-      "has_feather": "2025-05-17 03:15:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/white_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:04 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_white": {
-    "criteria": {
-      "has_item": "2025-05-16 23:35:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/vial": {
-    "criteria": {
-      "has_item": "2025-05-17 02:13:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/orange_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/black_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:14:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingrock_slab": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-17 00:38:35 +0000"
-    },
-    "done": true
-  },
-  "botania:main/mana_pool_pickup": {
-    "criteria": {
-      "pickup": "2025-05-16 23:47:39 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/yellow_pavement": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dirt_rod": {
-    "criteria": {
-      "has_item": "2025-05-17 01:08:59 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/auto_crafting_halo": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_yellow": {
-    "criteria": {
-      "has_item": "2025-05-16 23:57:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/green_pavement": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_purple": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
     },
     "done": true
   },
@@ -12354,111 +12474,33 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_yellow_double": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_alt_item": "2025-05-16 23:57:53 +0000"
+      "minecraft:chicken": "2025-05-17 03:15:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-17 03:15:04 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/yellow_shiny_flower": {
+  "forcecraft:recipes/tools/force_arrow": {
     "criteria": {
-      "has_item": "2025-05-16 23:14:58 +0000"
+      "has_feather": "2025-05-17 03:15:25 +0000"
     },
     "done": true
   },
-  "botania:main/spark_craft": {
+  "supplementaries:recipes/feather_block": {
     "criteria": {
-      "spark": "2025-05-17 02:22:35 +0000"
+      "has_feather": "2025-05-17 03:15:25 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_black": {
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
     "criteria": {
-      "has_item": "2025-05-16 23:14:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/fire_rod": {
-    "criteria": {
-      "has_item": "2025-05-17 02:59:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-05-16 23:11:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/slingshot": {
-    "criteria": {
-      "has_item": "2025-05-17 03:21:20 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/cyan_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_blue": {
-    "criteria": {
-      "has_item": "2025-05-16 23:32:31 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/mana_spreader": {
-    "criteria": {
-      "has_item": "2025-05-16 23:42:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/mana_glass_pane": {
-    "criteria": {
-      "has_item": "2025-05-17 02:13:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/mana_diamond_block": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/tornado_rod": {
-    "criteria": {
-      "has_item": "2025-05-17 03:21:20 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingrock_stairs": {
-    "criteria": {
-      "has_item": "2025-05-16 23:45:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_light_blue": {
-    "criteria": {
-      "has_item": "2025-05-16 23:55:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/tiny_planet_block": {
-    "criteria": {
-      "has_alt_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-16 23:55:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-17 00:38:40 +0000"
+      "has_feather": "2025-05-17 03:15:25 +0000"
     },
     "done": true
   },
@@ -12468,75 +12510,33 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_yellow": {
+  "botania:recipes/decorations/bellows": {
     "criteria": {
-      "has_item": "2025-05-16 23:14:58 +0000"
+      "has_item": "2025-05-17 03:21:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/slingshot": {
+    "criteria": {
+      "has_item": "2025-05-17 03:21:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tornado_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 03:21:20 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/lapis_block_1x": {
+    "criteria": {
+      "has_lapis_block": "2025-05-17 03:23:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-05-17 03:23:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/invisibility_cloak": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_white_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:35:54 +0000"
-    },
-    "done": true
-  },
-  "botania:main/generating_flower": {
-    "criteria": {
-      "flower": "2025-05-16 23:57:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_gray": {
-    "criteria": {
-      "has_item": "2025-05-16 23:12:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_brown": {
-    "criteria": {
-      "has_item": "2025-05-16 23:14:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_red": {
-    "criteria": {
-      "has_item": "2025-05-17 00:38:35 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_gray_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:12:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/divining_rod": {
-    "criteria": {
-      "has_item": "2025-05-17 01:27:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/blue_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-16 23:33:16 +0000"
-    },
-    "done": true
-  },
-  "botania:main/rune_pickup": {
-    "criteria": {
-      "rune": "2025-05-17 01:08:59 +0000"
     },
     "done": true
   },
