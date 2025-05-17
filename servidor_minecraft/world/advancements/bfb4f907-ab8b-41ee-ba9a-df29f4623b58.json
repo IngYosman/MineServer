@@ -11312,6 +11312,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-05-16 23:12:03 +0000"
@@ -11561,6 +11567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/churros": {
     "criteria": {
       "has_milk": "2025-05-16 23:11:58 +0000"
@@ -11600,6 +11612,12 @@
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2025-05-17 02:24:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 03:01:32 +0000"
     },
     "done": true
   },
@@ -11741,6 +11759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_light_gray": {
     "criteria": {
       "has_item": "2025-05-16 23:32:31 +0000"
@@ -11762,6 +11786,12 @@
   "botania:recipes/misc/petal_brown_double": {
     "criteria": {
       "has_alt_item": "2025-05-17 00:38:33 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-17 03:01:32 +0000"
     },
     "done": true
   },
@@ -11918,6 +11948,42 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-05-16 23:11:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
     },
     "done": true
   },
@@ -12182,6 +12248,66 @@
   "botania:recipes/misc/petal_purple": {
     "criteria": {
       "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 03:01:32 +0000"
     },
     "done": true
   },
