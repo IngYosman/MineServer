@@ -11354,6 +11354,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_void": {
     "criteria": {
       "has_item": "2025-05-16 23:45:18 +0000"
@@ -11387,6 +11393,12 @@
   "botania:recipes/redstone/red_string_relay": {
     "criteria": {
       "has_base_block": "2025-05-16 23:51:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2025-05-17 00:39:05 +0000"
     },
     "done": true
   },
@@ -11429,6 +11441,12 @@
   "botania:recipes/misc/petal_cyan": {
     "criteria": {
       "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:35 +0000"
     },
     "done": true
   },
@@ -11510,9 +11528,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 00:38:35 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-05-16 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:40 +0000"
     },
     "done": true
   },
@@ -11558,9 +11588,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_light_gray": {
     "criteria": {
       "has_item": "2025-05-16 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 00:38:33 +0000"
     },
     "done": true
   },
@@ -11642,6 +11684,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-16 23:33:16 +0000"
@@ -11720,6 +11768,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/blue_pavement": {
     "criteria": {
       "has_item": "2025-05-16 23:45:18 +0000"
@@ -11765,6 +11819,12 @@
   "botania:recipes/decorations/white_petal_block": {
     "criteria": {
       "has_item": "2025-05-16 23:35:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:40 +0000"
     },
     "done": true
   },
@@ -11819,6 +11879,12 @@
   "botania:recipes/building_blocks/livingrock_slab": {
     "criteria": {
       "has_item": "2025-05-16 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:35 +0000"
     },
     "done": true
   },
@@ -11912,6 +11978,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-17 00:38:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_yellow": {
     "criteria": {
       "has_item": "2025-05-16 23:14:58 +0000"
@@ -11939,6 +12011,12 @@
   "botania:recipes/misc/petal_brown": {
     "criteria": {
       "has_item": "2025-05-16 23:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2025-05-17 00:38:35 +0000"
     },
     "done": true
   },
