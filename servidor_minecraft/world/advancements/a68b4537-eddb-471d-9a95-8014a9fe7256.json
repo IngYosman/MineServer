@@ -15621,6 +15621,18 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/lapis_block_1x": {
+    "criteria": {
+      "has_lapis_block": "2025-05-17 00:57:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/hourglass": {
+    "criteria": {
+      "has_item": "2025-05-17 00:56:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_bounce": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
@@ -15675,9 +15687,21 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/mana_quartz": {
+    "criteria": {
+      "has_item": "2025-05-17 00:55:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_explosive": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/vial": {
+    "criteria": {
+      "has_item": "2025-05-17 00:56:34 +0000"
     },
     "done": true
   },
@@ -15693,9 +15717,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/mana_glass_pane": {
+    "criteria": {
+      "has_item": "2025-05-17 00:56:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_light": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-17 00:57:47 +0000"
     },
     "done": true
   },
