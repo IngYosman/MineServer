@@ -11318,6 +11318,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/aura_ring": {
+    "criteria": {
+      "has_item": "2025-05-17 02:35:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_cyan_double": {
     "criteria": {
       "has_alt_item": "2025-05-16 23:56:45 +0000"
@@ -11440,7 +11446,8 @@
   },
   "mythicbotany:mythicbotany/all_runes": {
     "criteria": {
-      "inventory_changed3": "2025-05-17 01:08:59 +0000"
+      "inventory_changed3": "2025-05-17 01:08:59 +0000",
+      "inventory_changed9": "2025-05-17 02:35:46 +0000"
     },
     "done": false
   },
@@ -11861,6 +11868,12 @@
   "botania:main/runic_altar_pickup": {
     "criteria": {
       "rune": "2025-05-17 01:08:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_item": "2025-05-17 02:35:46 +0000"
     },
     "done": true
   },
