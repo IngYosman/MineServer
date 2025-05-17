@@ -11477,6 +11477,7 @@
   "mythicbotany:mythicbotany/all_runes": {
     "criteria": {
       "inventory_changed14": "2025-05-17 02:49:02 +0000",
+      "inventory_changed": "2025-05-17 03:21:20 +0000",
       "inventory_changed5": "2025-05-17 02:59:34 +0000",
       "inventory_changed3": "2025-05-17 01:08:59 +0000",
       "inventory_changed9": "2025-05-17 02:35:46 +0000"
@@ -11651,6 +11652,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/lapis_block_1x": {
+    "criteria": {
+      "has_lapis_block": "2025-05-17 03:23:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/hourglass": {
     "criteria": {
       "has_item": "2025-05-17 02:13:53 +0000"
@@ -11690,6 +11697,12 @@
   "botania:recipes/tools/mana_mirror": {
     "criteria": {
       "has_item": "2025-05-17 02:08:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/bellows": {
+    "criteria": {
+      "has_item": "2025-05-17 03:21:20 +0000"
     },
     "done": true
   },
@@ -12377,6 +12390,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/slingshot": {
+    "criteria": {
+      "has_item": "2025-05-17 03:21:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/cyan_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-16 23:32:31 +0000"
@@ -12404,6 +12423,12 @@
   "botania:recipes/building_blocks/mana_diamond_block": {
     "criteria": {
       "has_item": "2025-05-17 01:27:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tornado_rod": {
+    "criteria": {
+      "has_item": "2025-05-17 03:21:20 +0000"
     },
     "done": true
   },
@@ -12446,6 +12471,12 @@
   "botania:recipes/misc/petal_yellow": {
     "criteria": {
       "has_item": "2025-05-16 23:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-17 03:23:54 +0000"
     },
     "done": true
   },

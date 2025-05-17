@@ -15594,6 +15594,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manaweave_leggings": {
+    "criteria": {
+      "has_item": "2025-05-17 03:26:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_weight": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
@@ -15612,9 +15618,21 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manaweave_helmet": {
+    "criteria": {
+      "has_item": "2025-05-17 03:26:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_phantom": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manaweave_boots": {
+    "criteria": {
+      "has_item": "2025-05-17 03:26:40 +0000"
     },
     "done": true
   },
@@ -15642,6 +15660,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manaweave_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-17 03:26:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_bounce": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
@@ -15657,6 +15681,12 @@
   "supplementaries:recipes/soap/piston": {
     "criteria": {
       "has_sticky_piston": "2025-05-17 02:30:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/teru_teru_bozu": {
+    "criteria": {
+      "has_item": "2025-05-17 03:26:40 +0000"
     },
     "done": true
   },
@@ -15756,6 +15786,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/spell_cloth": {
+    "criteria": {
+      "has_item": "2025-05-17 03:26:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
     "criteria": {
       "has_feather": "2025-05-17 01:02:06 +0000"
@@ -15801,6 +15837,12 @@
   "botania:recipes/misc/lens_mine": {
     "criteria": {
       "has_item": "2025-05-17 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "botania:main/manaweave_armor_craft": {
+    "criteria": {
+      "head": "2025-05-17 03:30:02 +0000"
     },
     "done": true
   },
