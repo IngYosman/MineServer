@@ -15,3 +15,10 @@
 [17May2025 00:18:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Your First Grave]
 [17May2025 00:18:21.152] [Server thread/INFO] [tombstone/]: The player XFetch has successfully been saved
 [17May2025 00:18:43.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> :(
+[17May2025 00:24:37.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XFetch lost connection: Disconnected
+[17May2025 00:24:37.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch left the game
+[17May2025 00:27:58.254] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XFetch is a68b4537-eddb-471d-9a95-8014a9fe7256
+[17May2025 00:28:10.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XFetch[/127.192.145.92:53769] logged in with entity id 69188 at (-4091.3171297436425, 67.0, 4040.6325129899037)
+[17May2025 00:28:10.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch joined the game
+[17May2025 00:28:10.286] [Server thread/INFO] [Jade/]: Syncing config to XFetch (a68b4537-eddb-471d-9a95-8014a9fe7256)
+[17May2025 00:28:10.288] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-2 unused), uncached profiles: 0, total profiles: 5

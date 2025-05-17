@@ -14574,19 +14574,67 @@
     },
     "done": true
   },
-  "botania:recipes/tools/cloud_pendant": {
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
     "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
+      "has_item": "2025-05-16 23:15:41 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/aura_ring": {
+  "botania:recipes/misc/dye_light_gray": {
     "criteria": {
-      "has_item": "2025-05-16 23:44:40 +0000"
+      "has_item": "2025-05-16 23:15:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:15:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:15:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2025-05-16 23:15:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-16 23:16:16 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
     "criteria": {
       "has_coal_block": "2025-05-16 23:16:16 +0000"
     },
@@ -14598,125 +14646,9 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_dark": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_green_r": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_sword": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_black_bowtie": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-05-17 00:18:21 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/terra_plate": {
-    "criteria": {
-      "has_item": "2025-05-16 23:39:50 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/third_eye": {
     "criteria": {
       "has_item": "2025-05-16 23:20:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/almost_unkillable": {
-    "criteria": {
-      "coded_trigger": "2025-05-17 00:18:21 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/obedience_stick": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_googly_eyes": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-05-17 00:18:21 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_blue_butterfly": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/phantom_ink": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_endoflame": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-05-16 23:59:11 +0000"
-    },
-    "done": true
-  },
-  "mythicbotany:mythicbotany/all_runes": {
-    "criteria": {
-      "inventory_changed14": "2025-05-16 23:39:50 +0000",
-      "inventory_changed5": "2025-05-16 23:39:56 +0000",
-      "inventory_changed9": "2025-05-16 23:44:40 +0000"
-    },
-    "done": false
-  },
-  "botania:recipes/tools/smelt_rod": {
-    "criteria": {
-      "has_item": "2025-05-16 23:39:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/pump": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
@@ -14726,21 +14658,87 @@
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+  "botania:recipes/redstone/avatar": {
+    "criteria": {
+      "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet_alt": {
+    "criteria": {
+      "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_gun": {
+    "criteria": {
+      "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pylon": {
+    "criteria": {
+      "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/goddess_charm": {
+    "criteria": {
+      "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/auto_crafting_halo": {
+    "criteria": {
+      "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mana_diamond_block": {
+    "criteria": {
+      "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/divining_rod": {
+    "criteria": {
+      "has_item": "2025-05-16 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2025-05-16 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_sword": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_dark": {
+  "botania:recipes/tools/obedience_stick": {
     "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/cobble_rod": {
+  "botania:recipes/decorations/pump": {
     "criteria": {
-      "has_alt_item": "2025-05-16 23:39:50 +0000"
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
@@ -14750,111 +14748,9 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_blue_r": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_light": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_light_r": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_pink_flower_bud": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/avatar": {
-    "criteria": {
-      "has_item": "2025-05-16 23:20:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/ender_dagger": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_devil_tail": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_lusitanic_shield": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/water_rod": {
-    "criteria": {
-      "has_item": "2025-05-16 23:39:50 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-05-17 00:08:05 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_black_tie": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_green_r": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_thinking_hand": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:main/bauble_wear": {
-    "criteria": {
-      "code_triggered": "2025-05-16 23:28:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_witch_pin": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/abstruse_platform": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
     },
     "done": true
   },
@@ -14870,123 +14766,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/mana_tablet_alt": {
-    "criteria": {
-      "has_item": "2025-05-16 23:20:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_red_ribbons": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/cobweb": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_tablet": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_mirror": {
-    "criteria": {
-      "has_item": "2025-05-16 23:22:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:41 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-05-17 00:04:50 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
-    "criteria": {
-      "has_gold_block": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_red": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare_gem": {
-    "criteria": {
-      "gem": "2025-05-17 00:08:30 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_unicorn_horn": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_hyper_plus": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/golden_nether_banana": {
-    "criteria": {
-      "has_item": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_gun": {
-    "criteria": {
-      "has_item": "2025-05-16 23:20:03 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-05-17 00:04:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brown_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_brown_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:15:44 +0000"
     },
     "done": true
   },
@@ -15008,21 +14790,9 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_light": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_dark_r": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
     },
     "done": true
   },
@@ -15032,153 +14802,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/alchemy_catalyst": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_pylon": {
-    "criteria": {
-      "has_item": "2025-05-16 23:20:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/goddess_charm": {
-    "criteria": {
-      "has_item": "2025-05-16 23:20:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/dodge_ring": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/glittery_dust": {
-    "criteria": {
-      "has_item": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_eerie_mask": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_light_gray": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:41 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_blue": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-17 00:08:30 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_ring": {
-    "criteria": {
-      "has_item": "2025-05-16 23:22:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_questgiver_mark": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/tiny_planet": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_thick_eyebrows": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_blue": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "botania:main/runic_altar_pickup": {
-    "criteria": {
-      "altar": "2025-05-16 23:30:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_orange_shades": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brewery": {
-    "criteria": {
-      "has_item": "2025-05-16 23:44:40 +0000"
-    },
-    "done": true
-  },
-  "itemcollectors:recipes/misc/advanced_collector": {
-    "criteria": {
-      "recipe_condition": "2025-05-16 23:44:52 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_red_r": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_cat_ears": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
     },
     "done": true
   },
@@ -15188,39 +14814,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/ham_sandwich": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-05-17 00:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_green": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/crafting_halo": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_red": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
     },
     "done": true
   },
@@ -15230,39 +14826,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/cosmetic_red_glasses": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_botanist_emblem": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_brown": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_eyepatch": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/travel_belt": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_four_leaf_clover": {
-    "criteria": {
-      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -15278,33 +14844,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-17 00:05:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/sextant": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_gray_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-16 23:15:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-17 00:04:52 +0000"
     },
     "done": true
   },
@@ -15314,15 +14856,189 @@
     },
     "done": true
   },
-  "apotheosis:affix/epic": {
+  "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
-      "sword": "2025-05-17 00:11:10 +0000"
+      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/bone_block_1x": {
+  "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
-      "has_bone_block": "2025-05-17 00:08:30 +0000"
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-05-16 23:23:02 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-05-16 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "altar": "2025-05-16 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cloud_pendant": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_black_bowtie": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_googly_eyes": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_blue_butterfly": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_pink_flower_bud": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_devil_tail": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_lusitanic_shield": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_black_tie": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_thinking_hand": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_witch_pin": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_red_ribbons": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cobweb": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_unicorn_horn": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_hyper_plus": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_eerie_mask": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_questgiver_mark": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_thick_eyebrows": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_orange_shades": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_cat_ears": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_red_glasses": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_botanist_emblem": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_eyepatch": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_four_leaf_clover": {
+    "criteria": {
+      "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
@@ -15344,88 +15060,15 @@
     },
     "done": true
   },
-  "botania:recipes/combat/manasteel_helmet": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/manaweave_cloth": {
     "criteria": {
       "has_item": "2025-05-16 23:31:49 +0000"
     },
     "done": true
   },
-  "silentgear:nether_plants": {
-    "criteria": {
-      "banana": "2025-05-17 00:04:52 +0000",
-      "sapling": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-05-17 00:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-05-16 23:59:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/glass_pickaxe": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_red_r": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/cosmetic_alien_antenna": {
     "criteria": {
       "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/auto_crafting_halo": {
-    "criteria": {
-      "has_item": "2025-05-16 23:20:03 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-05-17 00:04:50 +0000"
-    },
-    "done": false
-  },
-  "botania:recipes/tools/swap_ring": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_blue_r": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
     },
     "done": true
   },
@@ -15447,51 +15090,9 @@
     },
     "done": true
   },
-  "botania:recipes/combat/fire_rod": {
-    "criteria": {
-      "has_item": "2025-05-16 23:39:56 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_green": {
-    "criteria": {
-      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mining_ring": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_light_r": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
-    "criteria": {
-      "has_coal_block": "2025-05-16 23:16:16 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/cosmetic_ancient_mask": {
     "criteria": {
       "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/mana_diamond_block": {
-    "criteria": {
-      "has_item": "2025-05-16 23:20:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_boots": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
     },
     "done": true
   },
@@ -15507,57 +15108,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/tiny_planet_block": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/lens_normal": {
-    "criteria": {
-      "has_item": "2025-05-16 23:23:02 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2025-05-17 00:08:20 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray_double": {
-    "criteria": {
-      "has_alt_item": "2025-05-16 23:15:41 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/cosmetic_tiny_potato_mask": {
     "criteria": {
       "has_item": "2025-05-16 23:31:49 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/boss": {
-    "criteria": {
-      "sword": "2025-05-17 00:11:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/invisibility_cloak": {
-    "criteria": {
-      "has_item": "2025-05-16 23:41:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
-    },
-    "done": true
-  },
-  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_dark_r": {
-    "criteria": {
-      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
     },
     "done": true
   },
@@ -15567,21 +15120,468 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "botania:recipes/decorations/terra_plate": {
     "criteria": {
-      "bastion": "2025-05-16 23:53:10 +0000"
+      "has_item": "2025-05-16 23:39:50 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/divining_rod": {
+  "mythicbotany:mythicbotany/all_runes": {
     "criteria": {
-      "has_item": "2025-05-16 23:20:03 +0000"
+      "inventory_changed14": "2025-05-16 23:39:50 +0000",
+      "inventory_changed5": "2025-05-16 23:39:56 +0000",
+      "inventory_changed9": "2025-05-16 23:44:40 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/tools/cobble_rod": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:39:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_rod": {
+    "criteria": {
+      "has_item": "2025-05-16 23:39:50 +0000"
     },
     "done": true
   },
   "botania:main/rune_pickup": {
     "criteria": {
       "rune": "2025-05-16 23:39:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/smelt_rod": {
+    "criteria": {
+      "has_item": "2025-05-16 23:39:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/fire_rod": {
+    "criteria": {
+      "has_item": "2025-05-16 23:39:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/aura_ring": {
+    "criteria": {
+      "has_item": "2025-05-16 23:44:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_item": "2025-05-16 23:44:40 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/misc/advanced_collector": {
+    "criteria": {
+      "recipe_condition": "2025-05-16 23:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-16 23:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-16 23:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-16 23:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-17 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-17 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-05-17 00:04:50 +0000"
+    },
+    "done": false
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_green_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_dark": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_red": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/golden_nether_banana": {
+    "criteria": {
+      "has_item": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_light": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/glittery_dust": {
+    "criteria": {
+      "has_item": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_blue": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_green": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2025-05-17 00:04:52 +0000",
+      "sapling": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_red_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_blue_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_light_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/gilded_blackstone_dark_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-05-17 00:04:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-17 00:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-17 00:05:42 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_dark": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_blue_r": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_light": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_light_r": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_green_r": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_dark_r": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_blue": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_red_r": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_red": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/crying_obsidian_green": {
+    "criteria": {
+      "has_crying_obsidian": "2025-05-17 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-17 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-05-17 00:08:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-05-17 00:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-17 00:08:30 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/bone_block_1x": {
+    "criteria": {
+      "has_bone_block": "2025-05-17 00:08:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-05-17 00:11:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-17 00:11:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-17 00:18:23 +0000"
     },
     "done": true
   },
