@@ -3389,3 +3389,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [16May2025 23:47:58.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <XFetch> holas
 [16May2025 23:49:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX has made the advancement [HAMMAH!]
 [16May2025 23:53:10.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XFetch has made the advancement [Those Were the Days]
+[16May2025 23:57:01.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DStevenTy has made the advancement [Electric Magic]
+[16May2025 23:58:35.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BURPIX lost connection: Disconnected
+[16May2025 23:58:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BURPIX left the game

@@ -12429,7 +12429,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-14 00:53:34 +0000"
+      "minecraft:crimson_forest": "2025-05-14 00:53:34 +0000",
+      "minecraft:nether_wastes": "2025-05-16 23:50:35 +0000"
     },
     "done": false
   },
@@ -14593,6 +14594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_sword": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
@@ -14650,6 +14657,12 @@
   "botania:recipes/decorations/floating_endoflame": {
     "criteria": {
       "has_item": "2025-05-16 23:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-16 23:59:11 +0000"
     },
     "done": true
   },
@@ -14769,6 +14782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-05-16 23:23:02 +0000"
@@ -14790,6 +14809,12 @@
   "botania:recipes/misc/cosmetic_red_ribbons": {
     "criteria": {
       "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
     },
     "done": true
   },
@@ -14841,6 +14866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/brown_petal_block": {
     "criteria": {
       "has_item": "2025-05-16 23:15:44 +0000"
@@ -14883,9 +14914,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
       "has_item": "2025-05-16 23:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
     },
     "done": true
   },
@@ -14970,6 +15013,18 @@
   "botania:recipes/misc/cosmetic_cat_ears": {
     "criteria": {
       "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
     },
     "done": true
   },
@@ -15090,6 +15145,12 @@
   "botania:recipes/misc/manaweave_cloth": {
     "criteria": {
       "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-16 23:59:11 +0000"
     },
     "done": true
   },
@@ -15219,9 +15280,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-16 23:53:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_wicked_eyepatch": {
     "criteria": {
       "has_item": "2025-05-16 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-16 23:53:10 +0000"
     },
     "done": true
   },
